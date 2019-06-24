@@ -1,0 +1,810 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+	<head>
+		<title>测试-内容大纲</title>
+	</head>
+	<body>
+		<outline text="面试定位" _mubu_text="%E9%9D%A2%E8%AF%95%E5%AE%9A%E4%BD%8D">
+		<outline text="面试题收集" _mubu_text="%E9%9D%A2%E8%AF%95%E9%A2%98%E6%94%B6%E9%9B%86">
+		<outline text="概念和基础" _mubu_text="%E6%A6%82%E5%BF%B5%E5%92%8C%E5%9F%BA%E7%A1%80">
+		<outline text="项目" _mubu_text="%E9%A1%B9%E7%9B%AE">
+		<outline text="A1软件的生命周期（prdctrm）?" _mubu_text="A1%E8%BD%AF%E4%BB%B6%E7%9A%84%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F%EF%BC%88prdctrm%EF%BC%89?">
+		</outline>
+		<outline text="A2你在测试中发现了一个bug，但是开发经理认为这不是一个bug，你应该怎样解决？" _mubu_text="A2%E4%BD%A0%E5%9C%A8%E6%B5%8B%E8%AF%95%E4%B8%AD%E5%8F%91%E7%8E%B0%E4%BA%86%E4%B8%80%E4%B8%AAbug%EF%BC%8C%E4%BD%86%E6%98%AF%E5%BC%80%E5%8F%91%E7%BB%8F%E7%90%86%E8%AE%A4%E4%B8%BA%E8%BF%99%E4%B8%8D%E6%98%AF%E4%B8%80%E4%B8%AAbug%EF%BC%8C%E4%BD%A0%E5%BA%94%E8%AF%A5%E6%80%8E%E6%A0%B7%E8%A7%A3%E5%86%B3%EF%BC%9F">
+		</outline>
+		<outline text="A3给你一个网站，你如何测试？" _mubu_text="A3%E7%BB%99%E4%BD%A0%E4%B8%80%E4%B8%AA%E7%BD%91%E7%AB%99%EF%BC%8C%E4%BD%A0%E5%A6%82%E4%BD%95%E6%B5%8B%E8%AF%95%EF%BC%9F">
+		</outline>
+		<outline text="A4问：一台客户端有三百个客户与三百个客户端有三百个客户对服务器施压，有什么区别?" _mubu_text="A4%E9%97%AE%EF%BC%9A%E4%B8%80%E5%8F%B0%E5%AE%A2%E6%88%B7%E7%AB%AF%E6%9C%89%E4%B8%89%E7%99%BE%E4%B8%AA%E5%AE%A2%E6%88%B7%E4%B8%8E%E4%B8%89%E7%99%BE%E4%B8%AA%E5%AE%A2%E6%88%B7%E7%AB%AF%E6%9C%89%E4%B8%89%E7%99%BE%E4%B8%AA%E5%AE%A2%E6%88%B7%E5%AF%B9%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%96%BD%E5%8E%8B%EF%BC%8C%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB?">
+		</outline>
+		<outline text="A5什么是软件测试？软件测试的目的与原则 OR 根据你的经验说说你对软件测试/质量保证的理解？ " _mubu_text="A5%E4%BB%80%E4%B9%88%E6%98%AF%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%EF%BC%9F%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E7%9A%84%E7%9B%AE%E7%9A%84%E4%B8%8E%E5%8E%9F%E5%88%99%20OR%20%E6%A0%B9%E6%8D%AE%E4%BD%A0%E7%9A%84%E7%BB%8F%E9%AA%8C%E8%AF%B4%E8%AF%B4%E4%BD%A0%E5%AF%B9%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95/%E8%B4%A8%E9%87%8F%E4%BF%9D%E8%AF%81%E7%9A%84%E7%90%86%E8%A7%A3%EF%BC%9F%20">
+		</outline>
+		<outline text="A6软件产品质量特性是什么?" _mubu_text="A6%E8%BD%AF%E4%BB%B6%E4%BA%A7%E5%93%81%E8%B4%A8%E9%87%8F%E7%89%B9%E6%80%A7%E6%98%AF%E4%BB%80%E4%B9%88?">
+		</outline>
+		<outline text="A7软件测试的策略是什么?" _mubu_text="A7%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E7%9A%84%E7%AD%96%E7%95%A5%E6%98%AF%E4%BB%80%E4%B9%88?">
+		</outline>
+		<outline text="A8软件测试各个阶段通常完成什么工作？各个阶段的结果文件是什么？包括什么内容？" _mubu_text="A8%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E5%90%84%E4%B8%AA%E9%98%B6%E6%AE%B5%E9%80%9A%E5%B8%B8%E5%AE%8C%E6%88%90%E4%BB%80%E4%B9%88%E5%B7%A5%E4%BD%9C%EF%BC%9F%E5%90%84%E4%B8%AA%E9%98%B6%E6%AE%B5%E7%9A%84%E7%BB%93%E6%9E%9C%E6%96%87%E4%BB%B6%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F%E5%8C%85%E6%8B%AC%E4%BB%80%E4%B9%88%E5%86%85%E5%AE%B9%EF%BC%9F">
+		</outline>
+		<outline text="A9测试人员在软件开发过程中的任务是什么？" _mubu_text="A9%E6%B5%8B%E8%AF%95%E4%BA%BA%E5%91%98%E5%9C%A8%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E8%BF%87%E7%A8%8B%E4%B8%AD%E7%9A%84%E4%BB%BB%E5%8A%A1%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F">
+		</outline>
+		<outline text="A10什么样的项目适合做自动化测试?" _mubu_text="A10%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E9%A1%B9%E7%9B%AE%E9%80%82%E5%90%88%E5%81%9A%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95?">
+		</outline>
+		<outline text="A11_Beta测试与Alpha测试有什么区别？" _mubu_text="A11_Beta%E6%B5%8B%E8%AF%95%E4%B8%8EAlpha%E6%B5%8B%E8%AF%95%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB%EF%BC%9F">
+		</outline>
+		<outline text="A12为什么要在一个团队中开展软件测试工作？ " _mubu_text="A12%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%9C%A8%E4%B8%80%E4%B8%AA%E5%9B%A2%E9%98%9F%E4%B8%AD%E5%BC%80%E5%B1%95%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E5%B7%A5%E4%BD%9C%EF%BC%9F%20">
+		</outline>
+		</outline>
+		<outline text="用例" _mubu_text="%E7%94%A8%E4%BE%8B">
+		<outline text="B1目前主要的测试用例设计方法是什么？" _mubu_text="B1%E7%9B%AE%E5%89%8D%E4%B8%BB%E8%A6%81%E7%9A%84%E6%B5%8B%E8%AF%95%E7%94%A8%E4%BE%8B%E8%AE%BE%E8%AE%A1%E6%96%B9%E6%B3%95%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F">
+		</outline>
+		<outline text="B2软件的安全性应从哪几个方面去测试？" _mubu_text="B2%E8%BD%AF%E4%BB%B6%E7%9A%84%E5%AE%89%E5%85%A8%E6%80%A7%E5%BA%94%E4%BB%8E%E5%93%AA%E5%87%A0%E4%B8%AA%E6%96%B9%E9%9D%A2%E5%8E%BB%E6%B5%8B%E8%AF%95%EF%BC%9F">
+		</outline>
+		<outline text="B3什么是测试用例 什么是测试脚本 两者的关系是什么？" _mubu_text="B3%E4%BB%80%E4%B9%88%E6%98%AF%E6%B5%8B%E8%AF%95%E7%94%A8%E4%BE%8B%20%E4%BB%80%E4%B9%88%E6%98%AF%E6%B5%8B%E8%AF%95%E8%84%9A%E6%9C%AC%20%E4%B8%A4%E8%80%85%E7%9A%84%E5%85%B3%E7%B3%BB%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F">
+		</outline>
+		<outline text="B4简述什么是静态测试、动态测试、黑盒测试、白盒测试、α测试 β测试" _mubu_text="B4%E7%AE%80%E8%BF%B0%E4%BB%80%E4%B9%88%E6%98%AF%E9%9D%99%E6%80%81%E6%B5%8B%E8%AF%95%E3%80%81%E5%8A%A8%E6%80%81%E6%B5%8B%E8%AF%95%E3%80%81%E9%BB%91%E7%9B%92%E6%B5%8B%E8%AF%95%E3%80%81%E7%99%BD%E7%9B%92%E6%B5%8B%E8%AF%95%E3%80%81%CE%B1%E6%B5%8B%E8%AF%95%20%CE%B2%E6%B5%8B%E8%AF%95">
+		</outline>
+		<outline text="B5黑盒测试和白盒测试是软件测试的两种基本方法，请分别说明各自的优点和缺点！" _mubu_text="B5%E9%BB%91%E7%9B%92%E6%B5%8B%E8%AF%95%E5%92%8C%E7%99%BD%E7%9B%92%E6%B5%8B%E8%AF%95%E6%98%AF%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E7%9A%84%E4%B8%A4%E7%A7%8D%E5%9F%BA%E6%9C%AC%E6%96%B9%E6%B3%95%EF%BC%8C%E8%AF%B7%E5%88%86%E5%88%AB%E8%AF%B4%E6%98%8E%E5%90%84%E8%87%AA%E7%9A%84%E4%BC%98%E7%82%B9%E5%92%8C%E7%BC%BA%E7%82%B9%EF%BC%81">
+		</outline>
+		<outline text="B6如何测试一个纸杯？" _mubu_text="B6%E5%A6%82%E4%BD%95%E6%B5%8B%E8%AF%95%E4%B8%80%E4%B8%AA%E7%BA%B8%E6%9D%AF%EF%BC%9F">
+		</outline>
+		<outline text="B7黑盒测试的测试用例常见设计方法都有哪些？请分别以具体的例子来说明这些方法在测试用例设计工作中的应用。" _mubu_text="B7%E9%BB%91%E7%9B%92%E6%B5%8B%E8%AF%95%E7%9A%84%E6%B5%8B%E8%AF%95%E7%94%A8%E4%BE%8B%E5%B8%B8%E8%A7%81%E8%AE%BE%E8%AE%A1%E6%96%B9%E6%B3%95%E9%83%BD%E6%9C%89%E5%93%AA%E4%BA%9B%EF%BC%9F%E8%AF%B7%E5%88%86%E5%88%AB%E4%BB%A5%E5%85%B7%E4%BD%93%E7%9A%84%E4%BE%8B%E5%AD%90%E6%9D%A5%E8%AF%B4%E6%98%8E%E8%BF%99%E4%BA%9B%E6%96%B9%E6%B3%95%E5%9C%A8%E6%B5%8B%E8%AF%95%E7%94%A8%E4%BE%8B%E8%AE%BE%E8%AE%A1%E5%B7%A5%E4%BD%9C%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8%E3%80%82">
+		</outline>
+		<outline text="B8请聊一聊APP测试点分类?" _mubu_text="B8%E8%AF%B7%E8%81%8A%E4%B8%80%E8%81%8AAPP%E6%B5%8B%E8%AF%95%E7%82%B9%E5%88%86%E7%B1%BB?">
+		</outline>
+		<outline text="B9什么是兼容型测试？兼容性测试侧重哪些方面？" _mubu_text="B9%E4%BB%80%E4%B9%88%E6%98%AF%E5%85%BC%E5%AE%B9%E5%9E%8B%E6%B5%8B%E8%AF%95%EF%BC%9F%E5%85%BC%E5%AE%B9%E6%80%A7%E6%B5%8B%E8%AF%95%E4%BE%A7%E9%87%8D%E5%93%AA%E4%BA%9B%E6%96%B9%E9%9D%A2%EF%BC%9F">
+		</outline>
+		<outline text="B10描述测试用例设计的完整过程?" _mubu_text="B10%E6%8F%8F%E8%BF%B0%E6%B5%8B%E8%AF%95%E7%94%A8%E4%BE%8B%E8%AE%BE%E8%AE%A1%E7%9A%84%E5%AE%8C%E6%95%B4%E8%BF%87%E7%A8%8B?">
+		</outline>
+		<outline text="B11软件的用例评审一般由哪些人参加？其目的是什么？" _mubu_text="B11%E8%BD%AF%E4%BB%B6%E7%9A%84%E7%94%A8%E4%BE%8B%E8%AF%84%E5%AE%A1%E4%B8%80%E8%88%AC%E7%94%B1%E5%93%AA%E4%BA%9B%E4%BA%BA%E5%8F%82%E5%8A%A0%EF%BC%9F%E5%85%B6%E7%9B%AE%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F">
+		</outline>
+		<outline text="B12你认为做好测试用例工作的关键是什么？" _mubu_text="B12%E4%BD%A0%E8%AE%A4%E4%B8%BA%E5%81%9A%E5%A5%BD%E6%B5%8B%E8%AF%95%E7%94%A8%E4%BE%8B%E5%B7%A5%E4%BD%9C%E7%9A%84%E5%85%B3%E9%94%AE%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F">
+		</outline>
+		<outline text="B13软件的安全性应从哪几个方面去测试？" _mubu_text="B13%E8%BD%AF%E4%BB%B6%E7%9A%84%E5%AE%89%E5%85%A8%E6%80%A7%E5%BA%94%E4%BB%8E%E5%93%AA%E5%87%A0%E4%B8%AA%E6%96%B9%E9%9D%A2%E5%8E%BB%E6%B5%8B%E8%AF%95%EF%BC%9F">
+		</outline>
+		<outline text="B14您认为做好测试用例设计工作的关键是什么？ " _mubu_text="B14%E6%82%A8%E8%AE%A4%E4%B8%BA%E5%81%9A%E5%A5%BD%E6%B5%8B%E8%AF%95%E7%94%A8%E4%BE%8B%E8%AE%BE%E8%AE%A1%E5%B7%A5%E4%BD%9C%E7%9A%84%E5%85%B3%E9%94%AE%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F%20">
+		</outline>
+		</outline>
+		<outline text="记录以及优先级" _mubu_text="%E8%AE%B0%E5%BD%95%E4%BB%A5%E5%8F%8A%E4%BC%98%E5%85%88%E7%BA%A7">
+		<outline text="C1在您以往的工作中，一条软件缺陷（或者叫Bug）记录都包含了哪些内容？如何提交高质量的软件缺陷（Bug）记录？" _mubu_text="C1%E5%9C%A8%E6%82%A8%E4%BB%A5%E5%BE%80%E7%9A%84%E5%B7%A5%E4%BD%9C%E4%B8%AD%EF%BC%8C%E4%B8%80%E6%9D%A1%E8%BD%AF%E4%BB%B6%E7%BC%BA%E9%99%B7%EF%BC%88%E6%88%96%E8%80%85%E5%8F%ABBug%EF%BC%89%E8%AE%B0%E5%BD%95%E9%83%BD%E5%8C%85%E5%90%AB%E4%BA%86%E5%93%AA%E4%BA%9B%E5%86%85%E5%AE%B9%EF%BC%9F%E5%A6%82%E4%BD%95%E6%8F%90%E4%BA%A4%E9%AB%98%E8%B4%A8%E9%87%8F%E7%9A%84%E8%BD%AF%E4%BB%B6%E7%BC%BA%E9%99%B7%EF%BC%88Bug%EF%BC%89%E8%AE%B0%E5%BD%95%EF%BC%9F">
+		</outline>
+		<outline text="C2测试活动中，如果发现需求文档不完善或者不准确，怎么处理？" _mubu_text="C2%E6%B5%8B%E8%AF%95%E6%B4%BB%E5%8A%A8%E4%B8%AD%EF%BC%8C%E5%A6%82%E6%9E%9C%E5%8F%91%E7%8E%B0%E9%9C%80%E6%B1%82%E6%96%87%E6%A1%A3%E4%B8%8D%E5%AE%8C%E5%96%84%E6%88%96%E8%80%85%E4%B8%8D%E5%87%86%E7%A1%AE%EF%BC%8C%E6%80%8E%E4%B9%88%E5%A4%84%E7%90%86%EF%BC%9F">
+		</outline>
+		<outline text="C3简述一下缺陷bug的生命周期？" _mubu_text="C3%E7%AE%80%E8%BF%B0%E4%B8%80%E4%B8%8B%E7%BC%BA%E9%99%B7bug%E7%9A%84%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F%EF%BC%9F">
+		</outline>
+		<outline text="C4当开发人员说不是BUG时，你如何应付？ " _mubu_text="C4%E5%BD%93%E5%BC%80%E5%8F%91%E4%BA%BA%E5%91%98%E8%AF%B4%E4%B8%8D%E6%98%AFBUG%E6%97%B6%EF%BC%8C%E4%BD%A0%E5%A6%82%E4%BD%95%E5%BA%94%E4%BB%98%EF%BC%9F%20">
+		</outline>
+		</outline>
+		<outline text="回归" _mubu_text="%E5%9B%9E%E5%BD%92">
+		</outline>
+		<outline text="记录和补充" _mubu_text="%E8%AE%B0%E5%BD%95%E5%92%8C%E8%A1%A5%E5%85%85">
+		</outline>
+		</outline>
+		<outline text="拓展和阅读" _mubu_text="%E6%8B%93%E5%B1%95%E5%92%8C%E9%98%85%E8%AF%BB">
+		<outline text="http://www.itcast.cn/news/20171218/1605238978.shtml" _mubu_text="%3Ca%20class=%22content-link%22%20target=%22_blank%22%20rel=%22noreferrer%22%20href=%22http://www.itcast.cn/news/20171218/1605238978.shtml%22%3Ehttp://www.itcast.cn/news/20171218/1605238978.shtml%3C/a%3E">
+		</outline>
+		<outline text="" _mubu_text="">
+		</outline>
+		</outline>
+		<outline text="高级技能和拓展" _mubu_text="%E9%AB%98%E7%BA%A7%E6%8A%80%E8%83%BD%E5%92%8C%E6%8B%93%E5%B1%95">
+		<outline text="python脚本" _mubu_text="python%E8%84%9A%E6%9C%AC">
+		<outline text="" _mubu_text="">
+		</outline>
+		</outline>
+		<outline text="抓包工具" _mubu_text="%E6%8A%93%E5%8C%85%E5%B7%A5%E5%85%B7">
+		<outline text="charles" _mubu_text="charles">
+		</outline>
+		</outline>
+		<outline text="sql" _mubu_text="sql">
+		<outline text="https://blog.csdn.net/hou_miao/article/details/78854470" _mubu_text="%3Ca%20class=%22content-link%22%20target=%22_blank%22%20rel=%22noreferrer%22%20href=%22https://blog.csdn.net/hou_miao/article/details/78854470%22%3Ehttps://blog.csdn.net/hou_miao/article/details/78854470%3C/a%3E">
+		</outline>
+		<outline text="https://blog.csdn.net/qq_15630913/article/details/79308943" _mubu_text="%3Ca%20class=%22content-link%22%20target=%22_blank%22%20rel=%22noreferrer%22%20href=%22https://blog.csdn.net/qq_15630913/article/details/79308943%22%3Ehttps://blog.csdn.net/qq_15630913/article/details/79308943%3C/a%3E">
+		</outline>
+		<outline text="https://blog.csdn.net/u012467492/article/details/46790205" _mubu_text="%3Ca%20class=%22content-link%22%20target=%22_blank%22%20rel=%22noreferrer%22%20href=%22https://blog.csdn.net/u012467492/article/details/46790205%22%3Ehttps://blog.csdn.net/u012467492/article/details/46790205%3C/a%3E">
+		</outline>
+		<outline text="https://blog.csdn.net/qq_39419111/article/details/81024916" _mubu_text="%3Ca%20class=%22content-link%22%20target=%22_blank%22%20rel=%22noreferrer%22%20href=%22https://blog.csdn.net/qq_39419111/article/details/81024916%22%3Ehttps://blog.csdn.net/qq_39419111/article/details/81024916%3C/a%3E">
+		</outline>
+		<outline text="https://blog.csdn.net/qq_39009661/article/details/85037159" _mubu_text="%3Ca%20class=%22content-link%22%20target=%22_blank%22%20rel=%22noreferrer%22%20href=%22https://blog.csdn.net/qq_39009661/article/details/85037159%22%3Ehttps://blog.csdn.net/qq_39009661/article/details/85037159%3C/a%3E">
+		</outline>
+		</outline>
+		<outline text="http" _mubu_text="http">
+		</outline>
+		</outline>
+		</outline>
+		<outline text="面试题的答案" _mubu_text="%E9%9D%A2%E8%AF%95%E9%A2%98%E7%9A%84%E7%AD%94%E6%A1%88">
+		<outline text="理论答案" _mubu_text="%E7%90%86%E8%AE%BA%E7%AD%94%E6%A1%88">
+		<outline text="A1" _mubu_text="A1">
+		<outline text="计划阶段（planning）-〉需求分析（requirement）-〉设计阶段（design）-〉编码（coding）->测试（testing）->运行与维护（running maintrnacne）" _mubu_text="%E8%AE%A1%E5%88%92%E9%98%B6%E6%AE%B5%EF%BC%88planning%EF%BC%89-%E3%80%89%E9%9C%80%E6%B1%82%E5%88%86%E6%9E%90%EF%BC%88requirement%EF%BC%89-%E3%80%89%E8%AE%BE%E8%AE%A1%E9%98%B6%E6%AE%B5%EF%BC%88design%EF%BC%89-%E3%80%89%E7%BC%96%E7%A0%81%EF%BC%88coding%EF%BC%89-&amp;gt;%E6%B5%8B%E8%AF%95%EF%BC%88testing%EF%BC%89-&amp;gt;%E8%BF%90%E8%A1%8C%E4%B8%8E%E7%BB%B4%E6%8A%A4%EF%BC%88running%20maintrnacne%EF%BC%89">
+		<outline text="" _mubu_text="" _images="%5B%7B%22id%22%3A%2229e16b8791863403b-2275576%22%2C%22uri%22%3A%22document_image%2F434b2474-803b-48ad-8ed1-05ecb7909761-2275576.jpg%22%2C%22ow%22%3A1163%2C%22oh%22%3A847%7D%5D">
+		</outline>
+		</outline>
+		</outline>
+		<outline text="A2" _mubu_text="A2">
+		<outline text="首先，将问题提交到缺陷管理库里面进行备案。" _mubu_text="%E9%A6%96%E5%85%88%EF%BC%8C%E5%B0%86%E9%97%AE%E9%A2%98%E6%8F%90%E4%BA%A4%E5%88%B0%E7%BC%BA%E9%99%B7%E7%AE%A1%E7%90%86%E5%BA%93%E9%87%8C%E9%9D%A2%E8%BF%9B%E8%A1%8C%E5%A4%87%E6%A1%88%E3%80%82">
+		</outline>
+		<outline text="然后，要获取判断的依据和标准：根据需求说明书、产品说明、原型图、设计文档等，确认实际结果" _mubu_text="%E7%84%B6%E5%90%8E%EF%BC%8C%E8%A6%81%E8%8E%B7%E5%8F%96%E5%88%A4%E6%96%AD%E7%9A%84%E4%BE%9D%E6%8D%AE%E5%92%8C%E6%A0%87%E5%87%86%EF%BC%9A%E6%A0%B9%E6%8D%AE%E9%9C%80%E6%B1%82%E8%AF%B4%E6%98%8E%E4%B9%A6%E3%80%81%E4%BA%A7%E5%93%81%E8%AF%B4%E6%98%8E%E3%80%81%E5%8E%9F%E5%9E%8B%E5%9B%BE%E3%80%81%E8%AE%BE%E8%AE%A1%E6%96%87%E6%A1%A3%E7%AD%89%EF%BC%8C%E7%A1%AE%E8%AE%A4%E5%AE%9E%E9%99%85%E7%BB%93%E6%9E%9C">
+		</outline>
+		<outline text="是否与计划有不一致的地方，提供缺陷是否确认的直接依据；" _mubu_text="%E6%98%AF%E5%90%A6%E4%B8%8E%E8%AE%A1%E5%88%92%E6%9C%89%E4%B8%8D%E4%B8%80%E8%87%B4%E7%9A%84%E5%9C%B0%E6%96%B9%EF%BC%8C%E6%8F%90%E4%BE%9B%E7%BC%BA%E9%99%B7%E6%98%AF%E5%90%A6%E7%A1%AE%E8%AE%A4%E7%9A%84%E7%9B%B4%E6%8E%A5%E4%BE%9D%E6%8D%AE%EF%BC%9B">
+		</outline>
+		<outline text="如果没有文档依据，" _mubu_text="%E5%A6%82%E6%9E%9C%E6%B2%A1%E6%9C%89%E6%96%87%E6%A1%A3%E4%BE%9D%E6%8D%AE%EF%BC%8C">
+		</outline>
+		<outline text="1）可以根据同行或类似软件的一般特性来说明是否存在不一致的地方，来确认是否是缺陷；" _mubu_text="1%EF%BC%89%E5%8F%AF%E4%BB%A5%E6%A0%B9%E6%8D%AE%E5%90%8C%E8%A1%8C%E6%88%96%E7%B1%BB%E4%BC%BC%E8%BD%AF%E4%BB%B6%E7%9A%84%E4%B8%80%E8%88%AC%E7%89%B9%E6%80%A7%E6%9D%A5%E8%AF%B4%E6%98%8E%E6%98%AF%E5%90%A6%E5%AD%98%E5%9C%A8%E4%B8%8D%E4%B8%80%E8%87%B4%E7%9A%84%E5%9C%B0%E6%96%B9%EF%BC%8C%E6%9D%A5%E7%A1%AE%E8%AE%A4%E6%98%AF%E5%90%A6%E6%98%AF%E7%BC%BA%E9%99%B7%EF%BC%9B">
+		</outline>
+		<outline text="2）根据用户的一般使用习惯，来确认是否是缺陷；" _mubu_text="2%EF%BC%89%E6%A0%B9%E6%8D%AE%E7%94%A8%E6%88%B7%E7%9A%84%E4%B8%80%E8%88%AC%E4%BD%BF%E7%94%A8%E4%B9%A0%E6%83%AF%EF%BC%8C%E6%9D%A5%E7%A1%AE%E8%AE%A4%E6%98%AF%E5%90%A6%E6%98%AF%E7%BC%BA%E9%99%B7%EF%BC%9B">
+		</outline>
+		<outline text="3）与设计人员、开发人员和客户代表等相关人员探讨，确认是否是缺陷；" _mubu_text="3%EF%BC%89%E4%B8%8E%E8%AE%BE%E8%AE%A1%E4%BA%BA%E5%91%98%E3%80%81%E5%BC%80%E5%8F%91%E4%BA%BA%E5%91%98%E5%92%8C%E5%AE%A2%E6%88%B7%E4%BB%A3%E8%A1%A8%E7%AD%89%E7%9B%B8%E5%85%B3%E4%BA%BA%E5%91%98%E6%8E%A2%E8%AE%A8%EF%BC%8C%E7%A1%AE%E8%AE%A4%E6%98%AF%E5%90%A6%E6%98%AF%E7%BC%BA%E9%99%B7%EF%BC%9B">
+		</outline>
+		<outline text="合理的论述，向测试经理说明自己的判断的理由，等待测试经理做出最终决定，如果仍然存在争议，可以通过公司政策所提供的渠道，向上级反映，并有上级做出决定。" _mubu_text="%E5%90%88%E7%90%86%E7%9A%84%E8%AE%BA%E8%BF%B0%EF%BC%8C%E5%90%91%E6%B5%8B%E8%AF%95%E7%BB%8F%E7%90%86%E8%AF%B4%E6%98%8E%E8%87%AA%E5%B7%B1%E7%9A%84%E5%88%A4%E6%96%AD%E7%9A%84%E7%90%86%E7%94%B1%EF%BC%8C%E7%AD%89%E5%BE%85%E6%B5%8B%E8%AF%95%E7%BB%8F%E7%90%86%E5%81%9A%E5%87%BA%E6%9C%80%E7%BB%88%E5%86%B3%E5%AE%9A%EF%BC%8C%E5%A6%82%E6%9E%9C%E4%BB%8D%E7%84%B6%E5%AD%98%E5%9C%A8%E4%BA%89%E8%AE%AE%EF%BC%8C%E5%8F%AF%E4%BB%A5%E9%80%9A%E8%BF%87%E5%85%AC%E5%8F%B8%E6%94%BF%E7%AD%96%E6%89%80%E6%8F%90%E4%BE%9B%E7%9A%84%E6%B8%A0%E9%81%93%EF%BC%8C%E5%90%91%E4%B8%8A%E7%BA%A7%E5%8F%8D%E6%98%A0%EF%BC%8C%E5%B9%B6%E6%9C%89%E4%B8%8A%E7%BA%A7%E5%81%9A%E5%87%BA%E5%86%B3%E5%AE%9A%E3%80%82">
+		</outline>
+		</outline>
+		<outline text="A3" _mubu_text="A3">
+		<outline text="首先，查找需求说明、网站设计等相关文档，分析测试需求。" _mubu_text="%E9%A6%96%E5%85%88%EF%BC%8C%E6%9F%A5%E6%89%BE%E9%9C%80%E6%B1%82%E8%AF%B4%E6%98%8E%E3%80%81%E7%BD%91%E7%AB%99%E8%AE%BE%E8%AE%A1%E7%AD%89%E7%9B%B8%E5%85%B3%E6%96%87%E6%A1%A3%EF%BC%8C%E5%88%86%E6%9E%90%E6%B5%8B%E8%AF%95%E9%9C%80%E6%B1%82%E3%80%82">
+		</outline>
+		<outline text="制定测试计划，确定测试范围和测试策略，一般包括以下几个部分：功能性测试；界面测试；性" _mubu_text="%E5%88%B6%E5%AE%9A%E6%B5%8B%E8%AF%95%E8%AE%A1%E5%88%92%EF%BC%8C%E7%A1%AE%E5%AE%9A%E6%B5%8B%E8%AF%95%E8%8C%83%E5%9B%B4%E5%92%8C%E6%B5%8B%E8%AF%95%E7%AD%96%E7%95%A5%EF%BC%8C%E4%B8%80%E8%88%AC%E5%8C%85%E6%8B%AC%E4%BB%A5%E4%B8%8B%E5%87%A0%E4%B8%AA%E9%83%A8%E5%88%86%EF%BC%9A%E5%8A%9F%E8%83%BD%E6%80%A7%E6%B5%8B%E8%AF%95%EF%BC%9B%E7%95%8C%E9%9D%A2%E6%B5%8B%E8%AF%95%EF%BC%9B%E6%80%A7">
+		</outline>
+		<outline text="能测试；数据库测试；安全性测试；兼容性测试" _mubu_text="%E8%83%BD%E6%B5%8B%E8%AF%95%EF%BC%9B%E6%95%B0%E6%8D%AE%E5%BA%93%E6%B5%8B%E8%AF%95%EF%BC%9B%E5%AE%89%E5%85%A8%E6%80%A7%E6%B5%8B%E8%AF%95%EF%BC%9B%E5%85%BC%E5%AE%B9%E6%80%A7%E6%B5%8B%E8%AF%95">
+		</outline>
+		<outline text="设计测试用例：" _mubu_text="%E8%AE%BE%E8%AE%A1%E6%B5%8B%E8%AF%95%E7%94%A8%E4%BE%8B%EF%BC%9A">
+		</outline>
+		<outline text="功能性测试可以包括，但不限于以下几个方面：" _mubu_text="%E5%8A%9F%E8%83%BD%E6%80%A7%E6%B5%8B%E8%AF%95%E5%8F%AF%E4%BB%A5%E5%8C%85%E6%8B%AC%EF%BC%8C%E4%BD%86%E4%B8%8D%E9%99%90%E4%BA%8E%E4%BB%A5%E4%B8%8B%E5%87%A0%E4%B8%AA%E6%96%B9%E9%9D%A2%EF%BC%9A">
+		</outline>
+		<outline text="链接测试。链接是否正确跳转，是否存在空页面和无效页面，是否有不正确的出错信息返回。" _mubu_text="%E9%93%BE%E6%8E%A5%E6%B5%8B%E8%AF%95%E3%80%82%E9%93%BE%E6%8E%A5%E6%98%AF%E5%90%A6%E6%AD%A3%E7%A1%AE%E8%B7%B3%E8%BD%AC%EF%BC%8C%E6%98%AF%E5%90%A6%E5%AD%98%E5%9C%A8%E7%A9%BA%E9%A1%B5%E9%9D%A2%E5%92%8C%E6%97%A0%E6%95%88%E9%A1%B5%E9%9D%A2%EF%BC%8C%E6%98%AF%E5%90%A6%E6%9C%89%E4%B8%8D%E6%AD%A3%E7%A1%AE%E7%9A%84%E5%87%BA%E9%94%99%E4%BF%A1%E6%81%AF%E8%BF%94%E5%9B%9E%E3%80%82">
+		</outline>
+		<outline text="提交功能的测试。" _mubu_text="%E6%8F%90%E4%BA%A4%E5%8A%9F%E8%83%BD%E7%9A%84%E6%B5%8B%E8%AF%95%E3%80%82">
+		</outline>
+		<outline text="多媒体元素是否可以正确加载和显示。" _mubu_text="%E5%A4%9A%E5%AA%92%E4%BD%93%E5%85%83%E7%B4%A0%E6%98%AF%E5%90%A6%E5%8F%AF%E4%BB%A5%E6%AD%A3%E7%A1%AE%E5%8A%A0%E8%BD%BD%E5%92%8C%E6%98%BE%E7%A4%BA%E3%80%82">
+		</outline>
+		<outline text="多语言支持是否能够正确显示选择的语言等。" _mubu_text="%E5%A4%9A%E8%AF%AD%E8%A8%80%E6%94%AF%E6%8C%81%E6%98%AF%E5%90%A6%E8%83%BD%E5%A4%9F%E6%AD%A3%E7%A1%AE%E6%98%BE%E7%A4%BA%E9%80%89%E6%8B%A9%E7%9A%84%E8%AF%AD%E8%A8%80%E7%AD%89%E3%80%82">
+		</outline>
+		<outline text="界面测试可以包括但不限于一下几个方面：" _mubu_text="%E7%95%8C%E9%9D%A2%E6%B5%8B%E8%AF%95%E5%8F%AF%E4%BB%A5%E5%8C%85%E6%8B%AC%E4%BD%86%E4%B8%8D%E9%99%90%E4%BA%8E%E4%B8%80%E4%B8%8B%E5%87%A0%E4%B8%AA%E6%96%B9%E9%9D%A2%EF%BC%9A">
+		</outline>
+		<outline text="页面是否风格统一，美观" _mubu_text="%E9%A1%B5%E9%9D%A2%E6%98%AF%E5%90%A6%E9%A3%8E%E6%A0%BC%E7%BB%9F%E4%B8%80%EF%BC%8C%E7%BE%8E%E8%A7%82">
+		</outline>
+		<outline text="页面布局是否合理，重点内容和热点内容是否突出" _mubu_text="%E9%A1%B5%E9%9D%A2%E5%B8%83%E5%B1%80%E6%98%AF%E5%90%A6%E5%90%88%E7%90%86%EF%BC%8C%E9%87%8D%E7%82%B9%E5%86%85%E5%AE%B9%E5%92%8C%E7%83%AD%E7%82%B9%E5%86%85%E5%AE%B9%E6%98%AF%E5%90%A6%E7%AA%81%E5%87%BA">
+		</outline>
+		<outline text="控件是否正常使用" _mubu_text="%E6%8E%A7%E4%BB%B6%E6%98%AF%E5%90%A6%E6%AD%A3%E5%B8%B8%E4%BD%BF%E7%94%A8">
+		</outline>
+		<outline text="对于必须但未安装的控件，是否提供自动下载并安装的功能" _mubu_text="%E5%AF%B9%E4%BA%8E%E5%BF%85%E9%A1%BB%E4%BD%86%E6%9C%AA%E5%AE%89%E8%A3%85%E7%9A%84%E6%8E%A7%E4%BB%B6%EF%BC%8C%E6%98%AF%E5%90%A6%E6%8F%90%E4%BE%9B%E8%87%AA%E5%8A%A8%E4%B8%8B%E8%BD%BD%E5%B9%B6%E5%AE%89%E8%A3%85%E7%9A%84%E5%8A%9F%E8%83%BD">
+		</outline>
+		<outline text="文字检查" _mubu_text="%E6%96%87%E5%AD%97%E6%A3%80%E6%9F%A5">
+		</outline>
+		<outline text="性能测试一般从以下两个方面考虑：" _mubu_text="%E6%80%A7%E8%83%BD%E6%B5%8B%E8%AF%95%E4%B8%80%E8%88%AC%E4%BB%8E%E4%BB%A5%E4%B8%8B%E4%B8%A4%E4%B8%AA%E6%96%B9%E9%9D%A2%E8%80%83%E8%99%91%EF%BC%9A">
+		</outline>
+		<outline text="压力测试；负载测试；强度测试" _mubu_text="%E5%8E%8B%E5%8A%9B%E6%B5%8B%E8%AF%95%EF%BC%9B%E8%B4%9F%E8%BD%BD%E6%B5%8B%E8%AF%95%EF%BC%9B%E5%BC%BA%E5%BA%A6%E6%B5%8B%E8%AF%95">
+		</outline>
+		<outline text="数据库测试要具体决定是否需要开展。数据库一般需要考虑连结性，对数据的存取操作，数据内" _mubu_text="%E6%95%B0%E6%8D%AE%E5%BA%93%E6%B5%8B%E8%AF%95%E8%A6%81%E5%85%B7%E4%BD%93%E5%86%B3%E5%AE%9A%E6%98%AF%E5%90%A6%E9%9C%80%E8%A6%81%E5%BC%80%E5%B1%95%E3%80%82%E6%95%B0%E6%8D%AE%E5%BA%93%E4%B8%80%E8%88%AC%E9%9C%80%E8%A6%81%E8%80%83%E8%99%91%E8%BF%9E%E7%BB%93%E6%80%A7%EF%BC%8C%E5%AF%B9%E6%95%B0%E6%8D%AE%E7%9A%84%E5%AD%98%E5%8F%96%E6%93%8D%E4%BD%9C%EF%BC%8C%E6%95%B0%E6%8D%AE%E5%86%85">
+		</outline>
+		<outline text="容的验证等方面。" _mubu_text="%E5%AE%B9%E7%9A%84%E9%AA%8C%E8%AF%81%E7%AD%89%E6%96%B9%E9%9D%A2%E3%80%82">
+		</outline>
+		<outline text="安全性测试：" _mubu_text="%E5%AE%89%E5%85%A8%E6%80%A7%E6%B5%8B%E8%AF%95%EF%BC%9A">
+		</outline>
+		<outline text="基本的登录功能的检查" _mubu_text="%E5%9F%BA%E6%9C%AC%E7%9A%84%E7%99%BB%E5%BD%95%E5%8A%9F%E8%83%BD%E7%9A%84%E6%A3%80%E6%9F%A5">
+		</outline>
+		<outline text="是否存在溢出错误，导致系统崩溃或者权限泄露" _mubu_text="%E6%98%AF%E5%90%A6%E5%AD%98%E5%9C%A8%E6%BA%A2%E5%87%BA%E9%94%99%E8%AF%AF%EF%BC%8C%E5%AF%BC%E8%87%B4%E7%B3%BB%E7%BB%9F%E5%B4%A9%E6%BA%83%E6%88%96%E8%80%85%E6%9D%83%E9%99%90%E6%B3%84%E9%9C%B2">
+		</outline>
+		<outline text="相关开发语言的常见安全性问题检查，例如SQL注入等" _mubu_text="%E7%9B%B8%E5%85%B3%E5%BC%80%E5%8F%91%E8%AF%AD%E8%A8%80%E7%9A%84%E5%B8%B8%E8%A7%81%E5%AE%89%E5%85%A8%E6%80%A7%E9%97%AE%E9%A2%98%E6%A3%80%E6%9F%A5%EF%BC%8C%E4%BE%8B%E5%A6%82SQL%E6%B3%A8%E5%85%A5%E7%AD%89">
+		</outline>
+		<outline text="如果需要高级的安全性测试，确定获得专业安全公司的帮助，外包测试，或者获取支持" _mubu_text="%E5%A6%82%E6%9E%9C%E9%9C%80%E8%A6%81%E9%AB%98%E7%BA%A7%E7%9A%84%E5%AE%89%E5%85%A8%E6%80%A7%E6%B5%8B%E8%AF%95%EF%BC%8C%E7%A1%AE%E5%AE%9A%E8%8E%B7%E5%BE%97%E4%B8%93%E4%B8%9A%E5%AE%89%E5%85%A8%E5%85%AC%E5%8F%B8%E7%9A%84%E5%B8%AE%E5%8A%A9%EF%BC%8C%E5%A4%96%E5%8C%85%E6%B5%8B%E8%AF%95%EF%BC%8C%E6%88%96%E8%80%85%E8%8E%B7%E5%8F%96%E6%94%AF%E6%8C%81">
+		</outline>
+		<outline text="兼容性测试，根据需求说明的内容，确定支持的平台组合：" _mubu_text="%E5%85%BC%E5%AE%B9%E6%80%A7%E6%B5%8B%E8%AF%95%EF%BC%8C%E6%A0%B9%E6%8D%AE%E9%9C%80%E6%B1%82%E8%AF%B4%E6%98%8E%E7%9A%84%E5%86%85%E5%AE%B9%EF%BC%8C%E7%A1%AE%E5%AE%9A%E6%94%AF%E6%8C%81%E7%9A%84%E5%B9%B3%E5%8F%B0%E7%BB%84%E5%90%88%EF%BC%9A">
+		</outline>
+		<outline text="浏览器的兼容性；" _mubu_text="%E6%B5%8F%E8%A7%88%E5%99%A8%E7%9A%84%E5%85%BC%E5%AE%B9%E6%80%A7%EF%BC%9B">
+		</outline>
+		<outline text="操作系统的兼容性；" _mubu_text="%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E7%9A%84%E5%85%BC%E5%AE%B9%E6%80%A7%EF%BC%9B">
+		</outline>
+		<outline text="软件平台的兼容性；" _mubu_text="%E8%BD%AF%E4%BB%B6%E5%B9%B3%E5%8F%B0%E7%9A%84%E5%85%BC%E5%AE%B9%E6%80%A7%EF%BC%9B">
+		</outline>
+		<outline text="数据库的兼容性" _mubu_text="%E6%95%B0%E6%8D%AE%E5%BA%93%E7%9A%84%E5%85%BC%E5%AE%B9%E6%80%A7">
+		</outline>
+		<outline text="开展测试，并记录缺陷。合理的安排调整测试进度，提前获取测试所需的资源，建立管理体系（" _mubu_text="%E5%BC%80%E5%B1%95%E6%B5%8B%E8%AF%95%EF%BC%8C%E5%B9%B6%E8%AE%B0%E5%BD%95%E7%BC%BA%E9%99%B7%E3%80%82%E5%90%88%E7%90%86%E7%9A%84%E5%AE%89%E6%8E%92%E8%B0%83%E6%95%B4%E6%B5%8B%E8%AF%95%E8%BF%9B%E5%BA%A6%EF%BC%8C%E6%8F%90%E5%89%8D%E8%8E%B7%E5%8F%96%E6%B5%8B%E8%AF%95%E6%89%80%E9%9C%80%E7%9A%84%E8%B5%84%E6%BA%90%EF%BC%8C%E5%BB%BA%E7%AB%8B%E7%AE%A1%E7%90%86%E4%BD%93%E7%B3%BB%EF%BC%88">
+		</outline>
+		<outline text="例如，需求变更、风险、配置、测试文档、缺陷报告、人力资源等内容）。" _mubu_text="%E4%BE%8B%E5%A6%82%EF%BC%8C%E9%9C%80%E6%B1%82%E5%8F%98%E6%9B%B4%E3%80%81%E9%A3%8E%E9%99%A9%E3%80%81%E9%85%8D%E7%BD%AE%E3%80%81%E6%B5%8B%E8%AF%95%E6%96%87%E6%A1%A3%E3%80%81%E7%BC%BA%E9%99%B7%E6%8A%A5%E5%91%8A%E3%80%81%E4%BA%BA%E5%8A%9B%E8%B5%84%E6%BA%90%E7%AD%89%E5%86%85%E5%AE%B9%EF%BC%89%E3%80%82">
+		</outline>
+		<outline text="定期评审，对测试进行评估和总结，调整测试的内容。" _mubu_text="%E5%AE%9A%E6%9C%9F%E8%AF%84%E5%AE%A1%EF%BC%8C%E5%AF%B9%E6%B5%8B%E8%AF%95%E8%BF%9B%E8%A1%8C%E8%AF%84%E4%BC%B0%E5%92%8C%E6%80%BB%E7%BB%93%EF%BC%8C%E8%B0%83%E6%95%B4%E6%B5%8B%E8%AF%95%E7%9A%84%E5%86%85%E5%AE%B9%E3%80%82">
+		</outline>
+		</outline>
+		<outline text="A4" _mubu_text="A4">
+		<outline text="300个用户在一个客户端上，会占用客户机更多的资源，而影响测试的结果。" _mubu_text="300%E4%B8%AA%E7%94%A8%E6%88%B7%E5%9C%A8%E4%B8%80%E4%B8%AA%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%B8%8A%EF%BC%8C%E4%BC%9A%E5%8D%A0%E7%94%A8%E5%AE%A2%E6%88%B7%E6%9C%BA%E6%9B%B4%E5%A4%9A%E7%9A%84%E8%B5%84%E6%BA%90%EF%BC%8C%E8%80%8C%E5%BD%B1%E5%93%8D%E6%B5%8B%E8%AF%95%E7%9A%84%E7%BB%93%E6%9E%9C%E3%80%82">
+		</outline>
+		<outline text="线程之间可能发生干扰，而产生一些异常。" _mubu_text="%E7%BA%BF%E7%A8%8B%E4%B9%8B%E9%97%B4%E5%8F%AF%E8%83%BD%E5%8F%91%E7%94%9F%E5%B9%B2%E6%89%B0%EF%BC%8C%E8%80%8C%E4%BA%A7%E7%94%9F%E4%B8%80%E4%BA%9B%E5%BC%82%E5%B8%B8%E3%80%82">
+		</outline>
+		<outline text="300个用户在一个客户端上，需要更大的带宽。" _mubu_text="300%E4%B8%AA%E7%94%A8%E6%88%B7%E5%9C%A8%E4%B8%80%E4%B8%AA%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%B8%8A%EF%BC%8C%E9%9C%80%E8%A6%81%E6%9B%B4%E5%A4%A7%E7%9A%84%E5%B8%A6%E5%AE%BD%E3%80%82">
+		</outline>
+		<outline text="IP地址的问题，可能需要使用IP Spoof来绕过服务器对于单一IP地址最大连接数的限制。" _mubu_text="IP%E5%9C%B0%E5%9D%80%E7%9A%84%E9%97%AE%E9%A2%98%EF%BC%8C%E5%8F%AF%E8%83%BD%E9%9C%80%E8%A6%81%E4%BD%BF%E7%94%A8IP%20Spoof%E6%9D%A5%E7%BB%95%E8%BF%87%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%AF%B9%E4%BA%8E%E5%8D%95%E4%B8%80IP%E5%9C%B0%E5%9D%80%E6%9C%80%E5%A4%A7%E8%BF%9E%E6%8E%A5%E6%95%B0%E7%9A%84%E9%99%90%E5%88%B6%E3%80%82">
+		</outline>
+		<outline text="所有用户在一个客户端上，不必考虑分布式管理的问题；" _mubu_text="%E6%89%80%E6%9C%89%E7%94%A8%E6%88%B7%E5%9C%A8%E4%B8%80%E4%B8%AA%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%B8%8A%EF%BC%8C%E4%B8%8D%E5%BF%85%E8%80%83%E8%99%91%E5%88%86%E5%B8%83%E5%BC%8F%E7%AE%A1%E7%90%86%E7%9A%84%E9%97%AE%E9%A2%98%EF%BC%9B">
+		</outline>
+		<outline text="而用户分布在不同的客户端上，需要考虑使用控制器来整体调配不同客户机上的用户。同时，还需要给予相应的权限配置和防火墙设置。" _mubu_text="%E8%80%8C%E7%94%A8%E6%88%B7%E5%88%86%E5%B8%83%E5%9C%A8%E4%B8%8D%E5%90%8C%E7%9A%84%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%B8%8A%EF%BC%8C%E9%9C%80%E8%A6%81%E8%80%83%E8%99%91%E4%BD%BF%E7%94%A8%E6%8E%A7%E5%88%B6%E5%99%A8%E6%9D%A5%E6%95%B4%E4%BD%93%E8%B0%83%E9%85%8D%E4%B8%8D%E5%90%8C%E5%AE%A2%E6%88%B7%E6%9C%BA%E4%B8%8A%E7%9A%84%E7%94%A8%E6%88%B7%E3%80%82%E5%90%8C%E6%97%B6%EF%BC%8C%E8%BF%98%E9%9C%80%E8%A6%81%E7%BB%99%E4%BA%88%E7%9B%B8%E5%BA%94%E7%9A%84%E6%9D%83%E9%99%90%E9%85%8D%E7%BD%AE%E5%92%8C%E9%98%B2%E7%81%AB%E5%A2%99%E8%AE%BE%E7%BD%AE%E3%80%82">
+		</outline>
+		</outline>
+		<outline text="A5" _mubu_text="A5">
+		<outline text="定义：" _mubu_text="%E5%AE%9A%E4%B9%89%EF%BC%9A">
+		</outline>
+		<outline text="在规定的条件下对程序进行操作，以发现程序错误，衡量软件质量，并对其是否能满足设计要求进行评估的过程。" _mubu_text="%E5%9C%A8%E8%A7%84%E5%AE%9A%E7%9A%84%E6%9D%A1%E4%BB%B6%E4%B8%8B%E5%AF%B9%E7%A8%8B%E5%BA%8F%E8%BF%9B%E8%A1%8C%E6%93%8D%E4%BD%9C%EF%BC%8C%E4%BB%A5%E5%8F%91%E7%8E%B0%E7%A8%8B%E5%BA%8F%E9%94%99%E8%AF%AF%EF%BC%8C%E8%A1%A1%E9%87%8F%E8%BD%AF%E4%BB%B6%E8%B4%A8%E9%87%8F%EF%BC%8C%E5%B9%B6%E5%AF%B9%E5%85%B6%E6%98%AF%E5%90%A6%E8%83%BD%E6%BB%A1%E8%B6%B3%E8%AE%BE%E8%AE%A1%E8%A6%81%E6%B1%82%E8%BF%9B%E8%A1%8C%E8%AF%84%E4%BC%B0%E7%9A%84%E8%BF%87%E7%A8%8B%E3%80%82">
+		</outline>
+		<outline text="目的：" _mubu_text="%E7%9B%AE%E7%9A%84%EF%BC%9A">
+		</outline>
+		<outline text="测试是程序的执行过程，目的在于发现错误" _mubu_text="%E6%B5%8B%E8%AF%95%E6%98%AF%E7%A8%8B%E5%BA%8F%E7%9A%84%E6%89%A7%E8%A1%8C%E8%BF%87%E7%A8%8B%EF%BC%8C%E7%9B%AE%E7%9A%84%E5%9C%A8%E4%BA%8E%E5%8F%91%E7%8E%B0%E9%94%99%E8%AF%AF">
+		</outline>
+		<outline text="软件测试为了发现程序中存在的代码或业务逻辑错误" _mubu_text="%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E4%B8%BA%E4%BA%86%E5%8F%91%E7%8E%B0%E7%A8%8B%E5%BA%8F%E4%B8%AD%E5%AD%98%E5%9C%A8%E7%9A%84%E4%BB%A3%E7%A0%81%E6%88%96%E4%B8%9A%E5%8A%A1%E9%80%BB%E8%BE%91%E9%94%99%E8%AF%AF">
+		</outline>
+		<outline text="软件测试为了检验产品是否符合用户的需求" _mubu_text="%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E4%B8%BA%E4%BA%86%E6%A3%80%E9%AA%8C%E4%BA%A7%E5%93%81%E6%98%AF%E5%90%A6%E7%AC%A6%E5%90%88%E7%94%A8%E6%88%B7%E7%9A%84%E9%9C%80%E6%B1%82">
+		</outline>
+		<outline text="软件测试为了提高用户体验" _mubu_text="%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E4%B8%BA%E4%BA%86%E6%8F%90%E9%AB%98%E7%94%A8%E6%88%B7%E4%BD%93%E9%AA%8C">
+		</outline>
+		<outline text="软件测试的原则：" _mubu_text="%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E7%9A%84%E5%8E%9F%E5%88%99%EF%BC%9A">
+		</outline>
+		<outline text="测试应尽早启动、介入（需求分析阶段）" _mubu_text="%E6%B5%8B%E8%AF%95%E5%BA%94%E5%B0%BD%E6%97%A9%E5%90%AF%E5%8A%A8%E3%80%81%E4%BB%8B%E5%85%A5%EF%BC%88%E9%9C%80%E6%B1%82%E5%88%86%E6%9E%90%E9%98%B6%E6%AE%B5%EF%BC%89">
+		</outline>
+		<outline text="所有的测试应追溯到用户需求" _mubu_text="%E6%89%80%E6%9C%89%E7%9A%84%E6%B5%8B%E8%AF%95%E5%BA%94%E8%BF%BD%E6%BA%AF%E5%88%B0%E7%94%A8%E6%88%B7%E9%9C%80%E6%B1%82">
+		</outline>
+		<outline text="测试证明软件存在缺陷" _mubu_text="%E6%B5%8B%E8%AF%95%E8%AF%81%E6%98%8E%E8%BD%AF%E4%BB%B6%E5%AD%98%E5%9C%A8%E7%BC%BA%E9%99%B7">
+		</outline>
+		<outline text="不可能执行穷尽测试，完全测试是不可能的，测试需要终止。" _mubu_text="%E4%B8%8D%E5%8F%AF%E8%83%BD%E6%89%A7%E8%A1%8C%E7%A9%B7%E5%B0%BD%E6%B5%8B%E8%AF%95%EF%BC%8C%E5%AE%8C%E5%85%A8%E6%B5%8B%E8%AF%95%E6%98%AF%E4%B8%8D%E5%8F%AF%E8%83%BD%E7%9A%84%EF%BC%8C%E6%B5%8B%E8%AF%95%E9%9C%80%E8%A6%81%E7%BB%88%E6%AD%A2%E3%80%82">
+		</outline>
+		<outline text="二八原则，测试发现的错误中80%很可能的起源于20%的模块中。（缺陷存在群集现象）" _mubu_text="%E4%BA%8C%E5%85%AB%E5%8E%9F%E5%88%99%EF%BC%8C%E6%B5%8B%E8%AF%95%E5%8F%91%E7%8E%B0%E7%9A%84%E9%94%99%E8%AF%AF%E4%B8%AD80%25%E5%BE%88%E5%8F%AF%E8%83%BD%E7%9A%84%E8%B5%B7%E6%BA%90%E4%BA%8E20%25%E7%9A%84%E6%A8%A1%E5%9D%97%E4%B8%AD%E3%80%82%EF%BC%88%E7%BC%BA%E9%99%B7%E5%AD%98%E5%9C%A8%E7%BE%A4%E9%9B%86%E7%8E%B0%E8%B1%A1%EF%BC%89">
+		</outline>
+		<outline text="对错误结果要进行一个确认的过程（测试的详细数据，截图，前置条件等）" _mubu_text="%E5%AF%B9%E9%94%99%E8%AF%AF%E7%BB%93%E6%9E%9C%E8%A6%81%E8%BF%9B%E8%A1%8C%E4%B8%80%E4%B8%AA%E7%A1%AE%E8%AE%A4%E7%9A%84%E8%BF%87%E7%A8%8B%EF%BC%88%E6%B5%8B%E8%AF%95%E7%9A%84%E8%AF%A6%E7%BB%86%E6%95%B0%E6%8D%AE%EF%BC%8C%E6%88%AA%E5%9B%BE%EF%BC%8C%E5%89%8D%E7%BD%AE%E6%9D%A1%E4%BB%B6%E7%AD%89%EF%BC%89">
+		</outline>
+		<outline text="制定严格的测试计划" _mubu_text="%E5%88%B6%E5%AE%9A%E4%B8%A5%E6%A0%BC%E7%9A%84%E6%B5%8B%E8%AF%95%E8%AE%A1%E5%88%92">
+		</outline>
+		<outline text="妥善保管测试过程中的所有文档" _mubu_text="%E5%A6%A5%E5%96%84%E4%BF%9D%E7%AE%A1%E6%B5%8B%E8%AF%95%E8%BF%87%E7%A8%8B%E4%B8%AD%E7%9A%84%E6%89%80%E6%9C%89%E6%96%87%E6%A1%A3">
+		</outline>
+		<outline text="程序员尽量避免自己的检查程序" _mubu_text="%E7%A8%8B%E5%BA%8F%E5%91%98%E5%B0%BD%E9%87%8F%E9%81%BF%E5%85%8D%E8%87%AA%E5%B7%B1%E7%9A%84%E6%A3%80%E6%9F%A5%E7%A8%8B%E5%BA%8F">
+		</outline>
+		<outline text="设计测试用例是应该考虑到合法的输入和不合法的输入" _mubu_text="%E8%AE%BE%E8%AE%A1%E6%B5%8B%E8%AF%95%E7%94%A8%E4%BE%8B%E6%98%AF%E5%BA%94%E8%AF%A5%E8%80%83%E8%99%91%E5%88%B0%E5%90%88%E6%B3%95%E7%9A%84%E8%BE%93%E5%85%A5%E5%92%8C%E4%B8%8D%E5%90%88%E6%B3%95%E7%9A%84%E8%BE%93%E5%85%A5">
+		</outline>
+		</outline>
+		<outline text="A6" _mubu_text="A6">
+		<outline text="功能性：适应性、准确性、互操作性、依从性、安全性。" _mubu_text="%E5%8A%9F%E8%83%BD%E6%80%A7%EF%BC%9A%E9%80%82%E5%BA%94%E6%80%A7%E3%80%81%E5%87%86%E7%A1%AE%E6%80%A7%E3%80%81%E4%BA%92%E6%93%8D%E4%BD%9C%E6%80%A7%E3%80%81%E4%BE%9D%E4%BB%8E%E6%80%A7%E3%80%81%E5%AE%89%E5%85%A8%E6%80%A7%E3%80%82">
+		</outline>
+		<outline text="可靠性：成熟性、容错性、易恢复性。" _mubu_text="%E5%8F%AF%E9%9D%A0%E6%80%A7%EF%BC%9A%E6%88%90%E7%86%9F%E6%80%A7%E3%80%81%E5%AE%B9%E9%94%99%E6%80%A7%E3%80%81%E6%98%93%E6%81%A2%E5%A4%8D%E6%80%A7%E3%80%82">
+		</outline>
+		<outline text="可使用性：易理解性、易学习性、易操作性。" _mubu_text="%E5%8F%AF%E4%BD%BF%E7%94%A8%E6%80%A7%EF%BC%9A%E6%98%93%E7%90%86%E8%A7%A3%E6%80%A7%E3%80%81%E6%98%93%E5%AD%A6%E4%B9%A0%E6%80%A7%E3%80%81%E6%98%93%E6%93%8D%E4%BD%9C%E6%80%A7%E3%80%82">
+		</outline>
+		<outline text="效率：时间特性、资源特性。" _mubu_text="%E6%95%88%E7%8E%87%EF%BC%9A%E6%97%B6%E9%97%B4%E7%89%B9%E6%80%A7%E3%80%81%E8%B5%84%E6%BA%90%E7%89%B9%E6%80%A7%E3%80%82">
+		</outline>
+		<outline text="可维护性：易分析性、易变更性、稳定性、易测试性。" _mubu_text="%E5%8F%AF%E7%BB%B4%E6%8A%A4%E6%80%A7%EF%BC%9A%E6%98%93%E5%88%86%E6%9E%90%E6%80%A7%E3%80%81%E6%98%93%E5%8F%98%E6%9B%B4%E6%80%A7%E3%80%81%E7%A8%B3%E5%AE%9A%E6%80%A7%E3%80%81%E6%98%93%E6%B5%8B%E8%AF%95%E6%80%A7%E3%80%82">
+		</outline>
+		<outline text="可移植性： 适应性、易安装性、遵循性、易替换性" _mubu_text="%E5%8F%AF%E7%A7%BB%E6%A4%8D%E6%80%A7%EF%BC%9A%20%E9%80%82%E5%BA%94%E6%80%A7%E3%80%81%E6%98%93%E5%AE%89%E8%A3%85%E6%80%A7%E3%80%81%E9%81%B5%E5%BE%AA%E6%80%A7%E3%80%81%E6%98%93%E6%9B%BF%E6%8D%A2%E6%80%A7">
+		</outline>
+		</outline>
+		<outline text="A7" _mubu_text="A7">
+		<outline text="软件测试策略：在一定的软件测试标准、测试规范的指导下，依据测试项目的特定环境约束而规定的软件测试的原则、方式、方法的集合。" _mubu_text="%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E7%AD%96%E7%95%A5%EF%BC%9A%E5%9C%A8%E4%B8%80%E5%AE%9A%E7%9A%84%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E6%A0%87%E5%87%86%E3%80%81%E6%B5%8B%E8%AF%95%E8%A7%84%E8%8C%83%E7%9A%84%E6%8C%87%E5%AF%BC%E4%B8%8B%EF%BC%8C%E4%BE%9D%E6%8D%AE%E6%B5%8B%E8%AF%95%E9%A1%B9%E7%9B%AE%E7%9A%84%E7%89%B9%E5%AE%9A%E7%8E%AF%E5%A2%83%E7%BA%A6%E6%9D%9F%E8%80%8C%E8%A7%84%E5%AE%9A%E7%9A%84%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E7%9A%84%E5%8E%9F%E5%88%99%E3%80%81%E6%96%B9%E5%BC%8F%E3%80%81%E6%96%B9%E6%B3%95%E7%9A%84%E9%9B%86%E5%90%88%E3%80%82">
+		</outline>
+		</outline>
+		<outline text="A8" _mubu_text="A8">
+		<outline text="单元测试阶段：" _mubu_text="%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95%E9%98%B6%E6%AE%B5%EF%BC%9A">
+		</outline>
+		<outline text="各独立单元模块在与系统地其他部分相隔离的情况下进行测试，单元测试针对每一个程序模块进" _mubu_text="%E5%90%84%E7%8B%AC%E7%AB%8B%E5%8D%95%E5%85%83%E6%A8%A1%E5%9D%97%E5%9C%A8%E4%B8%8E%E7%B3%BB%E7%BB%9F%E5%9C%B0%E5%85%B6%E4%BB%96%E9%83%A8%E5%88%86%E7%9B%B8%E9%9A%94%E7%A6%BB%E7%9A%84%E6%83%85%E5%86%B5%E4%B8%8B%E8%BF%9B%E8%A1%8C%E6%B5%8B%E8%AF%95%EF%BC%8C%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95%E9%92%88%E5%AF%B9%E6%AF%8F%E4%B8%80%E4%B8%AA%E7%A8%8B%E5%BA%8F%E6%A8%A1%E5%9D%97%E8%BF%9B">
+		</outline>
+		<outline text="行正确性校验，检查各个程序模块是否正确地实现了规定的功能。生成单元测试报告，提交缺陷" _mubu_text="%E8%A1%8C%E6%AD%A3%E7%A1%AE%E6%80%A7%E6%A0%A1%E9%AA%8C%EF%BC%8C%E6%A3%80%E6%9F%A5%E5%90%84%E4%B8%AA%E7%A8%8B%E5%BA%8F%E6%A8%A1%E5%9D%97%E6%98%AF%E5%90%A6%E6%AD%A3%E7%A1%AE%E5%9C%B0%E5%AE%9E%E7%8E%B0%E4%BA%86%E8%A7%84%E5%AE%9A%E7%9A%84%E5%8A%9F%E8%83%BD%E3%80%82%E7%94%9F%E6%88%90%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95%E6%8A%A5%E5%91%8A%EF%BC%8C%E6%8F%90%E4%BA%A4%E7%BC%BA%E9%99%B7">
+		</outline>
+		<outline text="报告。" _mubu_text="%E6%8A%A5%E5%91%8A%E3%80%82">
+		</outline>
+		<outline text="集成测试阶段：" _mubu_text="%E9%9B%86%E6%88%90%E6%B5%8B%E8%AF%95%E9%98%B6%E6%AE%B5%EF%BC%9A">
+		</outline>
+		<outline text="集成测试是在单元测试的基础上，测试在将所有的软件单元按照概要设计规格说明的要求组装成" _mubu_text="%E9%9B%86%E6%88%90%E6%B5%8B%E8%AF%95%E6%98%AF%E5%9C%A8%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95%E7%9A%84%E5%9F%BA%E7%A1%80%E4%B8%8A%EF%BC%8C%E6%B5%8B%E8%AF%95%E5%9C%A8%E5%B0%86%E6%89%80%E6%9C%89%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%8D%95%E5%85%83%E6%8C%89%E7%85%A7%E6%A6%82%E8%A6%81%E8%AE%BE%E8%AE%A1%E8%A7%84%E6%A0%BC%E8%AF%B4%E6%98%8E%E7%9A%84%E8%A6%81%E6%B1%82%E7%BB%84%E8%A3%85%E6%88%90">
+		</outline>
+		<outline text="模块、子系统或系统的过程中各部分工作是否达到或实现相应技术指标及要求的活动。该阶段生" _mubu_text="%E6%A8%A1%E5%9D%97%E3%80%81%E5%AD%90%E7%B3%BB%E7%BB%9F%E6%88%96%E7%B3%BB%E7%BB%9F%E7%9A%84%E8%BF%87%E7%A8%8B%E4%B8%AD%E5%90%84%E9%83%A8%E5%88%86%E5%B7%A5%E4%BD%9C%E6%98%AF%E5%90%A6%E8%BE%BE%E5%88%B0%E6%88%96%E5%AE%9E%E7%8E%B0%E7%9B%B8%E5%BA%94%E6%8A%80%E6%9C%AF%E6%8C%87%E6%A0%87%E5%8F%8A%E8%A6%81%E6%B1%82%E7%9A%84%E6%B4%BB%E5%8A%A8%E3%80%82%E8%AF%A5%E9%98%B6%E6%AE%B5%E7%94%9F">
+		</outline>
+		<outline text="成集成测试报告，提交缺陷报告。" _mubu_text="%E6%88%90%E9%9B%86%E6%88%90%E6%B5%8B%E8%AF%95%E6%8A%A5%E5%91%8A%EF%BC%8C%E6%8F%90%E4%BA%A4%E7%BC%BA%E9%99%B7%E6%8A%A5%E5%91%8A%E3%80%82">
+		</outline>
+		<outline text="系统测试阶段：" _mubu_text="%E7%B3%BB%E7%BB%9F%E6%B5%8B%E8%AF%95%E9%98%B6%E6%AE%B5%EF%BC%9A">
+		</outline>
+		<outline text="将通过确认测试的软件，作为整个给予计算机系统的一个元素，与计算机硬件、外设、某些支持" _mubu_text="%E5%B0%86%E9%80%9A%E8%BF%87%E7%A1%AE%E8%AE%A4%E6%B5%8B%E8%AF%95%E7%9A%84%E8%BD%AF%E4%BB%B6%EF%BC%8C%E4%BD%9C%E4%B8%BA%E6%95%B4%E4%B8%AA%E7%BB%99%E4%BA%88%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E7%9A%84%E4%B8%80%E4%B8%AA%E5%85%83%E7%B4%A0%EF%BC%8C%E4%B8%8E%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A1%AC%E4%BB%B6%E3%80%81%E5%A4%96%E8%AE%BE%E3%80%81%E6%9F%90%E4%BA%9B%E6%94%AF%E6%8C%81">
+		</outline>
+		<outline text="软件、数据和人员等其他系统元素结合在一起，在实际运行环境下，对计算机系统进行全面的功" _mubu_text="%E8%BD%AF%E4%BB%B6%E3%80%81%E6%95%B0%E6%8D%AE%E5%92%8C%E4%BA%BA%E5%91%98%E7%AD%89%E5%85%B6%E4%BB%96%E7%B3%BB%E7%BB%9F%E5%85%83%E7%B4%A0%E7%BB%93%E5%90%88%E5%9C%A8%E4%B8%80%E8%B5%B7%EF%BC%8C%E5%9C%A8%E5%AE%9E%E9%99%85%E8%BF%90%E8%A1%8C%E7%8E%AF%E5%A2%83%E4%B8%8B%EF%BC%8C%E5%AF%B9%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%B3%BB%E7%BB%9F%E8%BF%9B%E8%A1%8C%E5%85%A8%E9%9D%A2%E7%9A%84%E5%8A%9F">
+		</outline>
+		<outline text="能覆盖。该阶段需要提交测试总结和缺陷报告。" _mubu_text="%E8%83%BD%E8%A6%86%E7%9B%96%E3%80%82%E8%AF%A5%E9%98%B6%E6%AE%B5%E9%9C%80%E8%A6%81%E6%8F%90%E4%BA%A4%E6%B5%8B%E8%AF%95%E6%80%BB%E7%BB%93%E5%92%8C%E7%BC%BA%E9%99%B7%E6%8A%A5%E5%91%8A%E3%80%82">
+		</outline>
+		</outline>
+		<outline text="A9" _mubu_text="A9">
+		<outline text="1、尽可能早的找出系统中的Bug；" _mubu_text="1%E3%80%81%E5%B0%BD%E5%8F%AF%E8%83%BD%E6%97%A9%E7%9A%84%E6%89%BE%E5%87%BA%E7%B3%BB%E7%BB%9F%E4%B8%AD%E7%9A%84Bug%EF%BC%9B">
+		</outline>
+		<outline text="2、避免软件开发过程中缺陷的出现；" _mubu_text="2%E3%80%81%E9%81%BF%E5%85%8D%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E8%BF%87%E7%A8%8B%E4%B8%AD%E7%BC%BA%E9%99%B7%E7%9A%84%E5%87%BA%E7%8E%B0%EF%BC%9B">
+		</outline>
+		<outline text="3、衡量软件的品质，保证系统的质量；" _mubu_text="3%E3%80%81%E8%A1%A1%E9%87%8F%E8%BD%AF%E4%BB%B6%E7%9A%84%E5%93%81%E8%B4%A8%EF%BC%8C%E4%BF%9D%E8%AF%81%E7%B3%BB%E7%BB%9F%E7%9A%84%E8%B4%A8%E9%87%8F%EF%BC%9B">
+		</outline>
+		<outline text="4、关注用户的需求，并保证系统符合用户需求。" _mubu_text="4%E3%80%81%E5%85%B3%E6%B3%A8%E7%94%A8%E6%88%B7%E7%9A%84%E9%9C%80%E6%B1%82%EF%BC%8C%E5%B9%B6%E4%BF%9D%E8%AF%81%E7%B3%BB%E7%BB%9F%E7%AC%A6%E5%90%88%E7%94%A8%E6%88%B7%E9%9C%80%E6%B1%82%E3%80%82">
+		</outline>
+		<outline text="总的目标是：确保软件的质量。" _mubu_text="%E6%80%BB%E7%9A%84%E7%9B%AE%E6%A0%87%E6%98%AF%EF%BC%9A%E7%A1%AE%E4%BF%9D%E8%BD%AF%E4%BB%B6%E7%9A%84%E8%B4%A8%E9%87%8F%E3%80%82">
+		</outline>
+		</outline>
+		<outline text="A10" _mubu_text="A10">
+		<outline text="一般具有如下几个特征的项目，就被叫适合做自动化。" _mubu_text="%E4%B8%80%E8%88%AC%E5%85%B7%E6%9C%89%E5%A6%82%E4%B8%8B%E5%87%A0%E4%B8%AA%E7%89%B9%E5%BE%81%E7%9A%84%E9%A1%B9%E7%9B%AE%EF%BC%8C%E5%B0%B1%E8%A2%AB%E5%8F%AB%E9%80%82%E5%90%88%E5%81%9A%E8%87%AA%E5%8A%A8%E5%8C%96%E3%80%82">
+		</outline>
+		<outline text="1）任务测试明确，不会频繁变动" _mubu_text="1%EF%BC%89%E4%BB%BB%E5%8A%A1%E6%B5%8B%E8%AF%95%E6%98%8E%E7%A1%AE%EF%BC%8C%E4%B8%8D%E4%BC%9A%E9%A2%91%E7%B9%81%E5%8F%98%E5%8A%A8">
+		</outline>
+		<outline text="2）每日构建后的测试验证" _mubu_text="2%EF%BC%89%E6%AF%8F%E6%97%A5%E6%9E%84%E5%BB%BA%E5%90%8E%E7%9A%84%E6%B5%8B%E8%AF%95%E9%AA%8C%E8%AF%81">
+		</outline>
+		<outline text="3）比较频繁的回归测试" _mubu_text="3%EF%BC%89%E6%AF%94%E8%BE%83%E9%A2%91%E7%B9%81%E7%9A%84%E5%9B%9E%E5%BD%92%E6%B5%8B%E8%AF%95">
+		</outline>
+		<outline text="4）软件系统界面稳定，变动少" _mubu_text="4%EF%BC%89%E8%BD%AF%E4%BB%B6%E7%B3%BB%E7%BB%9F%E7%95%8C%E9%9D%A2%E7%A8%B3%E5%AE%9A%EF%BC%8C%E5%8F%98%E5%8A%A8%E5%B0%91">
+		</outline>
+		<outline text="5）需要在平台上运行相同的测试案例、组合遍历型的测试，大量的重复测试任务" _mubu_text="5%EF%BC%89%E9%9C%80%E8%A6%81%E5%9C%A8%E5%B9%B3%E5%8F%B0%E4%B8%8A%E8%BF%90%E8%A1%8C%E7%9B%B8%E5%90%8C%E7%9A%84%E6%B5%8B%E8%AF%95%E6%A1%88%E4%BE%8B%E3%80%81%E7%BB%84%E5%90%88%E9%81%8D%E5%8E%86%E5%9E%8B%E7%9A%84%E6%B5%8B%E8%AF%95%EF%BC%8C%E5%A4%A7%E9%87%8F%E7%9A%84%E9%87%8D%E5%A4%8D%E6%B5%8B%E8%AF%95%E4%BB%BB%E5%8A%A1">
+		</outline>
+		<outline text="6）软件的维护周期长" _mubu_text="6%EF%BC%89%E8%BD%AF%E4%BB%B6%E7%9A%84%E7%BB%B4%E6%8A%A4%E5%91%A8%E6%9C%9F%E9%95%BF">
+		</outline>
+		<outline text="7）项目的进度压力不大" _mubu_text="7%EF%BC%89%E9%A1%B9%E7%9B%AE%E7%9A%84%E8%BF%9B%E5%BA%A6%E5%8E%8B%E5%8A%9B%E4%B8%8D%E5%A4%A7">
+		</outline>
+		<outline text="8）被测系统开发较为规范，能保证系统的可测性" _mubu_text="8%EF%BC%89%E8%A2%AB%E6%B5%8B%E7%B3%BB%E7%BB%9F%E5%BC%80%E5%8F%91%E8%BE%83%E4%B8%BA%E8%A7%84%E8%8C%83%EF%BC%8C%E8%83%BD%E4%BF%9D%E8%AF%81%E7%B3%BB%E7%BB%9F%E7%9A%84%E5%8F%AF%E6%B5%8B%E6%80%A7">
+		</outline>
+		<outline text="9）具备大量的自动化测试平台" _mubu_text="9%EF%BC%89%E5%85%B7%E5%A4%87%E5%A4%A7%E9%87%8F%E7%9A%84%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95%E5%B9%B3%E5%8F%B0">
+		</outline>
+		<outline text="10）测试人员具备较强的编程能力" _mubu_text="10%EF%BC%89%E6%B5%8B%E8%AF%95%E4%BA%BA%E5%91%98%E5%85%B7%E5%A4%87%E8%BE%83%E5%BC%BA%E7%9A%84%E7%BC%96%E7%A8%8B%E8%83%BD%E5%8A%9B">
+		</outline>
+		<outline text="当然并不需要都满足以上10中情况才能开展自动化测试工作。一般满足以下三点就可以对项目开展自动化测试。" _mubu_text="%E5%BD%93%E7%84%B6%E5%B9%B6%E4%B8%8D%E9%9C%80%E8%A6%81%E9%83%BD%E6%BB%A1%E8%B6%B3%E4%BB%A5%E4%B8%8A10%E4%B8%AD%E6%83%85%E5%86%B5%E6%89%8D%E8%83%BD%E5%BC%80%E5%B1%95%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95%E5%B7%A5%E4%BD%9C%E3%80%82%E4%B8%80%E8%88%AC%E6%BB%A1%E8%B6%B3%E4%BB%A5%E4%B8%8B%E4%B8%89%E7%82%B9%E5%B0%B1%E5%8F%AF%E4%BB%A5%E5%AF%B9%E9%A1%B9%E7%9B%AE%E5%BC%80%E5%B1%95%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95%E3%80%82">
+		</outline>
+		<outline text="1.软件需求不频繁变动" _mubu_text="1.%E8%BD%AF%E4%BB%B6%E9%9C%80%E6%B1%82%E4%B8%8D%E9%A2%91%E7%B9%81%E5%8F%98%E5%8A%A8">
+		</outline>
+		<outline text="自动化测脚本的变化的大小与频率决定了测试脚本维护的成本。如果软件需求变化过于频繁，那么测试人员需要根据变动的需求不断的更新自动化测试用例，从而适应新的功能。脚本的维护本身就是一个开发代码的过程，需要扩展，修改，调试，有适合还需要对架构做出调整。如果花费的维护成本高于其节省的测试成本，那自动化测试就失去了它的价值与意义了。" _mubu_text="%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%84%9A%E6%9C%AC%E7%9A%84%E5%8F%98%E5%8C%96%E7%9A%84%E5%A4%A7%E5%B0%8F%E4%B8%8E%E9%A2%91%E7%8E%87%E5%86%B3%E5%AE%9A%E4%BA%86%E6%B5%8B%E8%AF%95%E8%84%9A%E6%9C%AC%E7%BB%B4%E6%8A%A4%E7%9A%84%E6%88%90%E6%9C%AC%E3%80%82%E5%A6%82%E6%9E%9C%E8%BD%AF%E4%BB%B6%E9%9C%80%E6%B1%82%E5%8F%98%E5%8C%96%E8%BF%87%E4%BA%8E%E9%A2%91%E7%B9%81%EF%BC%8C%E9%82%A3%E4%B9%88%E6%B5%8B%E8%AF%95%E4%BA%BA%E5%91%98%E9%9C%80%E8%A6%81%E6%A0%B9%E6%8D%AE%E5%8F%98%E5%8A%A8%E7%9A%84%E9%9C%80%E6%B1%82%E4%B8%8D%E6%96%AD%E7%9A%84%E6%9B%B4%E6%96%B0%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95%E7%94%A8%E4%BE%8B%EF%BC%8C%E4%BB%8E%E8%80%8C%E9%80%82%E5%BA%94%E6%96%B0%E7%9A%84%E5%8A%9F%E8%83%BD%E3%80%82%E8%84%9A%E6%9C%AC%E7%9A%84%E7%BB%B4%E6%8A%A4%E6%9C%AC%E8%BA%AB%E5%B0%B1%E6%98%AF%E4%B8%80%E4%B8%AA%E5%BC%80%E5%8F%91%E4%BB%A3%E7%A0%81%E7%9A%84%E8%BF%87%E7%A8%8B%EF%BC%8C%E9%9C%80%E8%A6%81%E6%89%A9%E5%B1%95%EF%BC%8C%E4%BF%AE%E6%94%B9%EF%BC%8C%E8%B0%83%E8%AF%95%EF%BC%8C%E6%9C%89%E9%80%82%E5%90%88%E8%BF%98%E9%9C%80%E8%A6%81%E5%AF%B9%E6%9E%B6%E6%9E%84%E5%81%9A%E5%87%BA%E8%B0%83%E6%95%B4%E3%80%82%E5%A6%82%E6%9E%9C%E8%8A%B1%E8%B4%B9%E7%9A%84%E7%BB%B4%E6%8A%A4%E6%88%90%E6%9C%AC%E9%AB%98%E4%BA%8E%E5%85%B6%E8%8A%82%E7%9C%81%E7%9A%84%E6%B5%8B%E8%AF%95%E6%88%90%E6%9C%AC%EF%BC%8C%E9%82%A3%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95%E5%B0%B1%E5%A4%B1%E5%8E%BB%E4%BA%86%E5%AE%83%E7%9A%84%E4%BB%B7%E5%80%BC%E4%B8%8E%E6%84%8F%E4%B9%89%E4%BA%86%E3%80%82">
+		</outline>
+		<outline text="适当的做法，就是先对系统中相对稳定的模块与功能进行自动化测试，变动较大的部分用手工进行测试。" _mubu_text="%E9%80%82%E5%BD%93%E7%9A%84%E5%81%9A%E6%B3%95%EF%BC%8C%E5%B0%B1%E6%98%AF%E5%85%88%E5%AF%B9%E7%B3%BB%E7%BB%9F%E4%B8%AD%E7%9B%B8%E5%AF%B9%E7%A8%B3%E5%AE%9A%E7%9A%84%E6%A8%A1%E5%9D%97%E4%B8%8E%E5%8A%9F%E8%83%BD%E8%BF%9B%E8%A1%8C%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95%EF%BC%8C%E5%8F%98%E5%8A%A8%E8%BE%83%E5%A4%A7%E7%9A%84%E9%83%A8%E5%88%86%E7%94%A8%E6%89%8B%E5%B7%A5%E8%BF%9B%E8%A1%8C%E6%B5%8B%E8%AF%95%E3%80%82">
+		</outline>
+		<outline text="2.项目周期较长" _mubu_text="2.%E9%A1%B9%E7%9B%AE%E5%91%A8%E6%9C%9F%E8%BE%83%E9%95%BF">
+		</outline>
+		<outline text="由于自动化测试需求的确定，自动化框架的设计，脚本的开发与调试都是需要时间完成的，而这个过程本身就是一个软件开发的过程，如果项目周期较短，没有足够的时间去支持这样的一个过程，那自动化必然是行不通的。" _mubu_text="%E7%94%B1%E4%BA%8E%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95%E9%9C%80%E6%B1%82%E7%9A%84%E7%A1%AE%E5%AE%9A%EF%BC%8C%E8%87%AA%E5%8A%A8%E5%8C%96%E6%A1%86%E6%9E%B6%E7%9A%84%E8%AE%BE%E8%AE%A1%EF%BC%8C%E8%84%9A%E6%9C%AC%E7%9A%84%E5%BC%80%E5%8F%91%E4%B8%8E%E8%B0%83%E8%AF%95%E9%83%BD%E6%98%AF%E9%9C%80%E8%A6%81%E6%97%B6%E9%97%B4%E5%AE%8C%E6%88%90%E7%9A%84%EF%BC%8C%E8%80%8C%E8%BF%99%E4%B8%AA%E8%BF%87%E7%A8%8B%E6%9C%AC%E8%BA%AB%E5%B0%B1%E6%98%AF%E4%B8%80%E4%B8%AA%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E7%9A%84%E8%BF%87%E7%A8%8B%EF%BC%8C%E5%A6%82%E6%9E%9C%E9%A1%B9%E7%9B%AE%E5%91%A8%E6%9C%9F%E8%BE%83%E7%9F%AD%EF%BC%8C%E6%B2%A1%E6%9C%89%E8%B6%B3%E5%A4%9F%E7%9A%84%E6%97%B6%E9%97%B4%E5%8E%BB%E6%94%AF%E6%8C%81%E8%BF%99%E6%A0%B7%E7%9A%84%E4%B8%80%E4%B8%AA%E8%BF%87%E7%A8%8B%EF%BC%8C%E9%82%A3%E8%87%AA%E5%8A%A8%E5%8C%96%E5%BF%85%E7%84%B6%E6%98%AF%E8%A1%8C%E4%B8%8D%E9%80%9A%E7%9A%84%E3%80%82">
+		</outline>
+		<outline text="3.自动化测试脚本可以重复使用" _mubu_text="3.%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95%E8%84%9A%E6%9C%AC%E5%8F%AF%E4%BB%A5%E9%87%8D%E5%A4%8D%E4%BD%BF%E7%94%A8">
+		</outline>
+		<outline text="重复使用要从这三个方面考虑：" _mubu_text="%E9%87%8D%E5%A4%8D%E4%BD%BF%E7%94%A8%E8%A6%81%E4%BB%8E%E8%BF%99%E4%B8%89%E4%B8%AA%E6%96%B9%E9%9D%A2%E8%80%83%E8%99%91%EF%BC%9A">
+		</outline>
+		<outline text="一、所测试的项目之间是否存在很大的差异（比如C/S架构与B/S架构）" _mubu_text="%E4%B8%80%E3%80%81%E6%89%80%E6%B5%8B%E8%AF%95%E7%9A%84%E9%A1%B9%E7%9B%AE%E4%B9%8B%E9%97%B4%E6%98%AF%E5%90%A6%E5%AD%98%E5%9C%A8%E5%BE%88%E5%A4%A7%E7%9A%84%E5%B7%AE%E5%BC%82%EF%BC%88%E6%AF%94%E5%A6%82C/S%E6%9E%B6%E6%9E%84%E4%B8%8EB/S%E6%9E%B6%E6%9E%84%EF%BC%89">
+		</outline>
+		<outline text="二、所选的测试技术和工具是否能适应这种差异" _mubu_text="%E4%BA%8C%E3%80%81%E6%89%80%E9%80%89%E7%9A%84%E6%B5%8B%E8%AF%95%E6%8A%80%E6%9C%AF%E5%92%8C%E5%B7%A5%E5%85%B7%E6%98%AF%E5%90%A6%E8%83%BD%E9%80%82%E5%BA%94%E8%BF%99%E7%A7%8D%E5%B7%AE%E5%BC%82">
+		</outline>
+		<outline text="三、测试人员是否有能力设计开发出适用差异的自动化测试框架" _mubu_text="%E4%B8%89%E3%80%81%E6%B5%8B%E8%AF%95%E4%BA%BA%E5%91%98%E6%98%AF%E5%90%A6%E6%9C%89%E8%83%BD%E5%8A%9B%E8%AE%BE%E8%AE%A1%E5%BC%80%E5%8F%91%E5%87%BA%E9%80%82%E7%94%A8%E5%B7%AE%E5%BC%82%E7%9A%84%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95%E6%A1%86%E6%9E%B6">
+		</outline>
+		</outline>
+		<outline text="A11" _mubu_text="A11">
+		<outline text="Beta testing(β测试),测试是软件的多个用户在一个或多个用户的实际使用环境下进行的测试。开发者通常不在测试现场" _mubu_text="Beta%20testing(%CE%B2%E6%B5%8B%E8%AF%95),%E6%B5%8B%E8%AF%95%E6%98%AF%E8%BD%AF%E4%BB%B6%E7%9A%84%E5%A4%9A%E4%B8%AA%E7%94%A8%E6%88%B7%E5%9C%A8%E4%B8%80%E4%B8%AA%E6%88%96%E5%A4%9A%E4%B8%AA%E7%94%A8%E6%88%B7%E7%9A%84%E5%AE%9E%E9%99%85%E4%BD%BF%E7%94%A8%E7%8E%AF%E5%A2%83%E4%B8%8B%E8%BF%9B%E8%A1%8C%E7%9A%84%E6%B5%8B%E8%AF%95%E3%80%82%E5%BC%80%E5%8F%91%E8%80%85%E9%80%9A%E5%B8%B8%E4%B8%8D%E5%9C%A8%E6%B5%8B%E8%AF%95%E7%8E%B0%E5%9C%BA">
+		</outline>
+		<outline text="Alpha testing (α测试),是由一个用户在开发环境下进行的测试，也可以是公司内部的用户在模拟实际操作环境下进行的受控测试" _mubu_text="Alpha%20testing%20(%CE%B1%E6%B5%8B%E8%AF%95),%E6%98%AF%E7%94%B1%E4%B8%80%E4%B8%AA%E7%94%A8%E6%88%B7%E5%9C%A8%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E4%B8%8B%E8%BF%9B%E8%A1%8C%E7%9A%84%E6%B5%8B%E8%AF%95%EF%BC%8C%E4%B9%9F%E5%8F%AF%E4%BB%A5%E6%98%AF%E5%85%AC%E5%8F%B8%E5%86%85%E9%83%A8%E7%9A%84%E7%94%A8%E6%88%B7%E5%9C%A8%E6%A8%A1%E6%8B%9F%E5%AE%9E%E9%99%85%E6%93%8D%E4%BD%9C%E7%8E%AF%E5%A2%83%E4%B8%8B%E8%BF%9B%E8%A1%8C%E7%9A%84%E5%8F%97%E6%8E%A7%E6%B5%8B%E8%AF%95">
+		</outline>
+		</outline>
+		<outline text="B1" _mubu_text="B1">
+		<outline text="白盒测试：逻辑覆盖、循环覆盖、基本路径覆盖" _mubu_text="%E7%99%BD%E7%9B%92%E6%B5%8B%E8%AF%95%EF%BC%9A%E9%80%BB%E8%BE%91%E8%A6%86%E7%9B%96%E3%80%81%E5%BE%AA%E7%8E%AF%E8%A6%86%E7%9B%96%E3%80%81%E5%9F%BA%E6%9C%AC%E8%B7%AF%E5%BE%84%E8%A6%86%E7%9B%96">
+		</outline>
+		<outline text="黑盒测试：边界值分析法、等价类划分、错误猜测法、因果图法、状态图法、测试大纲法、随机测试、场景法" _mubu_text="%E9%BB%91%E7%9B%92%E6%B5%8B%E8%AF%95%EF%BC%9A%E8%BE%B9%E7%95%8C%E5%80%BC%E5%88%86%E6%9E%90%E6%B3%95%E3%80%81%E7%AD%89%E4%BB%B7%E7%B1%BB%E5%88%92%E5%88%86%E3%80%81%E9%94%99%E8%AF%AF%E7%8C%9C%E6%B5%8B%E6%B3%95%E3%80%81%E5%9B%A0%E6%9E%9C%E5%9B%BE%E6%B3%95%E3%80%81%E7%8A%B6%E6%80%81%E5%9B%BE%E6%B3%95%E3%80%81%E6%B5%8B%E8%AF%95%E5%A4%A7%E7%BA%B2%E6%B3%95%E3%80%81%E9%9A%8F%E6%9C%BA%E6%B5%8B%E8%AF%95%E3%80%81%E5%9C%BA%E6%99%AF%E6%B3%95">
+		</outline>
+		</outline>
+		<outline text="B2" _mubu_text="B2">
+		<outline text="软件安全性测试包括程序、数据库安全性测试。根据系统安全指标不同测试策略也不同。" _mubu_text="%E8%BD%AF%E4%BB%B6%E5%AE%89%E5%85%A8%E6%80%A7%E6%B5%8B%E8%AF%95%E5%8C%85%E6%8B%AC%E7%A8%8B%E5%BA%8F%E3%80%81%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AE%89%E5%85%A8%E6%80%A7%E6%B5%8B%E8%AF%95%E3%80%82%E6%A0%B9%E6%8D%AE%E7%B3%BB%E7%BB%9F%E5%AE%89%E5%85%A8%E6%8C%87%E6%A0%87%E4%B8%8D%E5%90%8C%E6%B5%8B%E8%AF%95%E7%AD%96%E7%95%A5%E4%B9%9F%E4%B8%8D%E5%90%8C%E3%80%82">
+		</outline>
+		<outline text="用户认证安全的测试要考虑问题：" _mubu_text="%E7%94%A8%E6%88%B7%E8%AE%A4%E8%AF%81%E5%AE%89%E5%85%A8%E7%9A%84%E6%B5%8B%E8%AF%95%E8%A6%81%E8%80%83%E8%99%91%E9%97%AE%E9%A2%98%EF%BC%9A">
+		</outline>
+		<outline text="1）明确区分系统中不同用户权限 、系统中会不会出现用户冲突 、系统会不会因用户的权限的改变造成混乱 、" _mubu_text="1%EF%BC%89%E6%98%8E%E7%A1%AE%E5%8C%BA%E5%88%86%E7%B3%BB%E7%BB%9F%E4%B8%AD%E4%B8%8D%E5%90%8C%E7%94%A8%E6%88%B7%E6%9D%83%E9%99%90%20%E3%80%81%E7%B3%BB%E7%BB%9F%E4%B8%AD%E4%BC%9A%E4%B8%8D%E4%BC%9A%E5%87%BA%E7%8E%B0%E7%94%A8%E6%88%B7%E5%86%B2%E7%AA%81%20%E3%80%81%E7%B3%BB%E7%BB%9F%E4%BC%9A%E4%B8%8D%E4%BC%9A%E5%9B%A0%E7%94%A8%E6%88%B7%E7%9A%84%E6%9D%83%E9%99%90%E7%9A%84%E6%94%B9%E5%8F%98%E9%80%A0%E6%88%90%E6%B7%B7%E4%B9%B1%20%E3%80%81">
+		</outline>
+		<outline text="2）用户登陆密码是否是可见、可复制 、是否可以通过绝对途径登陆系统（拷贝用户登陆后的链接直接进入系统）、" _mubu_text="2%EF%BC%89%E7%94%A8%E6%88%B7%E7%99%BB%E9%99%86%E5%AF%86%E7%A0%81%E6%98%AF%E5%90%A6%E6%98%AF%E5%8F%AF%E8%A7%81%E3%80%81%E5%8F%AF%E5%A4%8D%E5%88%B6%20%E3%80%81%E6%98%AF%E5%90%A6%E5%8F%AF%E4%BB%A5%E9%80%9A%E8%BF%87%E7%BB%9D%E5%AF%B9%E9%80%94%E5%BE%84%E7%99%BB%E9%99%86%E7%B3%BB%E7%BB%9F%EF%BC%88%E6%8B%B7%E8%B4%9D%E7%94%A8%E6%88%B7%E7%99%BB%E9%99%86%E5%90%8E%E7%9A%84%E9%93%BE%E6%8E%A5%E7%9B%B4%E6%8E%A5%E8%BF%9B%E5%85%A5%E7%B3%BB%E7%BB%9F%EF%BC%89%E3%80%81">
+		</outline>
+		<outline text="3）用户退出系统后是否删除了所有鉴权标记，是否可以使用后退键而不通过输入口令进入 系统 、" _mubu_text="3%EF%BC%89%E7%94%A8%E6%88%B7%E9%80%80%E5%87%BA%E7%B3%BB%E7%BB%9F%E5%90%8E%E6%98%AF%E5%90%A6%E5%88%A0%E9%99%A4%E4%BA%86%E6%89%80%E6%9C%89%E9%89%B4%E6%9D%83%E6%A0%87%E8%AE%B0%EF%BC%8C%E6%98%AF%E5%90%A6%E5%8F%AF%E4%BB%A5%E4%BD%BF%E7%94%A8%E5%90%8E%E9%80%80%E9%94%AE%E8%80%8C%E4%B8%8D%E9%80%9A%E8%BF%87%E8%BE%93%E5%85%A5%E5%8F%A3%E4%BB%A4%E8%BF%9B%E5%85%A5%20%E7%B3%BB%E7%BB%9F%20%E3%80%81">
+		</outline>
+		<outline text="系统网络安全的测试要考虑问题 ：" _mubu_text="%E7%B3%BB%E7%BB%9F%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E7%9A%84%E6%B5%8B%E8%AF%95%E8%A6%81%E8%80%83%E8%99%91%E9%97%AE%E9%A2%98%20%EF%BC%9A">
+		</outline>
+		<outline text="1）测试采取的防护措施是否正确装配好，" _mubu_text="1%EF%BC%89%E6%B5%8B%E8%AF%95%E9%87%87%E5%8F%96%E7%9A%84%E9%98%B2%E6%8A%A4%E6%8E%AA%E6%96%BD%E6%98%AF%E5%90%A6%E6%AD%A3%E7%A1%AE%E8%A3%85%E9%85%8D%E5%A5%BD%EF%BC%8C">
+		</outline>
+		<outline text="2）有关系统的补丁是否打上 、" _mubu_text="2%EF%BC%89%E6%9C%89%E5%85%B3%E7%B3%BB%E7%BB%9F%E7%9A%84%E8%A1%A5%E4%B8%81%E6%98%AF%E5%90%A6%E6%89%93%E4%B8%8A%20%E3%80%81">
+		</outline>
+		<outline text="3）模拟非授权***，" _mubu_text="3%EF%BC%89%E6%A8%A1%E6%8B%9F%E9%9D%9E%E6%8E%88%E6%9D%83***%EF%BC%8C">
+		</outline>
+		<outline text="4）看防护系统是否坚固 、" _mubu_text="4%EF%BC%89%E7%9C%8B%E9%98%B2%E6%8A%A4%E7%B3%BB%E7%BB%9F%E6%98%AF%E5%90%A6%E5%9D%9A%E5%9B%BA%20%E3%80%81">
+		</outline>
+		<outline text="5）采用成熟的网络漏洞检查工具检查系统相关漏洞（即用最专业的******工具***试一下，现在最常用的是 NBSI 系列和 IPhacker IP ）" _mubu_text="5%EF%BC%89%E9%87%87%E7%94%A8%E6%88%90%E7%86%9F%E7%9A%84%E7%BD%91%E7%BB%9C%E6%BC%8F%E6%B4%9E%E6%A3%80%E6%9F%A5%E5%B7%A5%E5%85%B7%E6%A3%80%E6%9F%A5%E7%B3%BB%E7%BB%9F%E7%9B%B8%E5%85%B3%E6%BC%8F%E6%B4%9E%EF%BC%88%E5%8D%B3%E7%94%A8%E6%9C%80%E4%B8%93%E4%B8%9A%E7%9A%84******%E5%B7%A5%E5%85%B7***%E8%AF%95%E4%B8%80%E4%B8%8B%EF%BC%8C%E7%8E%B0%E5%9C%A8%E6%9C%80%E5%B8%B8%E7%94%A8%E7%9A%84%E6%98%AF%20NBSI%20%E7%B3%BB%E5%88%97%E5%92%8C%20IPhacker%20IP%20%EF%BC%89">
+		</outline>
+		<outline text="6)采用各种***检查工具检查系统***情况" _mubu_text="6)%E9%87%87%E7%94%A8%E5%90%84%E7%A7%8D***%E6%A3%80%E6%9F%A5%E5%B7%A5%E5%85%B7%E6%A3%80%E6%9F%A5%E7%B3%BB%E7%BB%9F***%E6%83%85%E5%86%B5">
+		</outline>
+		<outline text="7)采用各种防外挂工具检查系统各组程序的外挂漏洞" _mubu_text="7)%E9%87%87%E7%94%A8%E5%90%84%E7%A7%8D%E9%98%B2%E5%A4%96%E6%8C%82%E5%B7%A5%E5%85%B7%E6%A3%80%E6%9F%A5%E7%B3%BB%E7%BB%9F%E5%90%84%E7%BB%84%E7%A8%8B%E5%BA%8F%E7%9A%84%E5%A4%96%E6%8C%82%E6%BC%8F%E6%B4%9E">
+		</outline>
+		<outline text="数据库安全考虑问题：" _mubu_text="%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AE%89%E5%85%A8%E8%80%83%E8%99%91%E9%97%AE%E9%A2%98%EF%BC%9A">
+		</outline>
+		<outline text="1）系统数据是否机密（比如对银行系统，这一点就特别重要，一般的网站就没有太高要求）" _mubu_text="1%EF%BC%89%E7%B3%BB%E7%BB%9F%E6%95%B0%E6%8D%AE%E6%98%AF%E5%90%A6%E6%9C%BA%E5%AF%86%EF%BC%88%E6%AF%94%E5%A6%82%E5%AF%B9%E9%93%B6%E8%A1%8C%E7%B3%BB%E7%BB%9F%EF%BC%8C%E8%BF%99%E4%B8%80%E7%82%B9%E5%B0%B1%E7%89%B9%E5%88%AB%E9%87%8D%E8%A6%81%EF%BC%8C%E4%B8%80%E8%88%AC%E7%9A%84%E7%BD%91%E7%AB%99%E5%B0%B1%E6%B2%A1%E6%9C%89%E5%A4%AA%E9%AB%98%E8%A6%81%E6%B1%82%EF%BC%89">
+		</outline>
+		<outline text="2）系统数据的完整性（我刚刚结束的企业实名核查服务系统中就曾存在数据 的不" _mubu_text="2%EF%BC%89%E7%B3%BB%E7%BB%9F%E6%95%B0%E6%8D%AE%E7%9A%84%E5%AE%8C%E6%95%B4%E6%80%A7%EF%BC%88%E6%88%91%E5%88%9A%E5%88%9A%E7%BB%93%E6%9D%9F%E7%9A%84%E4%BC%81%E4%B8%9A%E5%AE%9E%E5%90%8D%E6%A0%B8%E6%9F%A5%E6%9C%8D%E5%8A%A1%E7%B3%BB%E7%BB%9F%E4%B8%AD%E5%B0%B1%E6%9B%BE%E5%AD%98%E5%9C%A8%E6%95%B0%E6%8D%AE%20%E7%9A%84%E4%B8%8D">
+		</outline>
+		<outline text="3）完整，对于这个系统的功能实现有了障碍） 、系" _mubu_text="3%EF%BC%89%E5%AE%8C%E6%95%B4%EF%BC%8C%E5%AF%B9%E4%BA%8E%E8%BF%99%E4%B8%AA%E7%B3%BB%E7%BB%9F%E7%9A%84%E5%8A%9F%E8%83%BD%E5%AE%9E%E7%8E%B0%E6%9C%89%E4%BA%86%E9%9A%9C%E7%A2%8D%EF%BC%89%20%E3%80%81%E7%B3%BB">
+		</outline>
+		<outline text="4）统数据可管理性 、" _mubu_text="4%EF%BC%89%E7%BB%9F%E6%95%B0%E6%8D%AE%E5%8F%AF%E7%AE%A1%E7%90%86%E6%80%A7%20%E3%80%81">
+		</outline>
+		<outline text="5）系统数据的独立性 、" _mubu_text="5%EF%BC%89%E7%B3%BB%E7%BB%9F%E6%95%B0%E6%8D%AE%E7%9A%84%E7%8B%AC%E7%AB%8B%E6%80%A7%20%E3%80%81">
+		</outline>
+		<outline text="6）系统数据可备份和恢复能力（数据备份是否完整，可否恢复，恢复是否可以完整）" _mubu_text="6%EF%BC%89%E7%B3%BB%E7%BB%9F%E6%95%B0%E6%8D%AE%E5%8F%AF%E5%A4%87%E4%BB%BD%E5%92%8C%E6%81%A2%E5%A4%8D%E8%83%BD%E5%8A%9B%EF%BC%88%E6%95%B0%E6%8D%AE%E5%A4%87%E4%BB%BD%E6%98%AF%E5%90%A6%E5%AE%8C%E6%95%B4%EF%BC%8C%E5%8F%AF%E5%90%A6%E6%81%A2%E5%A4%8D%EF%BC%8C%E6%81%A2%E5%A4%8D%E6%98%AF%E5%90%A6%E5%8F%AF%E4%BB%A5%E5%AE%8C%E6%95%B4%EF%BC%89">
+		</outline>
+		</outline>
+		<outline text="B3" _mubu_text="B3">
+		<outline text="用例：" _mubu_text="%E7%94%A8%E4%BE%8B%EF%BC%9A">
+		</outline>
+		<outline text="未实施测试而编制的一组测试输入、执行条件、各种环境设置以及预期结果以及期望结果的一个特定的集合。" _mubu_text="%E6%9C%AA%E5%AE%9E%E6%96%BD%E6%B5%8B%E8%AF%95%E8%80%8C%E7%BC%96%E5%88%B6%E7%9A%84%E4%B8%80%E7%BB%84%E6%B5%8B%E8%AF%95%E8%BE%93%E5%85%A5%E3%80%81%E6%89%A7%E8%A1%8C%E6%9D%A1%E4%BB%B6%E3%80%81%E5%90%84%E7%A7%8D%E7%8E%AF%E5%A2%83%E8%AE%BE%E7%BD%AE%E4%BB%A5%E5%8F%8A%E9%A2%84%E6%9C%9F%E7%BB%93%E6%9E%9C%E4%BB%A5%E5%8F%8A%E6%9C%9F%E6%9C%9B%E7%BB%93%E6%9E%9C%E7%9A%84%E4%B8%80%E4%B8%AA%E7%89%B9%E5%AE%9A%E7%9A%84%E9%9B%86%E5%90%88%E3%80%82">
+		</outline>
+		<outline text="脚本：" _mubu_text="%E8%84%9A%E6%9C%AC%EF%BC%9A">
+		</outline>
+		<outline text="测试脚本是为了进行自动化测试而编写的脚本。" _mubu_text="%E6%B5%8B%E8%AF%95%E8%84%9A%E6%9C%AC%E6%98%AF%E4%B8%BA%E4%BA%86%E8%BF%9B%E8%A1%8C%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95%E8%80%8C%E7%BC%96%E5%86%99%E7%9A%84%E8%84%9A%E6%9C%AC%E3%80%82">
+		</outline>
+		<outline text="测试脚本的编写必须对应相应的测试用例" _mubu_text="%E6%B5%8B%E8%AF%95%E8%84%9A%E6%9C%AC%E7%9A%84%E7%BC%96%E5%86%99%E5%BF%85%E9%A1%BB%E5%AF%B9%E5%BA%94%E7%9B%B8%E5%BA%94%E7%9A%84%E6%B5%8B%E8%AF%95%E7%94%A8%E4%BE%8B">
+		</outline>
+		</outline>
+		<outline text="B4" _mubu_text="B4">
+		<outline text="静态测试：" _mubu_text="%E9%9D%99%E6%80%81%E6%B5%8B%E8%AF%95%EF%BC%9A">
+		</outline>
+		<outline text="是不运行程序本身而寻找程序代码中可能存在的错误或评估程序代码的过程。" _mubu_text="%E6%98%AF%E4%B8%8D%E8%BF%90%E8%A1%8C%E7%A8%8B%E5%BA%8F%E6%9C%AC%E8%BA%AB%E8%80%8C%E5%AF%BB%E6%89%BE%E7%A8%8B%E5%BA%8F%E4%BB%A3%E7%A0%81%E4%B8%AD%E5%8F%AF%E8%83%BD%E5%AD%98%E5%9C%A8%E7%9A%84%E9%94%99%E8%AF%AF%E6%88%96%E8%AF%84%E4%BC%B0%E7%A8%8B%E5%BA%8F%E4%BB%A3%E7%A0%81%E7%9A%84%E8%BF%87%E7%A8%8B%E3%80%82">
+		</outline>
+		<outline text="动态测试：" _mubu_text="%E5%8A%A8%E6%80%81%E6%B5%8B%E8%AF%95%EF%BC%9A">
+		</outline>
+		<outline text="是实际运行被测程序，输入相应的测试实例，检查运行结果与预期结果的差异，判定执行结果是否符合要求，从而检验程序的正确性、可靠性和有效性，并分析系统运行效率和健壮性等性能。" _mubu_text="%E6%98%AF%E5%AE%9E%E9%99%85%E8%BF%90%E8%A1%8C%E8%A2%AB%E6%B5%8B%E7%A8%8B%E5%BA%8F%EF%BC%8C%E8%BE%93%E5%85%A5%E7%9B%B8%E5%BA%94%E7%9A%84%E6%B5%8B%E8%AF%95%E5%AE%9E%E4%BE%8B%EF%BC%8C%E6%A3%80%E6%9F%A5%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C%E4%B8%8E%E9%A2%84%E6%9C%9F%E7%BB%93%E6%9E%9C%E7%9A%84%E5%B7%AE%E5%BC%82%EF%BC%8C%E5%88%A4%E5%AE%9A%E6%89%A7%E8%A1%8C%E7%BB%93%E6%9E%9C%E6%98%AF%E5%90%A6%E7%AC%A6%E5%90%88%E8%A6%81%E6%B1%82%EF%BC%8C%E4%BB%8E%E8%80%8C%E6%A3%80%E9%AA%8C%E7%A8%8B%E5%BA%8F%E7%9A%84%E6%AD%A3%E7%A1%AE%E6%80%A7%E3%80%81%E5%8F%AF%E9%9D%A0%E6%80%A7%E5%92%8C%E6%9C%89%E6%95%88%E6%80%A7%EF%BC%8C%E5%B9%B6%E5%88%86%E6%9E%90%E7%B3%BB%E7%BB%9F%E8%BF%90%E8%A1%8C%E6%95%88%E7%8E%87%E5%92%8C%E5%81%A5%E5%A3%AE%E6%80%A7%E7%AD%89%E6%80%A7%E8%83%BD%E3%80%82">
+		</outline>
+		<outline text="黑盒测试：" _mubu_text="%E9%BB%91%E7%9B%92%E6%B5%8B%E8%AF%95%EF%BC%9A">
+		</outline>
+		<outline text="一般用来确认软件功能的正确性和可操作性,目的是检测软件的各个功能是否能得以实现,把被测试的程序当作一个黑盒,不考虑其内部结构,在知道该程序的输入和输出之间的关系或程序功能的情况下,依靠软件规格说明书来确定测试用例和推断测试结果的正确性。" _mubu_text="%E4%B8%80%E8%88%AC%E7%94%A8%E6%9D%A5%E7%A1%AE%E8%AE%A4%E8%BD%AF%E4%BB%B6%E5%8A%9F%E8%83%BD%E7%9A%84%E6%AD%A3%E7%A1%AE%E6%80%A7%E5%92%8C%E5%8F%AF%E6%93%8D%E4%BD%9C%E6%80%A7,%E7%9B%AE%E7%9A%84%E6%98%AF%E6%A3%80%E6%B5%8B%E8%BD%AF%E4%BB%B6%E7%9A%84%E5%90%84%E4%B8%AA%E5%8A%9F%E8%83%BD%E6%98%AF%E5%90%A6%E8%83%BD%E5%BE%97%E4%BB%A5%E5%AE%9E%E7%8E%B0,%E6%8A%8A%E8%A2%AB%E6%B5%8B%E8%AF%95%E7%9A%84%E7%A8%8B%E5%BA%8F%E5%BD%93%E4%BD%9C%E4%B8%80%E4%B8%AA%E9%BB%91%E7%9B%92,%E4%B8%8D%E8%80%83%E8%99%91%E5%85%B6%E5%86%85%E9%83%A8%E7%BB%93%E6%9E%84,%E5%9C%A8%E7%9F%A5%E9%81%93%E8%AF%A5%E7%A8%8B%E5%BA%8F%E7%9A%84%E8%BE%93%E5%85%A5%E5%92%8C%E8%BE%93%E5%87%BA%E4%B9%8B%E9%97%B4%E7%9A%84%E5%85%B3%E7%B3%BB%E6%88%96%E7%A8%8B%E5%BA%8F%E5%8A%9F%E8%83%BD%E7%9A%84%E6%83%85%E5%86%B5%E4%B8%8B,%E4%BE%9D%E9%9D%A0%E8%BD%AF%E4%BB%B6%E8%A7%84%E6%A0%BC%E8%AF%B4%E6%98%8E%E4%B9%A6%E6%9D%A5%E7%A1%AE%E5%AE%9A%E6%B5%8B%E8%AF%95%E7%94%A8%E4%BE%8B%E5%92%8C%E6%8E%A8%E6%96%AD%E6%B5%8B%E8%AF%95%E7%BB%93%E6%9E%9C%E7%9A%84%E6%AD%A3%E7%A1%AE%E6%80%A7%E3%80%82">
+		</outline>
+		<outline text="白盒测试：" _mubu_text="%E7%99%BD%E7%9B%92%E6%B5%8B%E8%AF%95%EF%BC%9A">
+		</outline>
+		<outline text="根据软件内部的逻辑结构分析来进行测试,是基于代码的测试，测试人员通过阅读程序代码或者通" _mubu_text="%E6%A0%B9%E6%8D%AE%E8%BD%AF%E4%BB%B6%E5%86%85%E9%83%A8%E7%9A%84%E9%80%BB%E8%BE%91%E7%BB%93%E6%9E%84%E5%88%86%E6%9E%90%E6%9D%A5%E8%BF%9B%E8%A1%8C%E6%B5%8B%E8%AF%95,%E6%98%AF%E5%9F%BA%E4%BA%8E%E4%BB%A3%E7%A0%81%E7%9A%84%E6%B5%8B%E8%AF%95%EF%BC%8C%E6%B5%8B%E8%AF%95%E4%BA%BA%E5%91%98%E9%80%9A%E8%BF%87%E9%98%85%E8%AF%BB%E7%A8%8B%E5%BA%8F%E4%BB%A3%E7%A0%81%E6%88%96%E8%80%85%E9%80%9A">
+		</outline>
+		<outline text="过使用开发工具中的单步调试来判断软件的质量，一般黑盒测试由项目经理在程序员开发中来实现。" _mubu_text="%E8%BF%87%E4%BD%BF%E7%94%A8%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7%E4%B8%AD%E7%9A%84%E5%8D%95%E6%AD%A5%E8%B0%83%E8%AF%95%E6%9D%A5%E5%88%A4%E6%96%AD%E8%BD%AF%E4%BB%B6%E7%9A%84%E8%B4%A8%E9%87%8F%EF%BC%8C%E4%B8%80%E8%88%AC%E9%BB%91%E7%9B%92%E6%B5%8B%E8%AF%95%E7%94%B1%E9%A1%B9%E7%9B%AE%E7%BB%8F%E7%90%86%E5%9C%A8%E7%A8%8B%E5%BA%8F%E5%91%98%E5%BC%80%E5%8F%91%E4%B8%AD%E6%9D%A5%E5%AE%9E%E7%8E%B0%E3%80%82">
+		</outline>
+		<outline text="α测试：" _mubu_text="%CE%B1%E6%B5%8B%E8%AF%95%EF%BC%9A">
+		</outline>
+		<outline text="是由用户在开发环境下进行的测试，也可以是公司内部的用户在模拟实际操作环境下进行的受控测试，Alpha测试不能由程序员或测试员完成。" _mubu_text="%E6%98%AF%E7%94%B1%E7%94%A8%E6%88%B7%E5%9C%A8%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E4%B8%8B%E8%BF%9B%E8%A1%8C%E7%9A%84%E6%B5%8B%E8%AF%95%EF%BC%8C%E4%B9%9F%E5%8F%AF%E4%BB%A5%E6%98%AF%E5%85%AC%E5%8F%B8%E5%86%85%E9%83%A8%E7%9A%84%E7%94%A8%E6%88%B7%E5%9C%A8%E6%A8%A1%E6%8B%9F%E5%AE%9E%E9%99%85%E6%93%8D%E4%BD%9C%E7%8E%AF%E5%A2%83%E4%B8%8B%E8%BF%9B%E8%A1%8C%E7%9A%84%E5%8F%97%E6%8E%A7%E6%B5%8B%E8%AF%95%EF%BC%8CAlpha%E6%B5%8B%E8%AF%95%E4%B8%8D%E8%83%BD%E7%94%B1%E7%A8%8B%E5%BA%8F%E5%91%98%E6%88%96%E6%B5%8B%E8%AF%95%E5%91%98%E5%AE%8C%E6%88%90%E3%80%82">
+		</outline>
+		<outline text="β测试" _mubu_text="%CE%B2%E6%B5%8B%E8%AF%95">
+		</outline>
+		<outline text="由软件的一个或多个用户在实际使用环境下进行的测试， 开发者通常不在测试现场，Beta测试不能由程序员或测试员完成。" _mubu_text="%E7%94%B1%E8%BD%AF%E4%BB%B6%E7%9A%84%E4%B8%80%E4%B8%AA%E6%88%96%E5%A4%9A%E4%B8%AA%E7%94%A8%E6%88%B7%E5%9C%A8%E5%AE%9E%E9%99%85%E4%BD%BF%E7%94%A8%E7%8E%AF%E5%A2%83%E4%B8%8B%E8%BF%9B%E8%A1%8C%E7%9A%84%E6%B5%8B%E8%AF%95%EF%BC%8C%20%E5%BC%80%E5%8F%91%E8%80%85%E9%80%9A%E5%B8%B8%E4%B8%8D%E5%9C%A8%E6%B5%8B%E8%AF%95%E7%8E%B0%E5%9C%BA%EF%BC%8CBeta%E6%B5%8B%E8%AF%95%E4%B8%8D%E8%83%BD%E7%94%B1%E7%A8%8B%E5%BA%8F%E5%91%98%E6%88%96%E6%B5%8B%E8%AF%95%E5%91%98%E5%AE%8C%E6%88%90%E3%80%82">
+		</outline>
+		</outline>
+		<outline text="B5" _mubu_text="B5">
+		<outline text="黑盒测试的优点有：" _mubu_text="%E9%BB%91%E7%9B%92%E6%B5%8B%E8%AF%95%E7%9A%84%E4%BC%98%E7%82%B9%E6%9C%89%EF%BC%9A">
+		</outline>
+		<outline text="比较简单，不需要了解程序内部的代码及实现；" _mubu_text="%E6%AF%94%E8%BE%83%E7%AE%80%E5%8D%95%EF%BC%8C%E4%B8%8D%E9%9C%80%E8%A6%81%E4%BA%86%E8%A7%A3%E7%A8%8B%E5%BA%8F%E5%86%85%E9%83%A8%E7%9A%84%E4%BB%A3%E7%A0%81%E5%8F%8A%E5%AE%9E%E7%8E%B0%EF%BC%9B">
+		</outline>
+		<outline text="与软件的内部实现无关；" _mubu_text="%E4%B8%8E%E8%BD%AF%E4%BB%B6%E7%9A%84%E5%86%85%E9%83%A8%E5%AE%9E%E7%8E%B0%E6%97%A0%E5%85%B3%EF%BC%9B">
+		</outline>
+		<outline text="从用户角度出发，能很容易的知道用户会用到哪些功能，会遇到哪些问题；" _mubu_text="%E4%BB%8E%E7%94%A8%E6%88%B7%E8%A7%92%E5%BA%A6%E5%87%BA%E5%8F%91%EF%BC%8C%E8%83%BD%E5%BE%88%E5%AE%B9%E6%98%93%E7%9A%84%E7%9F%A5%E9%81%93%E7%94%A8%E6%88%B7%E4%BC%9A%E7%94%A8%E5%88%B0%E5%93%AA%E4%BA%9B%E5%8A%9F%E8%83%BD%EF%BC%8C%E4%BC%9A%E9%81%87%E5%88%B0%E5%93%AA%E4%BA%9B%E9%97%AE%E9%A2%98%EF%BC%9B">
+		</outline>
+		<outline text="基于软件开发文档，所以也能知道软件实现了文档中的哪些功能；在做软件自动化测试时较为方便。" _mubu_text="%E5%9F%BA%E4%BA%8E%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E6%96%87%E6%A1%A3%EF%BC%8C%E6%89%80%E4%BB%A5%E4%B9%9F%E8%83%BD%E7%9F%A5%E9%81%93%E8%BD%AF%E4%BB%B6%E5%AE%9E%E7%8E%B0%E4%BA%86%E6%96%87%E6%A1%A3%E4%B8%AD%E7%9A%84%E5%93%AA%E4%BA%9B%E5%8A%9F%E8%83%BD%EF%BC%9B%E5%9C%A8%E5%81%9A%E8%BD%AF%E4%BB%B6%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95%E6%97%B6%E8%BE%83%E4%B8%BA%E6%96%B9%E4%BE%BF%E3%80%82">
+		</outline>
+		<outline text="黑盒测试的缺点有：" _mubu_text="%E9%BB%91%E7%9B%92%E6%B5%8B%E8%AF%95%E7%9A%84%E7%BC%BA%E7%82%B9%E6%9C%89%EF%BC%9A">
+		</outline>
+		<outline text="不可能覆盖所有的代码，覆盖率较低，大概只能达到总代码量的30%；" _mubu_text="%E4%B8%8D%E5%8F%AF%E8%83%BD%E8%A6%86%E7%9B%96%E6%89%80%E6%9C%89%E7%9A%84%E4%BB%A3%E7%A0%81%EF%BC%8C%E8%A6%86%E7%9B%96%E7%8E%87%E8%BE%83%E4%BD%8E%EF%BC%8C%E5%A4%A7%E6%A6%82%E5%8F%AA%E8%83%BD%E8%BE%BE%E5%88%B0%E6%80%BB%E4%BB%A3%E7%A0%81%E9%87%8F%E7%9A%8430%25%EF%BC%9B">
+		</outline>
+		<outline text="自动化测试的复用性较低。" _mubu_text="%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95%E7%9A%84%E5%A4%8D%E7%94%A8%E6%80%A7%E8%BE%83%E4%BD%8E%E3%80%82">
+		</outline>
+		<outline text="白盒测试的优点有：" _mubu_text="%E7%99%BD%E7%9B%92%E6%B5%8B%E8%AF%95%E7%9A%84%E4%BC%98%E7%82%B9%E6%9C%89%EF%BC%9A">
+		</outline>
+		<outline text="帮助软件测试人员增大代码的覆盖率，提高代码的质量，发现代码中隐 藏的问题。" _mubu_text="%E5%B8%AE%E5%8A%A9%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E4%BA%BA%E5%91%98%E5%A2%9E%E5%A4%A7%E4%BB%A3%E7%A0%81%E7%9A%84%E8%A6%86%E7%9B%96%E7%8E%87%EF%BC%8C%E6%8F%90%E9%AB%98%E4%BB%A3%E7%A0%81%E7%9A%84%E8%B4%A8%E9%87%8F%EF%BC%8C%E5%8F%91%E7%8E%B0%E4%BB%A3%E7%A0%81%E4%B8%AD%E9%9A%90%20%E8%97%8F%E7%9A%84%E9%97%AE%E9%A2%98%E3%80%82">
+		</outline>
+		<outline text="白盒测试的缺点有：" _mubu_text="%E7%99%BD%E7%9B%92%E6%B5%8B%E8%AF%95%E7%9A%84%E7%BC%BA%E7%82%B9%E6%9C%89%EF%BC%9A">
+		</outline>
+		<outline text="程序运行会有很多不同的路径，不可能测试所有的运行路径；" _mubu_text="%E7%A8%8B%E5%BA%8F%E8%BF%90%E8%A1%8C%E4%BC%9A%E6%9C%89%E5%BE%88%E5%A4%9A%E4%B8%8D%E5%90%8C%E7%9A%84%E8%B7%AF%E5%BE%84%EF%BC%8C%E4%B8%8D%E5%8F%AF%E8%83%BD%E6%B5%8B%E8%AF%95%E6%89%80%E6%9C%89%E7%9A%84%E8%BF%90%E8%A1%8C%E8%B7%AF%E5%BE%84%EF%BC%9B">
+		</outline>
+		<outline text="测试基于代码，只能测试开发人员做的对不对，而不能知道设计的正确与否，可能会漏掉一些功能需求；" _mubu_text="%E6%B5%8B%E8%AF%95%E5%9F%BA%E4%BA%8E%E4%BB%A3%E7%A0%81%EF%BC%8C%E5%8F%AA%E8%83%BD%E6%B5%8B%E8%AF%95%E5%BC%80%E5%8F%91%E4%BA%BA%E5%91%98%E5%81%9A%E7%9A%84%E5%AF%B9%E4%B8%8D%E5%AF%B9%EF%BC%8C%E8%80%8C%E4%B8%8D%E8%83%BD%E7%9F%A5%E9%81%93%E8%AE%BE%E8%AE%A1%E7%9A%84%E6%AD%A3%E7%A1%AE%E4%B8%8E%E5%90%A6%EF%BC%8C%E5%8F%AF%E8%83%BD%E4%BC%9A%E6%BC%8F%E6%8E%89%E4%B8%80%E4%BA%9B%E5%8A%9F%E8%83%BD%E9%9C%80%E6%B1%82%EF%BC%9B">
+		</outline>
+		<outline text="系统庞大时，测试开销会非常大。" _mubu_text="%E7%B3%BB%E7%BB%9F%E5%BA%9E%E5%A4%A7%E6%97%B6%EF%BC%8C%E6%B5%8B%E8%AF%95%E5%BC%80%E9%94%80%E4%BC%9A%E9%9D%9E%E5%B8%B8%E5%A4%A7%E3%80%82">
+		</outline>
+		</outline>
+		<outline text="B6" _mubu_text="B6">
+		<outline text="功能度：用水杯装水看漏不漏；水能不能被喝到" _mubu_text="%E5%8A%9F%E8%83%BD%E5%BA%A6%EF%BC%9A%E7%94%A8%E6%B0%B4%E6%9D%AF%E8%A3%85%E6%B0%B4%E7%9C%8B%E6%BC%8F%E4%B8%8D%E6%BC%8F%EF%BC%9B%E6%B0%B4%E8%83%BD%E4%B8%8D%E8%83%BD%E8%A2%AB%E5%96%9D%E5%88%B0">
+		</outline>
+		<outline text="安全性：杯子有没有毒或细菌" _mubu_text="%E5%AE%89%E5%85%A8%E6%80%A7%EF%BC%9A%E6%9D%AF%E5%AD%90%E6%9C%89%E6%B2%A1%E6%9C%89%E6%AF%92%E6%88%96%E7%BB%86%E8%8F%8C">
+		</outline>
+		<outline text="可靠性：杯子从不同高度落下的损坏程度" _mubu_text="%E5%8F%AF%E9%9D%A0%E6%80%A7%EF%BC%9A%E6%9D%AF%E5%AD%90%E4%BB%8E%E4%B8%8D%E5%90%8C%E9%AB%98%E5%BA%A6%E8%90%BD%E4%B8%8B%E7%9A%84%E6%8D%9F%E5%9D%8F%E7%A8%8B%E5%BA%A6">
+		</outline>
+		<outline text="可移植性：杯子在不同的地方、温度等环境下是否都可以正常使用" _mubu_text="%E5%8F%AF%E7%A7%BB%E6%A4%8D%E6%80%A7%EF%BC%9A%E6%9D%AF%E5%AD%90%E5%9C%A8%E4%B8%8D%E5%90%8C%E7%9A%84%E5%9C%B0%E6%96%B9%E3%80%81%E6%B8%A9%E5%BA%A6%E7%AD%89%E7%8E%AF%E5%A2%83%E4%B8%8B%E6%98%AF%E5%90%A6%E9%83%BD%E5%8F%AF%E4%BB%A5%E6%AD%A3%E5%B8%B8%E4%BD%BF%E7%94%A8">
+		</outline>
+		<outline text="兼容性：杯子是否能够容纳果汁、白水、酒精、汽油等" _mubu_text="%E5%85%BC%E5%AE%B9%E6%80%A7%EF%BC%9A%E6%9D%AF%E5%AD%90%E6%98%AF%E5%90%A6%E8%83%BD%E5%A4%9F%E5%AE%B9%E7%BA%B3%E6%9E%9C%E6%B1%81%E3%80%81%E7%99%BD%E6%B0%B4%E3%80%81%E9%85%92%E7%B2%BE%E3%80%81%E6%B1%BD%E6%B2%B9%E7%AD%89">
+		</outline>
+		<outline text="易用性：杯子是否烫手、是否有防滑措施、是否方便饮用" _mubu_text="%E6%98%93%E7%94%A8%E6%80%A7%EF%BC%9A%E6%9D%AF%E5%AD%90%E6%98%AF%E5%90%A6%E7%83%AB%E6%89%8B%E3%80%81%E6%98%AF%E5%90%A6%E6%9C%89%E9%98%B2%E6%BB%91%E6%8E%AA%E6%96%BD%E3%80%81%E6%98%AF%E5%90%A6%E6%96%B9%E4%BE%BF%E9%A5%AE%E7%94%A8">
+		</outline>
+		<outline text="用户文档：使用手册是否对杯子的用法、限制、使用条件等有详细描述" _mubu_text="%E7%94%A8%E6%88%B7%E6%96%87%E6%A1%A3%EF%BC%9A%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C%E6%98%AF%E5%90%A6%E5%AF%B9%E6%9D%AF%E5%AD%90%E7%9A%84%E7%94%A8%E6%B3%95%E3%80%81%E9%99%90%E5%88%B6%E3%80%81%E4%BD%BF%E7%94%A8%E6%9D%A1%E4%BB%B6%E7%AD%89%E6%9C%89%E8%AF%A6%E7%BB%86%E6%8F%8F%E8%BF%B0">
+		</outline>
+		<outline text="疲劳测试：将杯子盛上水（案例一）放24小时检查泄漏时间和情况；盛上汽油（案例二）放24小" _mubu_text="%E7%96%B2%E5%8A%B3%E6%B5%8B%E8%AF%95%EF%BC%9A%E5%B0%86%E6%9D%AF%E5%AD%90%E7%9B%9B%E4%B8%8A%E6%B0%B4%EF%BC%88%E6%A1%88%E4%BE%8B%E4%B8%80%EF%BC%89%E6%94%BE24%E5%B0%8F%E6%97%B6%E6%A3%80%E6%9F%A5%E6%B3%84%E6%BC%8F%E6%97%B6%E9%97%B4%E5%92%8C%E6%83%85%E5%86%B5%EF%BC%9B%E7%9B%9B%E4%B8%8A%E6%B1%BD%E6%B2%B9%EF%BC%88%E6%A1%88%E4%BE%8B%E4%BA%8C%EF%BC%89%E6%94%BE24%E5%B0%8F">
+		</outline>
+		<outline text="时检查泄漏时间和情况等" _mubu_text="%E6%97%B6%E6%A3%80%E6%9F%A5%E6%B3%84%E6%BC%8F%E6%97%B6%E9%97%B4%E5%92%8C%E6%83%85%E5%86%B5%E7%AD%89">
+		</outline>
+		<outline text="压力测试：用根针并在针上面不断加重量，看压强多大时会穿透" _mubu_text="%E5%8E%8B%E5%8A%9B%E6%B5%8B%E8%AF%95%EF%BC%9A%E7%94%A8%E6%A0%B9%E9%92%88%E5%B9%B6%E5%9C%A8%E9%92%88%E4%B8%8A%E9%9D%A2%E4%B8%8D%E6%96%AD%E5%8A%A0%E9%87%8D%E9%87%8F%EF%BC%8C%E7%9C%8B%E5%8E%8B%E5%BC%BA%E5%A4%9A%E5%A4%A7%E6%97%B6%E4%BC%9A%E7%A9%BF%E9%80%8F">
+		</outline>
+		</outline>
+		<outline text="B7" _mubu_text="B7">
+		<outline text="1）等价类划分：" _mubu_text="1%EF%BC%89%E7%AD%89%E4%BB%B7%E7%B1%BB%E5%88%92%E5%88%86%EF%BC%9A">
+		</outline>
+		<outline text="等价类是指某个输入域的子集合.在该子集合中,各个输入数据对于揭露程序中" _mubu_text="%E7%AD%89%E4%BB%B7%E7%B1%BB%E6%98%AF%E6%8C%87%E6%9F%90%E4%B8%AA%E8%BE%93%E5%85%A5%E5%9F%9F%E7%9A%84%E5%AD%90%E9%9B%86%E5%90%88.%E5%9C%A8%E8%AF%A5%E5%AD%90%E9%9B%86%E5%90%88%E4%B8%AD,%E5%90%84%E4%B8%AA%E8%BE%93%E5%85%A5%E6%95%B0%E6%8D%AE%E5%AF%B9%E4%BA%8E%E6%8F%AD%E9%9C%B2%E7%A8%8B%E5%BA%8F%E4%B8%AD">
+		</outline>
+		<outline text="的错误都是等效的.并合理地假定:测试某等价类的代表值就等于对这一类其它值的测试.因此,可" _mubu_text="%E7%9A%84%E9%94%99%E8%AF%AF%E9%83%BD%E6%98%AF%E7%AD%89%E6%95%88%E7%9A%84.%E5%B9%B6%E5%90%88%E7%90%86%E5%9C%B0%E5%81%87%E5%AE%9A:%E6%B5%8B%E8%AF%95%E6%9F%90%E7%AD%89%E4%BB%B7%E7%B1%BB%E7%9A%84%E4%BB%A3%E8%A1%A8%E5%80%BC%E5%B0%B1%E7%AD%89%E4%BA%8E%E5%AF%B9%E8%BF%99%E4%B8%80%E7%B1%BB%E5%85%B6%E5%AE%83%E5%80%BC%E7%9A%84%E6%B5%8B%E8%AF%95.%E5%9B%A0%E6%AD%A4,%E5%8F%AF">
+		</outline>
+		<outline text="以把全部输入数据合理划分为若干等价类,在每一个等价类中取一个数据作为测试的输入条件,就" _mubu_text="%E4%BB%A5%E6%8A%8A%E5%85%A8%E9%83%A8%E8%BE%93%E5%85%A5%E6%95%B0%E6%8D%AE%E5%90%88%E7%90%86%E5%88%92%E5%88%86%E4%B8%BA%E8%8B%A5%E5%B9%B2%E7%AD%89%E4%BB%B7%E7%B1%BB,%E5%9C%A8%E6%AF%8F%E4%B8%80%E4%B8%AA%E7%AD%89%E4%BB%B7%E7%B1%BB%E4%B8%AD%E5%8F%96%E4%B8%80%E4%B8%AA%E6%95%B0%E6%8D%AE%E4%BD%9C%E4%B8%BA%E6%B5%8B%E8%AF%95%E7%9A%84%E8%BE%93%E5%85%A5%E6%9D%A1%E4%BB%B6,%E5%B0%B1">
+		</outline>
+		<outline text="可以用少量代表性的测试数据.取得较好的测试结果.等价类划分可有两种不同的情况:有效等价类" _mubu_text="%E5%8F%AF%E4%BB%A5%E7%94%A8%E5%B0%91%E9%87%8F%E4%BB%A3%E8%A1%A8%E6%80%A7%E7%9A%84%E6%B5%8B%E8%AF%95%E6%95%B0%E6%8D%AE.%E5%8F%96%E5%BE%97%E8%BE%83%E5%A5%BD%E7%9A%84%E6%B5%8B%E8%AF%95%E7%BB%93%E6%9E%9C.%E7%AD%89%E4%BB%B7%E7%B1%BB%E5%88%92%E5%88%86%E5%8F%AF%E6%9C%89%E4%B8%A4%E7%A7%8D%E4%B8%8D%E5%90%8C%E7%9A%84%E6%83%85%E5%86%B5:%E6%9C%89%E6%95%88%E7%AD%89%E4%BB%B7%E7%B1%BB">
+		</outline>
+		<outline text="和无效等价类." _mubu_text="%E5%92%8C%E6%97%A0%E6%95%88%E7%AD%89%E4%BB%B7%E7%B1%BB.">
+		</outline>
+		<outline text="2）边界值分析法：" _mubu_text="2%EF%BC%89%E8%BE%B9%E7%95%8C%E5%80%BC%E5%88%86%E6%9E%90%E6%B3%95%EF%BC%9A">
+		</outline>
+		<outline text="是对等价类划分方法的补充。测试工作经验告诉我,大量的错误是发生在输入" _mubu_text="%E6%98%AF%E5%AF%B9%E7%AD%89%E4%BB%B7%E7%B1%BB%E5%88%92%E5%88%86%E6%96%B9%E6%B3%95%E7%9A%84%E8%A1%A5%E5%85%85%E3%80%82%E6%B5%8B%E8%AF%95%E5%B7%A5%E4%BD%9C%E7%BB%8F%E9%AA%8C%E5%91%8A%E8%AF%89%E6%88%91,%E5%A4%A7%E9%87%8F%E7%9A%84%E9%94%99%E8%AF%AF%E6%98%AF%E5%8F%91%E7%94%9F%E5%9C%A8%E8%BE%93%E5%85%A5">
+		</outline>
+		<outline text="或输出范围的边界上,而不是发生在输入输出范围的内部.因此针对各种边界情况设计测试用例,可" _mubu_text="%E6%88%96%E8%BE%93%E5%87%BA%E8%8C%83%E5%9B%B4%E7%9A%84%E8%BE%B9%E7%95%8C%E4%B8%8A,%E8%80%8C%E4%B8%8D%E6%98%AF%E5%8F%91%E7%94%9F%E5%9C%A8%E8%BE%93%E5%85%A5%E8%BE%93%E5%87%BA%E8%8C%83%E5%9B%B4%E7%9A%84%E5%86%85%E9%83%A8.%E5%9B%A0%E6%AD%A4%E9%92%88%E5%AF%B9%E5%90%84%E7%A7%8D%E8%BE%B9%E7%95%8C%E6%83%85%E5%86%B5%E8%AE%BE%E8%AE%A1%E6%B5%8B%E8%AF%95%E7%94%A8%E4%BE%8B,%E5%8F%AF">
+		</outline>
+		<outline text="以查出更多的错误." _mubu_text="%E4%BB%A5%E6%9F%A5%E5%87%BA%E6%9B%B4%E5%A4%9A%E7%9A%84%E9%94%99%E8%AF%AF.">
+		</outline>
+		<outline text="使用边界值分析方法设计测试用例,首先应确定边界情况.通常输入和输出等价类的边界,就是应着" _mubu_text="%E4%BD%BF%E7%94%A8%E8%BE%B9%E7%95%8C%E5%80%BC%E5%88%86%E6%9E%90%E6%96%B9%E6%B3%95%E8%AE%BE%E8%AE%A1%E6%B5%8B%E8%AF%95%E7%94%A8%E4%BE%8B,%E9%A6%96%E5%85%88%E5%BA%94%E7%A1%AE%E5%AE%9A%E8%BE%B9%E7%95%8C%E6%83%85%E5%86%B5.%E9%80%9A%E5%B8%B8%E8%BE%93%E5%85%A5%E5%92%8C%E8%BE%93%E5%87%BA%E7%AD%89%E4%BB%B7%E7%B1%BB%E7%9A%84%E8%BE%B9%E7%95%8C,%E5%B0%B1%E6%98%AF%E5%BA%94%E7%9D%80">
+		</outline>
+		<outline text="重测试的边界情况.应当选取正好等于,刚刚大于或刚刚小于边界的值作为测试数据,而不是选取等" _mubu_text="%E9%87%8D%E6%B5%8B%E8%AF%95%E7%9A%84%E8%BE%B9%E7%95%8C%E6%83%85%E5%86%B5.%E5%BA%94%E5%BD%93%E9%80%89%E5%8F%96%E6%AD%A3%E5%A5%BD%E7%AD%89%E4%BA%8E,%E5%88%9A%E5%88%9A%E5%A4%A7%E4%BA%8E%E6%88%96%E5%88%9A%E5%88%9A%E5%B0%8F%E4%BA%8E%E8%BE%B9%E7%95%8C%E7%9A%84%E5%80%BC%E4%BD%9C%E4%B8%BA%E6%B5%8B%E8%AF%95%E6%95%B0%E6%8D%AE,%E8%80%8C%E4%B8%8D%E6%98%AF%E9%80%89%E5%8F%96%E7%AD%89">
+		</outline>
+		<outline text="价类中的典型值或任意值作为测试数据." _mubu_text="%E4%BB%B7%E7%B1%BB%E4%B8%AD%E7%9A%84%E5%85%B8%E5%9E%8B%E5%80%BC%E6%88%96%E4%BB%BB%E6%84%8F%E5%80%BC%E4%BD%9C%E4%B8%BA%E6%B5%8B%E8%AF%95%E6%95%B0%E6%8D%AE.">
+		</outline>
+		<outline text="3）错误猜测法：" _mubu_text="3%EF%BC%89%E9%94%99%E8%AF%AF%E7%8C%9C%E6%B5%8B%E6%B3%95%EF%BC%9A">
+		</outline>
+		<outline text="基于经验和直觉推测程序中所有可能存在的各种错误, 从而有针对性的设计测试用例的方法." _mubu_text="%E5%9F%BA%E4%BA%8E%E7%BB%8F%E9%AA%8C%E5%92%8C%E7%9B%B4%E8%A7%89%E6%8E%A8%E6%B5%8B%E7%A8%8B%E5%BA%8F%E4%B8%AD%E6%89%80%E6%9C%89%E5%8F%AF%E8%83%BD%E5%AD%98%E5%9C%A8%E7%9A%84%E5%90%84%E7%A7%8D%E9%94%99%E8%AF%AF,%20%E4%BB%8E%E8%80%8C%E6%9C%89%E9%92%88%E5%AF%B9%E6%80%A7%E7%9A%84%E8%AE%BE%E8%AE%A1%E6%B5%8B%E8%AF%95%E7%94%A8%E4%BE%8B%E7%9A%84%E6%96%B9%E6%B3%95.">
+		</outline>
+		<outline text="错误推测方法的基本思想: 列举出程序中所有可能有的错误和容易发生错误的特殊情况,根据他们" _mubu_text="%E9%94%99%E8%AF%AF%E6%8E%A8%E6%B5%8B%E6%96%B9%E6%B3%95%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%80%9D%E6%83%B3:%20%E5%88%97%E4%B8%BE%E5%87%BA%E7%A8%8B%E5%BA%8F%E4%B8%AD%E6%89%80%E6%9C%89%E5%8F%AF%E8%83%BD%E6%9C%89%E7%9A%84%E9%94%99%E8%AF%AF%E5%92%8C%E5%AE%B9%E6%98%93%E5%8F%91%E7%94%9F%E9%94%99%E8%AF%AF%E7%9A%84%E7%89%B9%E6%AE%8A%E6%83%85%E5%86%B5,%E6%A0%B9%E6%8D%AE%E4%BB%96%E4%BB%AC">
+		</outline>
+		<outline text="选择测试用例. 例如, 在单元测试时曾列出的许多在模块中常见的错误. 以前产品测试中曾经发" _mubu_text="%E9%80%89%E6%8B%A9%E6%B5%8B%E8%AF%95%E7%94%A8%E4%BE%8B.%20%E4%BE%8B%E5%A6%82,%20%E5%9C%A8%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95%E6%97%B6%E6%9B%BE%E5%88%97%E5%87%BA%E7%9A%84%E8%AE%B8%E5%A4%9A%E5%9C%A8%E6%A8%A1%E5%9D%97%E4%B8%AD%E5%B8%B8%E8%A7%81%E7%9A%84%E9%94%99%E8%AF%AF.%20%E4%BB%A5%E5%89%8D%E4%BA%A7%E5%93%81%E6%B5%8B%E8%AF%95%E4%B8%AD%E6%9B%BE%E7%BB%8F%E5%8F%91">
+		</outline>
+		<outline text="现的错误等, 这些就是经验的总结. 还有, 输入数据和输出数据为0的情况. 输入表格为空格或输" _mubu_text="%E7%8E%B0%E7%9A%84%E9%94%99%E8%AF%AF%E7%AD%89,%20%E8%BF%99%E4%BA%9B%E5%B0%B1%E6%98%AF%E7%BB%8F%E9%AA%8C%E7%9A%84%E6%80%BB%E7%BB%93.%20%E8%BF%98%E6%9C%89,%20%E8%BE%93%E5%85%A5%E6%95%B0%E6%8D%AE%E5%92%8C%E8%BE%93%E5%87%BA%E6%95%B0%E6%8D%AE%E4%B8%BA0%E7%9A%84%E6%83%85%E5%86%B5.%20%E8%BE%93%E5%85%A5%E8%A1%A8%E6%A0%BC%E4%B8%BA%E7%A9%BA%E6%A0%BC%E6%88%96%E8%BE%93">
+		</outline>
+		<outline text="入表格只有一行. 这些都是容易发生错误的情况. 可选择这些情况下的例子作为测试用例." _mubu_text="%E5%85%A5%E8%A1%A8%E6%A0%BC%E5%8F%AA%E6%9C%89%E4%B8%80%E8%A1%8C.%20%E8%BF%99%E4%BA%9B%E9%83%BD%E6%98%AF%E5%AE%B9%E6%98%93%E5%8F%91%E7%94%9F%E9%94%99%E8%AF%AF%E7%9A%84%E6%83%85%E5%86%B5.%20%E5%8F%AF%E9%80%89%E6%8B%A9%E8%BF%99%E4%BA%9B%E6%83%85%E5%86%B5%E4%B8%8B%E7%9A%84%E4%BE%8B%E5%AD%90%E4%BD%9C%E4%B8%BA%E6%B5%8B%E8%AF%95%E7%94%A8%E4%BE%8B.">
+		</outline>
+		<outline text="4）因果图方法：" _mubu_text="4%EF%BC%89%E5%9B%A0%E6%9E%9C%E5%9B%BE%E6%96%B9%E6%B3%95%EF%BC%9A">
+		</outline>
+		<outline text="前面介绍的等价类划分方法和边界值分析方法,都是着重考虑输入条件,但未考虑" _mubu_text="%E5%89%8D%E9%9D%A2%E4%BB%8B%E7%BB%8D%E7%9A%84%E7%AD%89%E4%BB%B7%E7%B1%BB%E5%88%92%E5%88%86%E6%96%B9%E6%B3%95%E5%92%8C%E8%BE%B9%E7%95%8C%E5%80%BC%E5%88%86%E6%9E%90%E6%96%B9%E6%B3%95,%E9%83%BD%E6%98%AF%E7%9D%80%E9%87%8D%E8%80%83%E8%99%91%E8%BE%93%E5%85%A5%E6%9D%A1%E4%BB%B6,%E4%BD%86%E6%9C%AA%E8%80%83%E8%99%91">
+		</outline>
+		<outline text="输入条件之间的联系, 相互组合等. 考虑输入条件之间的相互组合,可能会产生一些新的情况. 但" _mubu_text="%E8%BE%93%E5%85%A5%E6%9D%A1%E4%BB%B6%E4%B9%8B%E9%97%B4%E7%9A%84%E8%81%94%E7%B3%BB,%20%E7%9B%B8%E4%BA%92%E7%BB%84%E5%90%88%E7%AD%89.%20%E8%80%83%E8%99%91%E8%BE%93%E5%85%A5%E6%9D%A1%E4%BB%B6%E4%B9%8B%E9%97%B4%E7%9A%84%E7%9B%B8%E4%BA%92%E7%BB%84%E5%90%88,%E5%8F%AF%E8%83%BD%E4%BC%9A%E4%BA%A7%E7%94%9F%E4%B8%80%E4%BA%9B%E6%96%B0%E7%9A%84%E6%83%85%E5%86%B5.%20%E4%BD%86">
+		</outline>
+		<outline text="要检查输入条件的组合不是一件容易的事情, 即使把所有输入条件划分成等价类,他们之间的组合" _mubu_text="%E8%A6%81%E6%A3%80%E6%9F%A5%E8%BE%93%E5%85%A5%E6%9D%A1%E4%BB%B6%E7%9A%84%E7%BB%84%E5%90%88%E4%B8%8D%E6%98%AF%E4%B8%80%E4%BB%B6%E5%AE%B9%E6%98%93%E7%9A%84%E4%BA%8B%E6%83%85,%20%E5%8D%B3%E4%BD%BF%E6%8A%8A%E6%89%80%E6%9C%89%E8%BE%93%E5%85%A5%E6%9D%A1%E4%BB%B6%E5%88%92%E5%88%86%E6%88%90%E7%AD%89%E4%BB%B7%E7%B1%BB,%E4%BB%96%E4%BB%AC%E4%B9%8B%E9%97%B4%E7%9A%84%E7%BB%84%E5%90%88">
+		</outline>
+		<outline text="情况也相当多. 因此必须考虑采用一种适合于描述对于多种条件的组合,相应产生多个动作的形式" _mubu_text="%E6%83%85%E5%86%B5%E4%B9%9F%E7%9B%B8%E5%BD%93%E5%A4%9A.%20%E5%9B%A0%E6%AD%A4%E5%BF%85%E9%A1%BB%E8%80%83%E8%99%91%E9%87%87%E7%94%A8%E4%B8%80%E7%A7%8D%E9%80%82%E5%90%88%E4%BA%8E%E6%8F%8F%E8%BF%B0%E5%AF%B9%E4%BA%8E%E5%A4%9A%E7%A7%8D%E6%9D%A1%E4%BB%B6%E7%9A%84%E7%BB%84%E5%90%88,%E7%9B%B8%E5%BA%94%E4%BA%A7%E7%94%9F%E5%A4%9A%E4%B8%AA%E5%8A%A8%E4%BD%9C%E7%9A%84%E5%BD%A2%E5%BC%8F">
+		</outline>
+		<outline text="来考虑设计测试用例. 这就需要利用因果图（逻辑模型）. 因果图方法最终生成的就是判定表." _mubu_text="%E6%9D%A5%E8%80%83%E8%99%91%E8%AE%BE%E8%AE%A1%E6%B5%8B%E8%AF%95%E7%94%A8%E4%BE%8B.%20%E8%BF%99%E5%B0%B1%E9%9C%80%E8%A6%81%E5%88%A9%E7%94%A8%E5%9B%A0%E6%9E%9C%E5%9B%BE%EF%BC%88%E9%80%BB%E8%BE%91%E6%A8%A1%E5%9E%8B%EF%BC%89.%20%E5%9B%A0%E6%9E%9C%E5%9B%BE%E6%96%B9%E6%B3%95%E6%9C%80%E7%BB%88%E7%94%9F%E6%88%90%E7%9A%84%E5%B0%B1%E6%98%AF%E5%88%A4%E5%AE%9A%E8%A1%A8.">
+		</outline>
+		<outline text="它适合于检查程序输入条件的各种组合情况." _mubu_text="%E5%AE%83%E9%80%82%E5%90%88%E4%BA%8E%E6%A3%80%E6%9F%A5%E7%A8%8B%E5%BA%8F%E8%BE%93%E5%85%A5%E6%9D%A1%E4%BB%B6%E7%9A%84%E5%90%84%E7%A7%8D%E7%BB%84%E5%90%88%E6%83%85%E5%86%B5.">
+		</outline>
+		<outline text="5）正交表分析法：可能因为大量的参数的组合而引起测试用例数量上的激增，同时，这些测试用" _mubu_text="5%EF%BC%89%E6%AD%A3%E4%BA%A4%E8%A1%A8%E5%88%86%E6%9E%90%E6%B3%95%EF%BC%9A%E5%8F%AF%E8%83%BD%E5%9B%A0%E4%B8%BA%E5%A4%A7%E9%87%8F%E7%9A%84%E5%8F%82%E6%95%B0%E7%9A%84%E7%BB%84%E5%90%88%E8%80%8C%E5%BC%95%E8%B5%B7%E6%B5%8B%E8%AF%95%E7%94%A8%E4%BE%8B%E6%95%B0%E9%87%8F%E4%B8%8A%E7%9A%84%E6%BF%80%E5%A2%9E%EF%BC%8C%E5%90%8C%E6%97%B6%EF%BC%8C%E8%BF%99%E4%BA%9B%E6%B5%8B%E8%AF%95%E7%94%A8">
+		</outline>
+		<outline text="例并没有明显的优先级上的差距，而测试人员又无法完成这么多数量的测试，就可以通过正交表" _mubu_text="%E4%BE%8B%E5%B9%B6%E6%B2%A1%E6%9C%89%E6%98%8E%E6%98%BE%E7%9A%84%E4%BC%98%E5%85%88%E7%BA%A7%E4%B8%8A%E7%9A%84%E5%B7%AE%E8%B7%9D%EF%BC%8C%E8%80%8C%E6%B5%8B%E8%AF%95%E4%BA%BA%E5%91%98%E5%8F%88%E6%97%A0%E6%B3%95%E5%AE%8C%E6%88%90%E8%BF%99%E4%B9%88%E5%A4%9A%E6%95%B0%E9%87%8F%E7%9A%84%E6%B5%8B%E8%AF%95%EF%BC%8C%E5%B0%B1%E5%8F%AF%E4%BB%A5%E9%80%9A%E8%BF%87%E6%AD%A3%E4%BA%A4%E8%A1%A8">
+		</outline>
+		<outline text="来进行缩减一些用例，从而达到尽量少的用例覆盖尽量大的范围的可能性。" _mubu_text="%E6%9D%A5%E8%BF%9B%E8%A1%8C%E7%BC%A9%E5%87%8F%E4%B8%80%E4%BA%9B%E7%94%A8%E4%BE%8B%EF%BC%8C%E4%BB%8E%E8%80%8C%E8%BE%BE%E5%88%B0%E5%B0%BD%E9%87%8F%E5%B0%91%E7%9A%84%E7%94%A8%E4%BE%8B%E8%A6%86%E7%9B%96%E5%B0%BD%E9%87%8F%E5%A4%A7%E7%9A%84%E8%8C%83%E5%9B%B4%E7%9A%84%E5%8F%AF%E8%83%BD%E6%80%A7%E3%80%82">
+		</outline>
+		<outline text="6）场景分析方法：指根据用户场景来模拟用户的操作步骤，这个比较类似因果图，但是可能执行" _mubu_text="6%EF%BC%89%E5%9C%BA%E6%99%AF%E5%88%86%E6%9E%90%E6%96%B9%E6%B3%95%EF%BC%9A%E6%8C%87%E6%A0%B9%E6%8D%AE%E7%94%A8%E6%88%B7%E5%9C%BA%E6%99%AF%E6%9D%A5%E6%A8%A1%E6%8B%9F%E7%94%A8%E6%88%B7%E7%9A%84%E6%93%8D%E4%BD%9C%E6%AD%A5%E9%AA%A4%EF%BC%8C%E8%BF%99%E4%B8%AA%E6%AF%94%E8%BE%83%E7%B1%BB%E4%BC%BC%E5%9B%A0%E6%9E%9C%E5%9B%BE%EF%BC%8C%E4%BD%86%E6%98%AF%E5%8F%AF%E8%83%BD%E6%89%A7%E8%A1%8C">
+		</outline>
+		<outline text="的深度和可行性更好。" _mubu_text="%E7%9A%84%E6%B7%B1%E5%BA%A6%E5%92%8C%E5%8F%AF%E8%A1%8C%E6%80%A7%E6%9B%B4%E5%A5%BD%E3%80%82">
+		</outline>
+		<outline text="7）状态图法：" _mubu_text="7%EF%BC%89%E7%8A%B6%E6%80%81%E5%9B%BE%E6%B3%95%EF%BC%9A">
+		</outline>
+		<outline text="通过输入条件和系统需求说明得到被测系统的所有状态，通过输入条件和状态得出" _mubu_text="%E9%80%9A%E8%BF%87%E8%BE%93%E5%85%A5%E6%9D%A1%E4%BB%B6%E5%92%8C%E7%B3%BB%E7%BB%9F%E9%9C%80%E6%B1%82%E8%AF%B4%E6%98%8E%E5%BE%97%E5%88%B0%E8%A2%AB%E6%B5%8B%E7%B3%BB%E7%BB%9F%E7%9A%84%E6%89%80%E6%9C%89%E7%8A%B6%E6%80%81%EF%BC%8C%E9%80%9A%E8%BF%87%E8%BE%93%E5%85%A5%E6%9D%A1%E4%BB%B6%E5%92%8C%E7%8A%B6%E6%80%81%E5%BE%97%E5%87%BA">
+		</outline>
+		<outline text="输出条件；通过输入条件、输出条件和状态得出被测系统的测试用例。" _mubu_text="%E8%BE%93%E5%87%BA%E6%9D%A1%E4%BB%B6%EF%BC%9B%E9%80%9A%E8%BF%87%E8%BE%93%E5%85%A5%E6%9D%A1%E4%BB%B6%E3%80%81%E8%BE%93%E5%87%BA%E6%9D%A1%E4%BB%B6%E5%92%8C%E7%8A%B6%E6%80%81%E5%BE%97%E5%87%BA%E8%A2%AB%E6%B5%8B%E7%B3%BB%E7%BB%9F%E7%9A%84%E6%B5%8B%E8%AF%95%E7%94%A8%E4%BE%8B%E3%80%82">
+		</outline>
+		<outline text="8）大纲法：大纲法是一种着眼于需求的方法，为了列出各种测试条件，就将需求转换为大纲的形" _mubu_text="8%EF%BC%89%E5%A4%A7%E7%BA%B2%E6%B3%95%EF%BC%9A%E5%A4%A7%E7%BA%B2%E6%B3%95%E6%98%AF%E4%B8%80%E7%A7%8D%E7%9D%80%E7%9C%BC%E4%BA%8E%E9%9C%80%E6%B1%82%E7%9A%84%E6%96%B9%E6%B3%95%EF%BC%8C%E4%B8%BA%E4%BA%86%E5%88%97%E5%87%BA%E5%90%84%E7%A7%8D%E6%B5%8B%E8%AF%95%E6%9D%A1%E4%BB%B6%EF%BC%8C%E5%B0%B1%E5%B0%86%E9%9C%80%E6%B1%82%E8%BD%AC%E6%8D%A2%E4%B8%BA%E5%A4%A7%E7%BA%B2%E7%9A%84%E5%BD%A2">
+		</outline>
+		<outline text="式。大纲表示为树状结构，在根和每个叶子结点之间存在唯一的路径。大纲中的每条路径定义了" _mubu_text="%E5%BC%8F%E3%80%82%E5%A4%A7%E7%BA%B2%E8%A1%A8%E7%A4%BA%E4%B8%BA%E6%A0%91%E7%8A%B6%E7%BB%93%E6%9E%84%EF%BC%8C%E5%9C%A8%E6%A0%B9%E5%92%8C%E6%AF%8F%E4%B8%AA%E5%8F%B6%E5%AD%90%E7%BB%93%E7%82%B9%E4%B9%8B%E9%97%B4%E5%AD%98%E5%9C%A8%E5%94%AF%E4%B8%80%E7%9A%84%E8%B7%AF%E5%BE%84%E3%80%82%E5%A4%A7%E7%BA%B2%E4%B8%AD%E7%9A%84%E6%AF%8F%E6%9D%A1%E8%B7%AF%E5%BE%84%E5%AE%9A%E4%B9%89%E4%BA%86">
+		</outline>
+		<outline text="一个特定的输入条件集合，用于定义测试用例。树中叶子的数目或大纲中的路径给出了测试所有" _mubu_text="%E4%B8%80%E4%B8%AA%E7%89%B9%E5%AE%9A%E7%9A%84%E8%BE%93%E5%85%A5%E6%9D%A1%E4%BB%B6%E9%9B%86%E5%90%88%EF%BC%8C%E7%94%A8%E4%BA%8E%E5%AE%9A%E4%B9%89%E6%B5%8B%E8%AF%95%E7%94%A8%E4%BE%8B%E3%80%82%E6%A0%91%E4%B8%AD%E5%8F%B6%E5%AD%90%E7%9A%84%E6%95%B0%E7%9B%AE%E6%88%96%E5%A4%A7%E7%BA%B2%E4%B8%AD%E7%9A%84%E8%B7%AF%E5%BE%84%E7%BB%99%E5%87%BA%E4%BA%86%E6%B5%8B%E8%AF%95%E6%89%80%E6%9C%89">
+		</outline>
+		<outline text="功能所需测试用例的大致数量。" _mubu_text="%E5%8A%9F%E8%83%BD%E6%89%80%E9%9C%80%E6%B5%8B%E8%AF%95%E7%94%A8%E4%BE%8B%E7%9A%84%E5%A4%A7%E8%87%B4%E6%95%B0%E9%87%8F%E3%80%82">
+		</outline>
+		</outline>
+		<outline text="B8" _mubu_text="B8">
+		<outline text="https://blog.51cto.com/11392572/2105337" _mubu_text="%3Ca%20class=%22content-link%22%20target=%22_blank%22%20rel=%22noreferrer%22%20href=%22https://blog.51cto.com/11392572/2105337%22%3Ehttps://blog.51cto.com/11392572/2105337%3C/a%3E">
+		</outline>
+		</outline>
+		<outline text="B9" _mubu_text="B9">
+		<outline text="兼容测试主要是检查软件在不同的硬件平台、软件平台上是否可以正常的运行，即是通常说的软件的可移植性。" _mubu_text="%E5%85%BC%E5%AE%B9%E6%B5%8B%E8%AF%95%E4%B8%BB%E8%A6%81%E6%98%AF%E6%A3%80%E6%9F%A5%E8%BD%AF%E4%BB%B6%E5%9C%A8%E4%B8%8D%E5%90%8C%E7%9A%84%E7%A1%AC%E4%BB%B6%E5%B9%B3%E5%8F%B0%E3%80%81%E8%BD%AF%E4%BB%B6%E5%B9%B3%E5%8F%B0%E4%B8%8A%E6%98%AF%E5%90%A6%E5%8F%AF%E4%BB%A5%E6%AD%A3%E5%B8%B8%E7%9A%84%E8%BF%90%E8%A1%8C%EF%BC%8C%E5%8D%B3%E6%98%AF%E9%80%9A%E5%B8%B8%E8%AF%B4%E7%9A%84%E8%BD%AF%E4%BB%B6%E7%9A%84%E5%8F%AF%E7%A7%BB%E6%A4%8D%E6%80%A7%E3%80%82">
+		</outline>
+		<outline text="兼容的类型，如果细分的话，有平台的兼容，网络兼容，数据库兼容，以及数据格式的兼容。" _mubu_text="%E5%85%BC%E5%AE%B9%E7%9A%84%E7%B1%BB%E5%9E%8B%EF%BC%8C%E5%A6%82%E6%9E%9C%E7%BB%86%E5%88%86%E7%9A%84%E8%AF%9D%EF%BC%8C%E6%9C%89%E5%B9%B3%E5%8F%B0%E7%9A%84%E5%85%BC%E5%AE%B9%EF%BC%8C%E7%BD%91%E7%BB%9C%E5%85%BC%E5%AE%B9%EF%BC%8C%E6%95%B0%E6%8D%AE%E5%BA%93%E5%85%BC%E5%AE%B9%EF%BC%8C%E4%BB%A5%E5%8F%8A%E6%95%B0%E6%8D%AE%E6%A0%BC%E5%BC%8F%E7%9A%84%E5%85%BC%E5%AE%B9%E3%80%82">
+		</outline>
+		<outline text="兼容测试的重点是，对兼容环境的分析。通常，是在运行软件的环境不是很确定的情况下，才需要做兼容。根据软件运行的需要，或者根据需求文档，一般能够得出用户会在什么环境下使用该软件" _mubu_text="%E5%85%BC%E5%AE%B9%E6%B5%8B%E8%AF%95%E7%9A%84%E9%87%8D%E7%82%B9%E6%98%AF%EF%BC%8C%E5%AF%B9%E5%85%BC%E5%AE%B9%E7%8E%AF%E5%A2%83%E7%9A%84%E5%88%86%E6%9E%90%E3%80%82%E9%80%9A%E5%B8%B8%EF%BC%8C%E6%98%AF%E5%9C%A8%E8%BF%90%E8%A1%8C%E8%BD%AF%E4%BB%B6%E7%9A%84%E7%8E%AF%E5%A2%83%E4%B8%8D%E6%98%AF%E5%BE%88%E7%A1%AE%E5%AE%9A%E7%9A%84%E6%83%85%E5%86%B5%E4%B8%8B%EF%BC%8C%E6%89%8D%E9%9C%80%E8%A6%81%E5%81%9A%E5%85%BC%E5%AE%B9%E3%80%82%E6%A0%B9%E6%8D%AE%E8%BD%AF%E4%BB%B6%E8%BF%90%E8%A1%8C%E7%9A%84%E9%9C%80%E8%A6%81%EF%BC%8C%E6%88%96%E8%80%85%E6%A0%B9%E6%8D%AE%E9%9C%80%E6%B1%82%E6%96%87%E6%A1%A3%EF%BC%8C%E4%B8%80%E8%88%AC%E8%83%BD%E5%A4%9F%E5%BE%97%E5%87%BA%E7%94%A8%E6%88%B7%E4%BC%9A%E5%9C%A8%E4%BB%80%E4%B9%88%E7%8E%AF%E5%A2%83%E4%B8%8B%E4%BD%BF%E7%94%A8%E8%AF%A5%E8%BD%AF%E4%BB%B6">
+		</outline>
+		<outline text="---------------------" _mubu_text="---------------------">
+		</outline>
+		<outline text="作者：翟羽佳羽佳" _mubu_text="%E4%BD%9C%E8%80%85%EF%BC%9A%E7%BF%9F%E7%BE%BD%E4%BD%B3%E7%BE%BD%E4%BD%B3">
+		</outline>
+		<outline text="来源：CSDN" _mubu_text="%E6%9D%A5%E6%BA%90%EF%BC%9ACSDN">
+		</outline>
+		<outline text="原文：https://blog.csdn.net/zhaiyujia15195383763/article/details/81604085" _mubu_text="%E5%8E%9F%E6%96%87%EF%BC%9Ahttps://blog.csdn.net/zhaiyujia15195383763/article/details/81604085">
+		</outline>
+		<outline text="版权声明：本文为博主原创文章，转载请附上博文链接！" _mubu_text="%E7%89%88%E6%9D%83%E5%A3%B0%E6%98%8E%EF%BC%9A%E6%9C%AC%E6%96%87%E4%B8%BA%E5%8D%9A%E4%B8%BB%E5%8E%9F%E5%88%9B%E6%96%87%E7%AB%A0%EF%BC%8C%E8%BD%AC%E8%BD%BD%E8%AF%B7%E9%99%84%E4%B8%8A%E5%8D%9A%E6%96%87%E9%93%BE%E6%8E%A5%EF%BC%81">
+		</outline>
+		</outline>
+		<outline text="B10" _mubu_text="B10">
+		<outline text="需求分析+需求变更的维护工作" _mubu_text="%E9%9C%80%E6%B1%82%E5%88%86%E6%9E%90+%E9%9C%80%E6%B1%82%E5%8F%98%E6%9B%B4%E7%9A%84%E7%BB%B4%E6%8A%A4%E5%B7%A5%E4%BD%9C">
+		</outline>
+		<outline text="根据需求得出测试需求" _mubu_text="%E6%A0%B9%E6%8D%AE%E9%9C%80%E6%B1%82%E5%BE%97%E5%87%BA%E6%B5%8B%E8%AF%95%E9%9C%80%E6%B1%82">
+		</outline>
+		<outline text="设计测试方案，评审测试方案" _mubu_text="%E8%AE%BE%E8%AE%A1%E6%B5%8B%E8%AF%95%E6%96%B9%E6%A1%88%EF%BC%8C%E8%AF%84%E5%AE%A1%E6%B5%8B%E8%AF%95%E6%96%B9%E6%A1%88">
+		</outline>
+		<outline text="方案评审通过后，设计测试用例，再对测试用例进行评审" _mubu_text="%E6%96%B9%E6%A1%88%E8%AF%84%E5%AE%A1%E9%80%9A%E8%BF%87%E5%90%8E%EF%BC%8C%E8%AE%BE%E8%AE%A1%E6%B5%8B%E8%AF%95%E7%94%A8%E4%BE%8B%EF%BC%8C%E5%86%8D%E5%AF%B9%E6%B5%8B%E8%AF%95%E7%94%A8%E4%BE%8B%E8%BF%9B%E8%A1%8C%E8%AF%84%E5%AE%A1">
+		</outline>
+		</outline>
+		<outline text="B11" _mubu_text="B11">
+		<outline text="在正式的会议上将软件项目的成果（包括各阶段的文档、产生的代码等）提交给用户、客户或有关部门人员对软件产品进行评审和批准。其目的是找出可能影响软件产品质量、开发过程、维护工作的适用性和环境方面的设计缺陷，并采取补救措施，以及找出在性能、安全性和经济方面的可能的改进。" _mubu_text="%E5%9C%A8%E6%AD%A3%E5%BC%8F%E7%9A%84%E4%BC%9A%E8%AE%AE%E4%B8%8A%E5%B0%86%E8%BD%AF%E4%BB%B6%E9%A1%B9%E7%9B%AE%E7%9A%84%E6%88%90%E6%9E%9C%EF%BC%88%E5%8C%85%E6%8B%AC%E5%90%84%E9%98%B6%E6%AE%B5%E7%9A%84%E6%96%87%E6%A1%A3%E3%80%81%E4%BA%A7%E7%94%9F%E7%9A%84%E4%BB%A3%E7%A0%81%E7%AD%89%EF%BC%89%E6%8F%90%E4%BA%A4%E7%BB%99%E7%94%A8%E6%88%B7%E3%80%81%E5%AE%A2%E6%88%B7%E6%88%96%E6%9C%89%E5%85%B3%E9%83%A8%E9%97%A8%E4%BA%BA%E5%91%98%E5%AF%B9%E8%BD%AF%E4%BB%B6%E4%BA%A7%E5%93%81%E8%BF%9B%E8%A1%8C%E8%AF%84%E5%AE%A1%E5%92%8C%E6%89%B9%E5%87%86%E3%80%82%E5%85%B6%E7%9B%AE%E7%9A%84%E6%98%AF%E6%89%BE%E5%87%BA%E5%8F%AF%E8%83%BD%E5%BD%B1%E5%93%8D%E8%BD%AF%E4%BB%B6%E4%BA%A7%E5%93%81%E8%B4%A8%E9%87%8F%E3%80%81%E5%BC%80%E5%8F%91%E8%BF%87%E7%A8%8B%E3%80%81%E7%BB%B4%E6%8A%A4%E5%B7%A5%E4%BD%9C%E7%9A%84%E9%80%82%E7%94%A8%E6%80%A7%E5%92%8C%E7%8E%AF%E5%A2%83%E6%96%B9%E9%9D%A2%E7%9A%84%E8%AE%BE%E8%AE%A1%E7%BC%BA%E9%99%B7%EF%BC%8C%E5%B9%B6%E9%87%87%E5%8F%96%E8%A1%A5%E6%95%91%E6%8E%AA%E6%96%BD%EF%BC%8C%E4%BB%A5%E5%8F%8A%E6%89%BE%E5%87%BA%E5%9C%A8%E6%80%A7%E8%83%BD%E3%80%81%E5%AE%89%E5%85%A8%E6%80%A7%E5%92%8C%E7%BB%8F%E6%B5%8E%E6%96%B9%E9%9D%A2%E7%9A%84%E5%8F%AF%E8%83%BD%E7%9A%84%E6%94%B9%E8%BF%9B%E3%80%82">
+		</outline>
+		<outline text="人员：用户、客户或有关部门开发人员，测试人员，需求分析师都可以，就看处于评审那个阶段" _mubu_text="%E4%BA%BA%E5%91%98%EF%BC%9A%E7%94%A8%E6%88%B7%E3%80%81%E5%AE%A2%E6%88%B7%E6%88%96%E6%9C%89%E5%85%B3%E9%83%A8%E9%97%A8%E5%BC%80%E5%8F%91%E4%BA%BA%E5%91%98%EF%BC%8C%E6%B5%8B%E8%AF%95%E4%BA%BA%E5%91%98%EF%BC%8C%E9%9C%80%E6%B1%82%E5%88%86%E6%9E%90%E5%B8%88%E9%83%BD%E5%8F%AF%E4%BB%A5%EF%BC%8C%E5%B0%B1%E7%9C%8B%E5%A4%84%E4%BA%8E%E8%AF%84%E5%AE%A1%E9%82%A3%E4%B8%AA%E9%98%B6%E6%AE%B5">
+		</outline>
+		<outline text="---------------------" _mubu_text="---------------------">
+		</outline>
+		<outline text="作者：翟羽佳羽佳" _mubu_text="%E4%BD%9C%E8%80%85%EF%BC%9A%E7%BF%9F%E7%BE%BD%E4%BD%B3%E7%BE%BD%E4%BD%B3">
+		</outline>
+		<outline text="来源：CSDN" _mubu_text="%E6%9D%A5%E6%BA%90%EF%BC%9ACSDN">
+		</outline>
+		<outline text="原文：https://blog.csdn.net/zhaiyujia15195383763/article/details/81604085" _mubu_text="%E5%8E%9F%E6%96%87%EF%BC%9Ahttps://blog.csdn.net/zhaiyujia15195383763/article/details/81604085">
+		</outline>
+		<outline text="版权声明：本文为博主原创文章，转载请附上博文链接！" _mubu_text="%E7%89%88%E6%9D%83%E5%A3%B0%E6%98%8E%EF%BC%9A%E6%9C%AC%E6%96%87%E4%B8%BA%E5%8D%9A%E4%B8%BB%E5%8E%9F%E5%88%9B%E6%96%87%E7%AB%A0%EF%BC%8C%E8%BD%AC%E8%BD%BD%E8%AF%B7%E9%99%84%E4%B8%8A%E5%8D%9A%E6%96%87%E9%93%BE%E6%8E%A5%EF%BC%81">
+		</outline>
+		</outline>
+		<outline text="B12" _mubu_text="B12">
+		<outline text="参考答案：" _mubu_text="%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88%EF%BC%9A">
+		</outline>
+		<outline text="(1)	用户认证机制：如数据证书、智能卡、双重认证、安全电子交易协议" _mubu_text="(1)%09%E7%94%A8%E6%88%B7%E8%AE%A4%E8%AF%81%E6%9C%BA%E5%88%B6%EF%BC%9A%E5%A6%82%E6%95%B0%E6%8D%AE%E8%AF%81%E4%B9%A6%E3%80%81%E6%99%BA%E8%83%BD%E5%8D%A1%E3%80%81%E5%8F%8C%E9%87%8D%E8%AE%A4%E8%AF%81%E3%80%81%E5%AE%89%E5%85%A8%E7%94%B5%E5%AD%90%E4%BA%A4%E6%98%93%E5%8D%8F%E8%AE%AE">
+		</outline>
+		<outline text="(2)	加密机制" _mubu_text="(2)%09%E5%8A%A0%E5%AF%86%E6%9C%BA%E5%88%B6">
+		</outline>
+		<outline text="(3)	安全防护策略：如安全日志、入侵检测、隔离防护、漏洞扫描" _mubu_text="(3)%09%E5%AE%89%E5%85%A8%E9%98%B2%E6%8A%A4%E7%AD%96%E7%95%A5%EF%BC%9A%E5%A6%82%E5%AE%89%E5%85%A8%E6%97%A5%E5%BF%97%E3%80%81%E5%85%A5%E4%BE%B5%E6%A3%80%E6%B5%8B%E3%80%81%E9%9A%94%E7%A6%BB%E9%98%B2%E6%8A%A4%E3%80%81%E6%BC%8F%E6%B4%9E%E6%89%AB%E6%8F%8F">
+		</outline>
+		<outline text="(4)	数据备份与恢复手段：存储设备、存储优化、存储保护、存储管理" _mubu_text="(4)%09%E6%95%B0%E6%8D%AE%E5%A4%87%E4%BB%BD%E4%B8%8E%E6%81%A2%E5%A4%8D%E6%89%8B%E6%AE%B5%EF%BC%9A%E5%AD%98%E5%82%A8%E8%AE%BE%E5%A4%87%E3%80%81%E5%AD%98%E5%82%A8%E4%BC%98%E5%8C%96%E3%80%81%E5%AD%98%E5%82%A8%E4%BF%9D%E6%8A%A4%E3%80%81%E5%AD%98%E5%82%A8%E7%AE%A1%E7%90%86">
+		</outline>
+		<outline text="(5)	防病毒系统" _mubu_text="(5)%09%E9%98%B2%E7%97%85%E6%AF%92%E7%B3%BB%E7%BB%9F">
+		</outline>
+		</outline>
+		<outline text="B14" _mubu_text="B14">
+		<outline text="白盒测试用例设计的关键是以较少的用例覆盖尽可能多的内部程序逻辑结果" _mubu_text="%E7%99%BD%E7%9B%92%E6%B5%8B%E8%AF%95%E7%94%A8%E4%BE%8B%E8%AE%BE%E8%AE%A1%E7%9A%84%E5%85%B3%E9%94%AE%E6%98%AF%E4%BB%A5%E8%BE%83%E5%B0%91%E7%9A%84%E7%94%A8%E4%BE%8B%E8%A6%86%E7%9B%96%E5%B0%BD%E5%8F%AF%E8%83%BD%E5%A4%9A%E7%9A%84%E5%86%85%E9%83%A8%E7%A8%8B%E5%BA%8F%E9%80%BB%E8%BE%91%E7%BB%93%E6%9E%9C">
+		</outline>
+		<outline text="黑盒用例设计的关键同样也是以较少的用例覆盖模块输出和输入接口。不可能做到完全测试，以最少的用例在合理的时间内发现最多的问题" _mubu_text="%E9%BB%91%E7%9B%92%E7%94%A8%E4%BE%8B%E8%AE%BE%E8%AE%A1%E7%9A%84%E5%85%B3%E9%94%AE%E5%90%8C%E6%A0%B7%E4%B9%9F%E6%98%AF%E4%BB%A5%E8%BE%83%E5%B0%91%E7%9A%84%E7%94%A8%E4%BE%8B%E8%A6%86%E7%9B%96%E6%A8%A1%E5%9D%97%E8%BE%93%E5%87%BA%E5%92%8C%E8%BE%93%E5%85%A5%E6%8E%A5%E5%8F%A3%E3%80%82%E4%B8%8D%E5%8F%AF%E8%83%BD%E5%81%9A%E5%88%B0%E5%AE%8C%E5%85%A8%E6%B5%8B%E8%AF%95%EF%BC%8C%E4%BB%A5%E6%9C%80%E5%B0%91%E7%9A%84%E7%94%A8%E4%BE%8B%E5%9C%A8%E5%90%88%E7%90%86%E7%9A%84%E6%97%B6%E9%97%B4%E5%86%85%E5%8F%91%E7%8E%B0%E6%9C%80%E5%A4%9A%E7%9A%84%E9%97%AE%E9%A2%98">
+		</outline>
+		<outline text="软件的黑盒测试意味着测试要在软件的接口处进行。这种方法是把测试对象看做一个黑盒子，测试人员完全不考虑程序内部的逻辑结构和内部特性，只依据程序的需求规格说明书，检查程序的功能是否符合它的功能说明。因此黑盒测试又叫功能测试或数据驱动测试。黑盒测试主要是为了发现以下几类错误：" _mubu_text="%E8%BD%AF%E4%BB%B6%E7%9A%84%E9%BB%91%E7%9B%92%E6%B5%8B%E8%AF%95%E6%84%8F%E5%91%B3%E7%9D%80%E6%B5%8B%E8%AF%95%E8%A6%81%E5%9C%A8%E8%BD%AF%E4%BB%B6%E7%9A%84%E6%8E%A5%E5%8F%A3%E5%A4%84%E8%BF%9B%E8%A1%8C%E3%80%82%E8%BF%99%E7%A7%8D%E6%96%B9%E6%B3%95%E6%98%AF%E6%8A%8A%E6%B5%8B%E8%AF%95%E5%AF%B9%E8%B1%A1%E7%9C%8B%E5%81%9A%E4%B8%80%E4%B8%AA%E9%BB%91%E7%9B%92%E5%AD%90%EF%BC%8C%E6%B5%8B%E8%AF%95%E4%BA%BA%E5%91%98%E5%AE%8C%E5%85%A8%E4%B8%8D%E8%80%83%E8%99%91%E7%A8%8B%E5%BA%8F%E5%86%85%E9%83%A8%E7%9A%84%E9%80%BB%E8%BE%91%E7%BB%93%E6%9E%84%E5%92%8C%E5%86%85%E9%83%A8%E7%89%B9%E6%80%A7%EF%BC%8C%E5%8F%AA%E4%BE%9D%E6%8D%AE%E7%A8%8B%E5%BA%8F%E7%9A%84%E9%9C%80%E6%B1%82%E8%A7%84%E6%A0%BC%E8%AF%B4%E6%98%8E%E4%B9%A6%EF%BC%8C%E6%A3%80%E6%9F%A5%E7%A8%8B%E5%BA%8F%E7%9A%84%E5%8A%9F%E8%83%BD%E6%98%AF%E5%90%A6%E7%AC%A6%E5%90%88%E5%AE%83%E7%9A%84%E5%8A%9F%E8%83%BD%E8%AF%B4%E6%98%8E%E3%80%82%E5%9B%A0%E6%AD%A4%E9%BB%91%E7%9B%92%E6%B5%8B%E8%AF%95%E5%8F%88%E5%8F%AB%E5%8A%9F%E8%83%BD%E6%B5%8B%E8%AF%95%E6%88%96%E6%95%B0%E6%8D%AE%E9%A9%B1%E5%8A%A8%E6%B5%8B%E8%AF%95%E3%80%82%E9%BB%91%E7%9B%92%E6%B5%8B%E8%AF%95%E4%B8%BB%E8%A6%81%E6%98%AF%E4%B8%BA%E4%BA%86%E5%8F%91%E7%8E%B0%E4%BB%A5%E4%B8%8B%E5%87%A0%E7%B1%BB%E9%94%99%E8%AF%AF%EF%BC%9A">
+		</outline>
+		<outline text="1、是否有不正确或遗漏的功能？" _mubu_text="1%E3%80%81%E6%98%AF%E5%90%A6%E6%9C%89%E4%B8%8D%E6%AD%A3%E7%A1%AE%E6%88%96%E9%81%97%E6%BC%8F%E7%9A%84%E5%8A%9F%E8%83%BD%EF%BC%9F">
+		</outline>
+		<outline text="2、在接口上，输入是否能正确的接受？能否输出正确的结果？" _mubu_text="2%E3%80%81%E5%9C%A8%E6%8E%A5%E5%8F%A3%E4%B8%8A%EF%BC%8C%E8%BE%93%E5%85%A5%E6%98%AF%E5%90%A6%E8%83%BD%E6%AD%A3%E7%A1%AE%E7%9A%84%E6%8E%A5%E5%8F%97%EF%BC%9F%E8%83%BD%E5%90%A6%E8%BE%93%E5%87%BA%E6%AD%A3%E7%A1%AE%E7%9A%84%E7%BB%93%E6%9E%9C%EF%BC%9F">
+		</outline>
+		<outline text="3、是否有数据结构错误或外部信息（例如数据文件）访问错误？" _mubu_text="3%E3%80%81%E6%98%AF%E5%90%A6%E6%9C%89%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E9%94%99%E8%AF%AF%E6%88%96%E5%A4%96%E9%83%A8%E4%BF%A1%E6%81%AF%EF%BC%88%E4%BE%8B%E5%A6%82%E6%95%B0%E6%8D%AE%E6%96%87%E4%BB%B6%EF%BC%89%E8%AE%BF%E9%97%AE%E9%94%99%E8%AF%AF%EF%BC%9F">
+		</outline>
+		<outline text="4、性能上是否能够满足要求？" _mubu_text="4%E3%80%81%E6%80%A7%E8%83%BD%E4%B8%8A%E6%98%AF%E5%90%A6%E8%83%BD%E5%A4%9F%E6%BB%A1%E8%B6%B3%E8%A6%81%E6%B1%82%EF%BC%9F">
+		</outline>
+		<outline text="5、是否有初始化或终止性错误？" _mubu_text="5%E3%80%81%E6%98%AF%E5%90%A6%E6%9C%89%E5%88%9D%E5%A7%8B%E5%8C%96%E6%88%96%E7%BB%88%E6%AD%A2%E6%80%A7%E9%94%99%E8%AF%AF%EF%BC%9F">
+		</outline>
+		<outline text="软件的白盒测试是对软件的过程性细节做细致的检查。这种方法是把测试对象看做一个打开的盒子，它允许测试人员利用程序内部的逻辑结构及有关信息，设计或选择测试用例，对程序所有逻辑路径进行测试。通过在不同点检查程序状态，确定实际状态是否与预期的状态一致。因此白盒测试又称为结构测试或逻辑驱动测试。白盒测试主要是想对程序模块进行如下检查：" _mubu_text="%E8%BD%AF%E4%BB%B6%E7%9A%84%E7%99%BD%E7%9B%92%E6%B5%8B%E8%AF%95%E6%98%AF%E5%AF%B9%E8%BD%AF%E4%BB%B6%E7%9A%84%E8%BF%87%E7%A8%8B%E6%80%A7%E7%BB%86%E8%8A%82%E5%81%9A%E7%BB%86%E8%87%B4%E7%9A%84%E6%A3%80%E6%9F%A5%E3%80%82%E8%BF%99%E7%A7%8D%E6%96%B9%E6%B3%95%E6%98%AF%E6%8A%8A%E6%B5%8B%E8%AF%95%E5%AF%B9%E8%B1%A1%E7%9C%8B%E5%81%9A%E4%B8%80%E4%B8%AA%E6%89%93%E5%BC%80%E7%9A%84%E7%9B%92%E5%AD%90%EF%BC%8C%E5%AE%83%E5%85%81%E8%AE%B8%E6%B5%8B%E8%AF%95%E4%BA%BA%E5%91%98%E5%88%A9%E7%94%A8%E7%A8%8B%E5%BA%8F%E5%86%85%E9%83%A8%E7%9A%84%E9%80%BB%E8%BE%91%E7%BB%93%E6%9E%84%E5%8F%8A%E6%9C%89%E5%85%B3%E4%BF%A1%E6%81%AF%EF%BC%8C%E8%AE%BE%E8%AE%A1%E6%88%96%E9%80%89%E6%8B%A9%E6%B5%8B%E8%AF%95%E7%94%A8%E4%BE%8B%EF%BC%8C%E5%AF%B9%E7%A8%8B%E5%BA%8F%E6%89%80%E6%9C%89%E9%80%BB%E8%BE%91%E8%B7%AF%E5%BE%84%E8%BF%9B%E8%A1%8C%E6%B5%8B%E8%AF%95%E3%80%82%E9%80%9A%E8%BF%87%E5%9C%A8%E4%B8%8D%E5%90%8C%E7%82%B9%E6%A3%80%E6%9F%A5%E7%A8%8B%E5%BA%8F%E7%8A%B6%E6%80%81%EF%BC%8C%E7%A1%AE%E5%AE%9A%E5%AE%9E%E9%99%85%E7%8A%B6%E6%80%81%E6%98%AF%E5%90%A6%E4%B8%8E%E9%A2%84%E6%9C%9F%E7%9A%84%E7%8A%B6%E6%80%81%E4%B8%80%E8%87%B4%E3%80%82%E5%9B%A0%E6%AD%A4%E7%99%BD%E7%9B%92%E6%B5%8B%E8%AF%95%E5%8F%88%E7%A7%B0%E4%B8%BA%E7%BB%93%E6%9E%84%E6%B5%8B%E8%AF%95%E6%88%96%E9%80%BB%E8%BE%91%E9%A9%B1%E5%8A%A8%E6%B5%8B%E8%AF%95%E3%80%82%E7%99%BD%E7%9B%92%E6%B5%8B%E8%AF%95%E4%B8%BB%E8%A6%81%E6%98%AF%E6%83%B3%E5%AF%B9%E7%A8%8B%E5%BA%8F%E6%A8%A1%E5%9D%97%E8%BF%9B%E8%A1%8C%E5%A6%82%E4%B8%8B%E6%A3%80%E6%9F%A5%EF%BC%9A">
+		</outline>
+		<outline text="1、对程序模块的所有独立的执行路径至少测试一遍。" _mubu_text="1%E3%80%81%E5%AF%B9%E7%A8%8B%E5%BA%8F%E6%A8%A1%E5%9D%97%E7%9A%84%E6%89%80%E6%9C%89%E7%8B%AC%E7%AB%8B%E7%9A%84%E6%89%A7%E8%A1%8C%E8%B7%AF%E5%BE%84%E8%87%B3%E5%B0%91%E6%B5%8B%E8%AF%95%E4%B8%80%E9%81%8D%E3%80%82">
+		</outline>
+		<outline text="2、对所有的逻辑判定，取“真”与取“假”的两种情况都能至少测一遍。" _mubu_text="2%E3%80%81%E5%AF%B9%E6%89%80%E6%9C%89%E7%9A%84%E9%80%BB%E8%BE%91%E5%88%A4%E5%AE%9A%EF%BC%8C%E5%8F%96%E2%80%9C%E7%9C%9F%E2%80%9D%E4%B8%8E%E5%8F%96%E2%80%9C%E5%81%87%E2%80%9D%E7%9A%84%E4%B8%A4%E7%A7%8D%E6%83%85%E5%86%B5%E9%83%BD%E8%83%BD%E8%87%B3%E5%B0%91%E6%B5%8B%E4%B8%80%E9%81%8D%E3%80%82">
+		</outline>
+		<outline text="3、在循环的边界和运行的界限内执行循环体。" _mubu_text="3%E3%80%81%E5%9C%A8%E5%BE%AA%E7%8E%AF%E7%9A%84%E8%BE%B9%E7%95%8C%E5%92%8C%E8%BF%90%E8%A1%8C%E7%9A%84%E7%95%8C%E9%99%90%E5%86%85%E6%89%A7%E8%A1%8C%E5%BE%AA%E7%8E%AF%E4%BD%93%E3%80%82">
+		</outline>
+		<outline text="4、测试内部数据结构的有效性，等等。4、验收测试是部署软件之前的最后一个测试操作。验收测试的目的是确保软件准备就绪，并且可以让最终用户将其用于执行软件的既定功能和任务。验收测试是向未来的用户表明系统能够像预定要求那样工作。经集成测试后，已经按照设计把所有的模块组装成一个完整的软件系统，接口错误也已经基本排除了，接着就应该进一步验证软件的有效性，这就是验收测试的任务，即软件的功能和性能如同用户所合理期待的那样。" _mubu_text="4%E3%80%81%E6%B5%8B%E8%AF%95%E5%86%85%E9%83%A8%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E7%9A%84%E6%9C%89%E6%95%88%E6%80%A7%EF%BC%8C%E7%AD%89%E7%AD%89%E3%80%824%E3%80%81%E9%AA%8C%E6%94%B6%E6%B5%8B%E8%AF%95%E6%98%AF%E9%83%A8%E7%BD%B2%E8%BD%AF%E4%BB%B6%E4%B9%8B%E5%89%8D%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E6%B5%8B%E8%AF%95%E6%93%8D%E4%BD%9C%E3%80%82%E9%AA%8C%E6%94%B6%E6%B5%8B%E8%AF%95%E7%9A%84%E7%9B%AE%E7%9A%84%E6%98%AF%E7%A1%AE%E4%BF%9D%E8%BD%AF%E4%BB%B6%E5%87%86%E5%A4%87%E5%B0%B1%E7%BB%AA%EF%BC%8C%E5%B9%B6%E4%B8%94%E5%8F%AF%E4%BB%A5%E8%AE%A9%E6%9C%80%E7%BB%88%E7%94%A8%E6%88%B7%E5%B0%86%E5%85%B6%E7%94%A8%E4%BA%8E%E6%89%A7%E8%A1%8C%E8%BD%AF%E4%BB%B6%E7%9A%84%E6%97%A2%E5%AE%9A%E5%8A%9F%E8%83%BD%E5%92%8C%E4%BB%BB%E5%8A%A1%E3%80%82%E9%AA%8C%E6%94%B6%E6%B5%8B%E8%AF%95%E6%98%AF%E5%90%91%E6%9C%AA%E6%9D%A5%E7%9A%84%E7%94%A8%E6%88%B7%E8%A1%A8%E6%98%8E%E7%B3%BB%E7%BB%9F%E8%83%BD%E5%A4%9F%E5%83%8F%E9%A2%84%E5%AE%9A%E8%A6%81%E6%B1%82%E9%82%A3%E6%A0%B7%E5%B7%A5%E4%BD%9C%E3%80%82%E7%BB%8F%E9%9B%86%E6%88%90%E6%B5%8B%E8%AF%95%E5%90%8E%EF%BC%8C%E5%B7%B2%E7%BB%8F%E6%8C%89%E7%85%A7%E8%AE%BE%E8%AE%A1%E6%8A%8A%E6%89%80%E6%9C%89%E7%9A%84%E6%A8%A1%E5%9D%97%E7%BB%84%E8%A3%85%E6%88%90%E4%B8%80%E4%B8%AA%E5%AE%8C%E6%95%B4%E7%9A%84%E8%BD%AF%E4%BB%B6%E7%B3%BB%E7%BB%9F%EF%BC%8C%E6%8E%A5%E5%8F%A3%E9%94%99%E8%AF%AF%E4%B9%9F%E5%B7%B2%E7%BB%8F%E5%9F%BA%E6%9C%AC%E6%8E%92%E9%99%A4%E4%BA%86%EF%BC%8C%E6%8E%A5%E7%9D%80%E5%B0%B1%E5%BA%94%E8%AF%A5%E8%BF%9B%E4%B8%80%E6%AD%A5%E9%AA%8C%E8%AF%81%E8%BD%AF%E4%BB%B6%E7%9A%84%E6%9C%89%E6%95%88%E6%80%A7%EF%BC%8C%E8%BF%99%E5%B0%B1%E6%98%AF%E9%AA%8C%E6%94%B6%E6%B5%8B%E8%AF%95%E7%9A%84%E4%BB%BB%E5%8A%A1%EF%BC%8C%E5%8D%B3%E8%BD%AF%E4%BB%B6%E7%9A%84%E5%8A%9F%E8%83%BD%E5%92%8C%E6%80%A7%E8%83%BD%E5%A6%82%E5%90%8C%E7%94%A8%E6%88%B7%E6%89%80%E5%90%88%E7%90%86%E6%9C%9F%E5%BE%85%E7%9A%84%E9%82%A3%E6%A0%B7%E3%80%82">
+		</outline>
+		</outline>
+		<outline text="C1" _mubu_text="C1">
+		<outline text="一条Bug记录最基本应包含：" _mubu_text="%E4%B8%80%E6%9D%A1Bug%E8%AE%B0%E5%BD%95%E6%9C%80%E5%9F%BA%E6%9C%AC%E5%BA%94%E5%8C%85%E5%90%AB%EF%BC%9A">
+		</outline>
+		<outline text="bug编号；" _mubu_text="bug%E7%BC%96%E5%8F%B7%EF%BC%9B">
+		</outline>
+		<outline text="bug严重级别，优先级；" _mubu_text="bug%E4%B8%A5%E9%87%8D%E7%BA%A7%E5%88%AB%EF%BC%8C%E4%BC%98%E5%85%88%E7%BA%A7%EF%BC%9B">
+		</outline>
+		<outline text="bug产生的模块；" _mubu_text="bug%E4%BA%A7%E7%94%9F%E7%9A%84%E6%A8%A1%E5%9D%97%EF%BC%9B">
+		</outline>
+		<outline text="首先要有bug摘要，阐述bug大体的内容；" _mubu_text="%E9%A6%96%E5%85%88%E8%A6%81%E6%9C%89bug%E6%91%98%E8%A6%81%EF%BC%8C%E9%98%90%E8%BF%B0bug%E5%A4%A7%E4%BD%93%E7%9A%84%E5%86%85%E5%AE%B9%EF%BC%9B">
+		</outline>
+		<outline text="bug对应的版本；" _mubu_text="bug%E5%AF%B9%E5%BA%94%E7%9A%84%E7%89%88%E6%9C%AC%EF%BC%9B">
+		</outline>
+		<outline text="bug详细现象描述，包括一些截图、录像....等等；" _mubu_text="bug%E8%AF%A6%E7%BB%86%E7%8E%B0%E8%B1%A1%E6%8F%8F%E8%BF%B0%EF%BC%8C%E5%8C%85%E6%8B%AC%E4%B8%80%E4%BA%9B%E6%88%AA%E5%9B%BE%E3%80%81%E5%BD%95%E5%83%8F....%E7%AD%89%E7%AD%89%EF%BC%9B">
+		</outline>
+		<outline text="bug出现时的测试环境，产生的条件即对应操作步骤；" _mubu_text="bug%E5%87%BA%E7%8E%B0%E6%97%B6%E7%9A%84%E6%B5%8B%E8%AF%95%E7%8E%AF%E5%A2%83%EF%BC%8C%E4%BA%A7%E7%94%9F%E7%9A%84%E6%9D%A1%E4%BB%B6%E5%8D%B3%E5%AF%B9%E5%BA%94%E6%93%8D%E4%BD%9C%E6%AD%A5%E9%AA%A4%EF%BC%9B">
+		</outline>
+		<outline text="高质量的Bug记录：" _mubu_text="%E9%AB%98%E8%B4%A8%E9%87%8F%E7%9A%84Bug%E8%AE%B0%E5%BD%95%EF%BC%9A">
+		</outline>
+		<outline text="1) 通用UI要统一、准确" _mubu_text="1)%20%E9%80%9A%E7%94%A8UI%E8%A6%81%E7%BB%9F%E4%B8%80%E3%80%81%E5%87%86%E7%A1%AE">
+		</outline>
+		<outline text="缺陷报告的UI要与测试的软件UI保持一致，便于查找定位。" _mubu_text="%E7%BC%BA%E9%99%B7%E6%8A%A5%E5%91%8A%E7%9A%84UI%E8%A6%81%E4%B8%8E%E6%B5%8B%E8%AF%95%E7%9A%84%E8%BD%AF%E4%BB%B6UI%E4%BF%9D%E6%8C%81%E4%B8%80%E8%87%B4%EF%BC%8C%E4%BE%BF%E4%BA%8E%E6%9F%A5%E6%89%BE%E5%AE%9A%E4%BD%8D%E3%80%82">
+		</outline>
+		<outline text="2) 尽量使用业界惯用的表达术语和表达方法" _mubu_text="2)%20%E5%B0%BD%E9%87%8F%E4%BD%BF%E7%94%A8%E4%B8%9A%E7%95%8C%E6%83%AF%E7%94%A8%E7%9A%84%E8%A1%A8%E8%BE%BE%E6%9C%AF%E8%AF%AD%E5%92%8C%E8%A1%A8%E8%BE%BE%E6%96%B9%E6%B3%95">
+		</outline>
+		<outline text="使用业界惯用的表达术语和表达方法，保证表达准确，体现专业化。" _mubu_text="%E4%BD%BF%E7%94%A8%E4%B8%9A%E7%95%8C%E6%83%AF%E7%94%A8%E7%9A%84%E8%A1%A8%E8%BE%BE%E6%9C%AF%E8%AF%AD%E5%92%8C%E8%A1%A8%E8%BE%BE%E6%96%B9%E6%B3%95%EF%BC%8C%E4%BF%9D%E8%AF%81%E8%A1%A8%E8%BE%BE%E5%87%86%E7%A1%AE%EF%BC%8C%E4%BD%93%E7%8E%B0%E4%B8%93%E4%B8%9A%E5%8C%96%E3%80%82">
+		</outline>
+		<outline text="3) 每条缺陷报告只包括一个缺陷" _mubu_text="3)%20%E6%AF%8F%E6%9D%A1%E7%BC%BA%E9%99%B7%E6%8A%A5%E5%91%8A%E5%8F%AA%E5%8C%85%E6%8B%AC%E4%B8%80%E4%B8%AA%E7%BC%BA%E9%99%B7">
+		</outline>
+		<outline text="每条缺陷报告只包括一个缺陷，可以使缺陷修正者迅速定位一个缺陷，集中精力每次只修正一个" _mubu_text="%E6%AF%8F%E6%9D%A1%E7%BC%BA%E9%99%B7%E6%8A%A5%E5%91%8A%E5%8F%AA%E5%8C%85%E6%8B%AC%E4%B8%80%E4%B8%AA%E7%BC%BA%E9%99%B7%EF%BC%8C%E5%8F%AF%E4%BB%A5%E4%BD%BF%E7%BC%BA%E9%99%B7%E4%BF%AE%E6%AD%A3%E8%80%85%E8%BF%85%E9%80%9F%E5%AE%9A%E4%BD%8D%E4%B8%80%E4%B8%AA%E7%BC%BA%E9%99%B7%EF%BC%8C%E9%9B%86%E4%B8%AD%E7%B2%BE%E5%8A%9B%E6%AF%8F%E6%AC%A1%E5%8F%AA%E4%BF%AE%E6%AD%A3%E4%B8%80%E4%B8%AA">
+		</outline>
+		<outline text="缺陷。校验者每次只校验一个缺陷是否已经正确修正。" _mubu_text="%E7%BC%BA%E9%99%B7%E3%80%82%E6%A0%A1%E9%AA%8C%E8%80%85%E6%AF%8F%E6%AC%A1%E5%8F%AA%E6%A0%A1%E9%AA%8C%E4%B8%80%E4%B8%AA%E7%BC%BA%E9%99%B7%E6%98%AF%E5%90%A6%E5%B7%B2%E7%BB%8F%E6%AD%A3%E7%A1%AE%E4%BF%AE%E6%AD%A3%E3%80%82">
+		</outline>
+		<outline text="4) 不可重现的缺陷也要报告" _mubu_text="4)%20%E4%B8%8D%E5%8F%AF%E9%87%8D%E7%8E%B0%E7%9A%84%E7%BC%BA%E9%99%B7%E4%B9%9F%E8%A6%81%E6%8A%A5%E5%91%8A">
+		</outline>
+		<outline text="首先缺陷报告必须展示重现缺陷的能力。不可重现的缺陷要尽力重现，若尽力之后仍不能重现，" _mubu_text="%E9%A6%96%E5%85%88%E7%BC%BA%E9%99%B7%E6%8A%A5%E5%91%8A%E5%BF%85%E9%A1%BB%E5%B1%95%E7%A4%BA%E9%87%8D%E7%8E%B0%E7%BC%BA%E9%99%B7%E7%9A%84%E8%83%BD%E5%8A%9B%E3%80%82%E4%B8%8D%E5%8F%AF%E9%87%8D%E7%8E%B0%E7%9A%84%E7%BC%BA%E9%99%B7%E8%A6%81%E5%B0%BD%E5%8A%9B%E9%87%8D%E7%8E%B0%EF%BC%8C%E8%8B%A5%E5%B0%BD%E5%8A%9B%E4%B9%8B%E5%90%8E%E4%BB%8D%E4%B8%8D%E8%83%BD%E9%87%8D%E7%8E%B0%EF%BC%8C">
+		</outline>
+		<outline text="仍然要报告此缺陷，但在报告中要注明无法再现，缺陷出现的频率。" _mubu_text="%E4%BB%8D%E7%84%B6%E8%A6%81%E6%8A%A5%E5%91%8A%E6%AD%A4%E7%BC%BA%E9%99%B7%EF%BC%8C%E4%BD%86%E5%9C%A8%E6%8A%A5%E5%91%8A%E4%B8%AD%E8%A6%81%E6%B3%A8%E6%98%8E%E6%97%A0%E6%B3%95%E5%86%8D%E7%8E%B0%EF%BC%8C%E7%BC%BA%E9%99%B7%E5%87%BA%E7%8E%B0%E7%9A%84%E9%A2%91%E7%8E%87%E3%80%82">
+		</outline>
+		<outline text="5) 明确指明缺陷类型" _mubu_text="5)%20%E6%98%8E%E7%A1%AE%E6%8C%87%E6%98%8E%E7%BC%BA%E9%99%B7%E7%B1%BB%E5%9E%8B">
+		</outline>
+		<outline text="根据缺陷的现象，总结判断缺陷的类型。例如，即功能缺陷、界面缺陷、数据缺陷，合理化建议" _mubu_text="%E6%A0%B9%E6%8D%AE%E7%BC%BA%E9%99%B7%E7%9A%84%E7%8E%B0%E8%B1%A1%EF%BC%8C%E6%80%BB%E7%BB%93%E5%88%A4%E6%96%AD%E7%BC%BA%E9%99%B7%E7%9A%84%E7%B1%BB%E5%9E%8B%E3%80%82%E4%BE%8B%E5%A6%82%EF%BC%8C%E5%8D%B3%E5%8A%9F%E8%83%BD%E7%BC%BA%E9%99%B7%E3%80%81%E7%95%8C%E9%9D%A2%E7%BC%BA%E9%99%B7%E3%80%81%E6%95%B0%E6%8D%AE%E7%BC%BA%E9%99%B7%EF%BC%8C%E5%90%88%E7%90%86%E5%8C%96%E5%BB%BA%E8%AE%AE">
+		</outline>
+		<outline text="这是最常见的缺陷或缺陷类型，其他形式的缺陷或缺陷也从属于其中某种形式。" _mubu_text="%E8%BF%99%E6%98%AF%E6%9C%80%E5%B8%B8%E8%A7%81%E7%9A%84%E7%BC%BA%E9%99%B7%E6%88%96%E7%BC%BA%E9%99%B7%E7%B1%BB%E5%9E%8B%EF%BC%8C%E5%85%B6%E4%BB%96%E5%BD%A2%E5%BC%8F%E7%9A%84%E7%BC%BA%E9%99%B7%E6%88%96%E7%BC%BA%E9%99%B7%E4%B9%9F%E4%BB%8E%E5%B1%9E%E4%BA%8E%E5%85%B6%E4%B8%AD%E6%9F%90%E7%A7%8D%E5%BD%A2%E5%BC%8F%E3%80%82">
+		</outline>
+		<outline text="6) 明确指明缺陷严重等级和优先等级时刻明确严重等级和优先等级之间的差别。高严重问题可能" _mubu_text="6)%20%E6%98%8E%E7%A1%AE%E6%8C%87%E6%98%8E%E7%BC%BA%E9%99%B7%E4%B8%A5%E9%87%8D%E7%AD%89%E7%BA%A7%E5%92%8C%E4%BC%98%E5%85%88%E7%AD%89%E7%BA%A7%E6%97%B6%E5%88%BB%E6%98%8E%E7%A1%AE%E4%B8%A5%E9%87%8D%E7%AD%89%E7%BA%A7%E5%92%8C%E4%BC%98%E5%85%88%E7%AD%89%E7%BA%A7%E4%B9%8B%E9%97%B4%E7%9A%84%E5%B7%AE%E5%88%AB%E3%80%82%E9%AB%98%E4%B8%A5%E9%87%8D%E9%97%AE%E9%A2%98%E5%8F%AF%E8%83%BD">
+		</outline>
+		<outline text="7) 描述 (Description) ，简洁、准确，完整，揭示缺陷实质，记录缺陷或缺陷出现的位置" _mubu_text="7)%20%E6%8F%8F%E8%BF%B0%20(Description)%20%EF%BC%8C%E7%AE%80%E6%B4%81%E3%80%81%E5%87%86%E7%A1%AE%EF%BC%8C%E5%AE%8C%E6%95%B4%EF%BC%8C%E6%8F%AD%E7%A4%BA%E7%BC%BA%E9%99%B7%E5%AE%9E%E8%B4%A8%EF%BC%8C%E8%AE%B0%E5%BD%95%E7%BC%BA%E9%99%B7%E6%88%96%E7%BC%BA%E9%99%B7%E5%87%BA%E7%8E%B0%E7%9A%84%E4%BD%8D%E7%BD%AE">
+		</outline>
+		<outline text="描述要准确反映缺陷的本质内容，简短明了。为了便于在软件缺陷管理数据库中寻找制定的测试" _mubu_text="%E6%8F%8F%E8%BF%B0%E8%A6%81%E5%87%86%E7%A1%AE%E5%8F%8D%E6%98%A0%E7%BC%BA%E9%99%B7%E7%9A%84%E6%9C%AC%E8%B4%A8%E5%86%85%E5%AE%B9%EF%BC%8C%E7%AE%80%E7%9F%AD%E6%98%8E%E4%BA%86%E3%80%82%E4%B8%BA%E4%BA%86%E4%BE%BF%E4%BA%8E%E5%9C%A8%E8%BD%AF%E4%BB%B6%E7%BC%BA%E9%99%B7%E7%AE%A1%E7%90%86%E6%95%B0%E6%8D%AE%E5%BA%93%E4%B8%AD%E5%AF%BB%E6%89%BE%E5%88%B6%E5%AE%9A%E7%9A%84%E6%B5%8B%E8%AF%95">
+		</outline>
+		<outline text="缺陷，包含缺陷发生时的用户界面（UI）是个良好的习惯。例如记录对话框的标题、菜单、按钮" _mubu_text="%E7%BC%BA%E9%99%B7%EF%BC%8C%E5%8C%85%E5%90%AB%E7%BC%BA%E9%99%B7%E5%8F%91%E7%94%9F%E6%97%B6%E7%9A%84%E7%94%A8%E6%88%B7%E7%95%8C%E9%9D%A2%EF%BC%88UI%EF%BC%89%E6%98%AF%E4%B8%AA%E8%89%AF%E5%A5%BD%E7%9A%84%E4%B9%A0%E6%83%AF%E3%80%82%E4%BE%8B%E5%A6%82%E8%AE%B0%E5%BD%95%E5%AF%B9%E8%AF%9D%E6%A1%86%E7%9A%84%E6%A0%87%E9%A2%98%E3%80%81%E8%8F%9C%E5%8D%95%E3%80%81%E6%8C%89%E9%92%AE">
+		</outline>
+		<outline text="等控件的名称。" _mubu_text="%E7%AD%89%E6%8E%A7%E4%BB%B6%E7%9A%84%E5%90%8D%E7%A7%B0%E3%80%82">
+		</outline>
+		<outline text="8) 短行之间使用自动数字序号，使用相同的字体、字号、行间距" _mubu_text="8)%20%E7%9F%AD%E8%A1%8C%E4%B9%8B%E9%97%B4%E4%BD%BF%E7%94%A8%E8%87%AA%E5%8A%A8%E6%95%B0%E5%AD%97%E5%BA%8F%E5%8F%B7%EF%BC%8C%E4%BD%BF%E7%94%A8%E7%9B%B8%E5%90%8C%E7%9A%84%E5%AD%97%E4%BD%93%E3%80%81%E5%AD%97%E5%8F%B7%E3%80%81%E8%A1%8C%E9%97%B4%E8%B7%9D">
+		</outline>
+		<outline text="短行之间使用自动数字序号，使用相同的字体、字号、行间距，可以保证各条记录格式一致，做" _mubu_text="%E7%9F%AD%E8%A1%8C%E4%B9%8B%E9%97%B4%E4%BD%BF%E7%94%A8%E8%87%AA%E5%8A%A8%E6%95%B0%E5%AD%97%E5%BA%8F%E5%8F%B7%EF%BC%8C%E4%BD%BF%E7%94%A8%E7%9B%B8%E5%90%8C%E7%9A%84%E5%AD%97%E4%BD%93%E3%80%81%E5%AD%97%E5%8F%B7%E3%80%81%E8%A1%8C%E9%97%B4%E8%B7%9D%EF%BC%8C%E5%8F%AF%E4%BB%A5%E4%BF%9D%E8%AF%81%E5%90%84%E6%9D%A1%E8%AE%B0%E5%BD%95%E6%A0%BC%E5%BC%8F%E4%B8%80%E8%87%B4%EF%BC%8C%E5%81%9A">
+		</outline>
+		<outline text="到规范专业。" _mubu_text="%E5%88%B0%E8%A7%84%E8%8C%83%E4%B8%93%E4%B8%9A%E3%80%82">
+		</outline>
+		<outline text="9) 每一个步骤尽量只记录一个操作保证简洁、条理井然，容易重复操作步骤。" _mubu_text="9)%20%E6%AF%8F%E4%B8%80%E4%B8%AA%E6%AD%A5%E9%AA%A4%E5%B0%BD%E9%87%8F%E5%8F%AA%E8%AE%B0%E5%BD%95%E4%B8%80%E4%B8%AA%E6%93%8D%E4%BD%9C%E4%BF%9D%E8%AF%81%E7%AE%80%E6%B4%81%E3%80%81%E6%9D%A1%E7%90%86%E4%BA%95%E7%84%B6%EF%BC%8C%E5%AE%B9%E6%98%93%E9%87%8D%E5%A4%8D%E6%93%8D%E4%BD%9C%E6%AD%A5%E9%AA%A4%E3%80%82">
+		</outline>
+		<outline text="10) 确认步骤完整，准确，简短" _mubu_text="10)%20%E7%A1%AE%E8%AE%A4%E6%AD%A5%E9%AA%A4%E5%AE%8C%E6%95%B4%EF%BC%8C%E5%87%86%E7%A1%AE%EF%BC%8C%E7%AE%80%E7%9F%AD">
+		</outline>
+		<outline text="保证快速准确的重复缺陷，“完整”即没有缺漏，“准确”即步骤正确，“简短”即没有多余的步骤。" _mubu_text="%E4%BF%9D%E8%AF%81%E5%BF%AB%E9%80%9F%E5%87%86%E7%A1%AE%E7%9A%84%E9%87%8D%E5%A4%8D%E7%BC%BA%E9%99%B7%EF%BC%8C%E2%80%9C%E5%AE%8C%E6%95%B4%E2%80%9D%E5%8D%B3%E6%B2%A1%E6%9C%89%E7%BC%BA%E6%BC%8F%EF%BC%8C%E2%80%9C%E5%87%86%E7%A1%AE%E2%80%9D%E5%8D%B3%E6%AD%A5%E9%AA%A4%E6%AD%A3%E7%A1%AE%EF%BC%8C%E2%80%9C%E7%AE%80%E7%9F%AD%E2%80%9D%E5%8D%B3%E6%B2%A1%E6%9C%89%E5%A4%9A%E4%BD%99%E7%9A%84%E6%AD%A5%E9%AA%A4%E3%80%82">
+		</outline>
+		<outline text="11) 根据缺陷，可选择是否进行图象捕捉" _mubu_text="11)%20%E6%A0%B9%E6%8D%AE%E7%BC%BA%E9%99%B7%EF%BC%8C%E5%8F%AF%E9%80%89%E6%8B%A9%E6%98%AF%E5%90%A6%E8%BF%9B%E8%A1%8C%E5%9B%BE%E8%B1%A1%E6%8D%95%E6%8D%89">
+		</outline>
+		<outline text="为了直观的观察缺陷或缺陷现象，通常需要附加缺陷或缺陷出现的界面，以图片的形式作为附件" _mubu_text="%E4%B8%BA%E4%BA%86%E7%9B%B4%E8%A7%82%E7%9A%84%E8%A7%82%E5%AF%9F%E7%BC%BA%E9%99%B7%E6%88%96%E7%BC%BA%E9%99%B7%E7%8E%B0%E8%B1%A1%EF%BC%8C%E9%80%9A%E5%B8%B8%E9%9C%80%E8%A6%81%E9%99%84%E5%8A%A0%E7%BC%BA%E9%99%B7%E6%88%96%E7%BC%BA%E9%99%B7%E5%87%BA%E7%8E%B0%E7%9A%84%E7%95%8C%E9%9D%A2%EF%BC%8C%E4%BB%A5%E5%9B%BE%E7%89%87%E7%9A%84%E5%BD%A2%E5%BC%8F%E4%BD%9C%E4%B8%BA%E9%99%84%E4%BB%B6">
+		</outline>
+		<outline text="附着在记录的“附件”部分。为了节省空间，又能真实反映缺陷或缺陷本质，可以捕捉缺陷或缺" _mubu_text="%E9%99%84%E7%9D%80%E5%9C%A8%E8%AE%B0%E5%BD%95%E7%9A%84%E2%80%9C%E9%99%84%E4%BB%B6%E2%80%9D%E9%83%A8%E5%88%86%E3%80%82%E4%B8%BA%E4%BA%86%E8%8A%82%E7%9C%81%E7%A9%BA%E9%97%B4%EF%BC%8C%E5%8F%88%E8%83%BD%E7%9C%9F%E5%AE%9E%E5%8F%8D%E6%98%A0%E7%BC%BA%E9%99%B7%E6%88%96%E7%BC%BA%E9%99%B7%E6%9C%AC%E8%B4%A8%EF%BC%8C%E5%8F%AF%E4%BB%A5%E6%8D%95%E6%8D%89%E7%BC%BA%E9%99%B7%E6%88%96%E7%BC%BA">
+		</outline>
+		<outline text="陷产生时的全屏幕，活动窗口和局部区域。为了迅速定位、修正缺陷或缺陷位置，通常要求附加" _mubu_text="%E9%99%B7%E4%BA%A7%E7%94%9F%E6%97%B6%E7%9A%84%E5%85%A8%E5%B1%8F%E5%B9%95%EF%BC%8C%E6%B4%BB%E5%8A%A8%E7%AA%97%E5%8F%A3%E5%92%8C%E5%B1%80%E9%83%A8%E5%8C%BA%E5%9F%9F%E3%80%82%E4%B8%BA%E4%BA%86%E8%BF%85%E9%80%9F%E5%AE%9A%E4%BD%8D%E3%80%81%E4%BF%AE%E6%AD%A3%E7%BC%BA%E9%99%B7%E6%88%96%E7%BC%BA%E9%99%B7%E4%BD%8D%E7%BD%AE%EF%BC%8C%E9%80%9A%E5%B8%B8%E8%A6%81%E6%B1%82%E9%99%84%E5%8A%A0">
+		</outline>
+		<outline text="中文对照图。" _mubu_text="%E4%B8%AD%E6%96%87%E5%AF%B9%E7%85%A7%E5%9B%BE%E3%80%82">
+		</outline>
+		<outline text=" 附加必要的特殊文档和个人建议和注解" _mubu_text="%EF%81%AC%20%E9%99%84%E5%8A%A0%E5%BF%85%E8%A6%81%E7%9A%84%E7%89%B9%E6%AE%8A%E6%96%87%E6%A1%A3%E5%92%8C%E4%B8%AA%E4%BA%BA%E5%BB%BA%E8%AE%AE%E5%92%8C%E6%B3%A8%E8%A7%A3">
+		</outline>
+		<outline text="如果打开某个特殊的文档而产生的缺陷或缺陷，则必须附加该文档，从而可以迅速再现缺陷或缺" _mubu_text="%E5%A6%82%E6%9E%9C%E6%89%93%E5%BC%80%E6%9F%90%E4%B8%AA%E7%89%B9%E6%AE%8A%E7%9A%84%E6%96%87%E6%A1%A3%E8%80%8C%E4%BA%A7%E7%94%9F%E7%9A%84%E7%BC%BA%E9%99%B7%E6%88%96%E7%BC%BA%E9%99%B7%EF%BC%8C%E5%88%99%E5%BF%85%E9%A1%BB%E9%99%84%E5%8A%A0%E8%AF%A5%E6%96%87%E6%A1%A3%EF%BC%8C%E4%BB%8E%E8%80%8C%E5%8F%AF%E4%BB%A5%E8%BF%85%E9%80%9F%E5%86%8D%E7%8E%B0%E7%BC%BA%E9%99%B7%E6%88%96%E7%BC%BA">
+		</outline>
+		<outline text="陷。有时，为了使缺陷或缺陷修正者进一步明确缺陷或缺陷的表现，可以附加个人的修改建议或" _mubu_text="%E9%99%B7%E3%80%82%E6%9C%89%E6%97%B6%EF%BC%8C%E4%B8%BA%E4%BA%86%E4%BD%BF%E7%BC%BA%E9%99%B7%E6%88%96%E7%BC%BA%E9%99%B7%E4%BF%AE%E6%AD%A3%E8%80%85%E8%BF%9B%E4%B8%80%E6%AD%A5%E6%98%8E%E7%A1%AE%E7%BC%BA%E9%99%B7%E6%88%96%E7%BC%BA%E9%99%B7%E7%9A%84%E8%A1%A8%E7%8E%B0%EF%BC%8C%E5%8F%AF%E4%BB%A5%E9%99%84%E5%8A%A0%E4%B8%AA%E4%BA%BA%E7%9A%84%E4%BF%AE%E6%94%B9%E5%BB%BA%E8%AE%AE%E6%88%96">
+		</outline>
+		<outline text="注解。" _mubu_text="%E6%B3%A8%E8%A7%A3%E3%80%82">
+		</outline>
+		<outline text="12) 检查拼写和语法缺陷" _mubu_text="12)%20%E6%A3%80%E6%9F%A5%E6%8B%BC%E5%86%99%E5%92%8C%E8%AF%AD%E6%B3%95%E7%BC%BA%E9%99%B7">
+		</outline>
+		<outline text="在提交每条缺陷或缺陷之前，检查拼写和语法，确保内容正确，正确的描述缺陷。" _mubu_text="%E5%9C%A8%E6%8F%90%E4%BA%A4%E6%AF%8F%E6%9D%A1%E7%BC%BA%E9%99%B7%E6%88%96%E7%BC%BA%E9%99%B7%E4%B9%8B%E5%89%8D%EF%BC%8C%E6%A3%80%E6%9F%A5%E6%8B%BC%E5%86%99%E5%92%8C%E8%AF%AD%E6%B3%95%EF%BC%8C%E7%A1%AE%E4%BF%9D%E5%86%85%E5%AE%B9%E6%AD%A3%E7%A1%AE%EF%BC%8C%E6%AD%A3%E7%A1%AE%E7%9A%84%E6%8F%8F%E8%BF%B0%E7%BC%BA%E9%99%B7%E3%80%82">
+		</outline>
+		<outline text="13) 尽量使用短语和短句，避免复杂句型句式" _mubu_text="13)%20%E5%B0%BD%E9%87%8F%E4%BD%BF%E7%94%A8%E7%9F%AD%E8%AF%AD%E5%92%8C%E7%9F%AD%E5%8F%A5%EF%BC%8C%E9%81%BF%E5%85%8D%E5%A4%8D%E6%9D%82%E5%8F%A5%E5%9E%8B%E5%8F%A5%E5%BC%8F">
+		</outline>
+		<outline text="软件缺陷管理数据库的目的是便于定位缺陷，因此，要求客观的描述操作步骤，不需要修饰性的" _mubu_text="%E8%BD%AF%E4%BB%B6%E7%BC%BA%E9%99%B7%E7%AE%A1%E7%90%86%E6%95%B0%E6%8D%AE%E5%BA%93%E7%9A%84%E7%9B%AE%E7%9A%84%E6%98%AF%E4%BE%BF%E4%BA%8E%E5%AE%9A%E4%BD%8D%E7%BC%BA%E9%99%B7%EF%BC%8C%E5%9B%A0%E6%AD%A4%EF%BC%8C%E8%A6%81%E6%B1%82%E5%AE%A2%E8%A7%82%E7%9A%84%E6%8F%8F%E8%BF%B0%E6%93%8D%E4%BD%9C%E6%AD%A5%E9%AA%A4%EF%BC%8C%E4%B8%8D%E9%9C%80%E8%A6%81%E4%BF%AE%E9%A5%B0%E6%80%A7%E7%9A%84">
+		</outline>
+		<outline text="词汇和复杂的句型，增强可读性。" _mubu_text="%E8%AF%8D%E6%B1%87%E5%92%8C%E5%A4%8D%E6%9D%82%E7%9A%84%E5%8F%A5%E5%9E%8B%EF%BC%8C%E5%A2%9E%E5%BC%BA%E5%8F%AF%E8%AF%BB%E6%80%A7%E3%80%82">
+		</outline>
+		<outline text="以上概括了报告测试缺陷的规范要求，随着软件的测试要求不同，测试者经过长期测试，积累了" _mubu_text="%E4%BB%A5%E4%B8%8A%E6%A6%82%E6%8B%AC%E4%BA%86%E6%8A%A5%E5%91%8A%E6%B5%8B%E8%AF%95%E7%BC%BA%E9%99%B7%E7%9A%84%E8%A7%84%E8%8C%83%E8%A6%81%E6%B1%82%EF%BC%8C%E9%9A%8F%E7%9D%80%E8%BD%AF%E4%BB%B6%E7%9A%84%E6%B5%8B%E8%AF%95%E8%A6%81%E6%B1%82%E4%B8%8D%E5%90%8C%EF%BC%8C%E6%B5%8B%E8%AF%95%E8%80%85%E7%BB%8F%E8%BF%87%E9%95%BF%E6%9C%9F%E6%B5%8B%E8%AF%95%EF%BC%8C%E7%A7%AF%E7%B4%AF%E4%BA%86">
+		</outline>
+		<outline text="相应的测试经验，将会逐渐养成良好的专业习惯，不断补充新的规范书写要求。此外，经常阅读" _mubu_text="%E7%9B%B8%E5%BA%94%E7%9A%84%E6%B5%8B%E8%AF%95%E7%BB%8F%E9%AA%8C%EF%BC%8C%E5%B0%86%E4%BC%9A%E9%80%90%E6%B8%90%E5%85%BB%E6%88%90%E8%89%AF%E5%A5%BD%E7%9A%84%E4%B8%93%E4%B8%9A%E4%B9%A0%E6%83%AF%EF%BC%8C%E4%B8%8D%E6%96%AD%E8%A1%A5%E5%85%85%E6%96%B0%E7%9A%84%E8%A7%84%E8%8C%83%E4%B9%A6%E5%86%99%E8%A6%81%E6%B1%82%E3%80%82%E6%AD%A4%E5%A4%96%EF%BC%8C%E7%BB%8F%E5%B8%B8%E9%98%85%E8%AF%BB">
+		</outline>
+		<outline text="、学习其他测试工程师的测试缺陷报告，结合自己以前的测试缺陷报告进行对比和思考，可以不" _mubu_text="%E3%80%81%E5%AD%A6%E4%B9%A0%E5%85%B6%E4%BB%96%E6%B5%8B%E8%AF%95%E5%B7%A5%E7%A8%8B%E5%B8%88%E7%9A%84%E6%B5%8B%E8%AF%95%E7%BC%BA%E9%99%B7%E6%8A%A5%E5%91%8A%EF%BC%8C%E7%BB%93%E5%90%88%E8%87%AA%E5%B7%B1%E4%BB%A5%E5%89%8D%E7%9A%84%E6%B5%8B%E8%AF%95%E7%BC%BA%E9%99%B7%E6%8A%A5%E5%91%8A%E8%BF%9B%E8%A1%8C%E5%AF%B9%E6%AF%94%E5%92%8C%E6%80%9D%E8%80%83%EF%BC%8C%E5%8F%AF%E4%BB%A5%E4%B8%8D">
+		</outline>
+		<outline text="断提高技巧。" _mubu_text="%E6%96%AD%E6%8F%90%E9%AB%98%E6%8A%80%E5%B7%A7%E3%80%82">
+		</outline>
+		<outline text="14) 缺陷描述内容" _mubu_text="14)%20%E7%BC%BA%E9%99%B7%E6%8F%8F%E8%BF%B0%E5%86%85%E5%AE%B9">
+		</outline>
+		<outline text="缺陷描述的内容可以包含缺陷操作步骤，实际结果和期望结果。操作步骤可以方便开发人员再现" _mubu_text="%E7%BC%BA%E9%99%B7%E6%8F%8F%E8%BF%B0%E7%9A%84%E5%86%85%E5%AE%B9%E5%8F%AF%E4%BB%A5%E5%8C%85%E5%90%AB%E7%BC%BA%E9%99%B7%E6%93%8D%E4%BD%9C%E6%AD%A5%E9%AA%A4%EF%BC%8C%E5%AE%9E%E9%99%85%E7%BB%93%E6%9E%9C%E5%92%8C%E6%9C%9F%E6%9C%9B%E7%BB%93%E6%9E%9C%E3%80%82%E6%93%8D%E4%BD%9C%E6%AD%A5%E9%AA%A4%E5%8F%AF%E4%BB%A5%E6%96%B9%E4%BE%BF%E5%BC%80%E5%8F%91%E4%BA%BA%E5%91%98%E5%86%8D%E7%8E%B0">
+		</outline>
+		<outline text="缺陷进行修正，有些开发的再现缺陷能力很差，虽然他明白你所指的缺陷，但就是无法再现特别" _mubu_text="%E7%BC%BA%E9%99%B7%E8%BF%9B%E8%A1%8C%E4%BF%AE%E6%AD%A3%EF%BC%8C%E6%9C%89%E4%BA%9B%E5%BC%80%E5%8F%91%E7%9A%84%E5%86%8D%E7%8E%B0%E7%BC%BA%E9%99%B7%E8%83%BD%E5%8A%9B%E5%BE%88%E5%B7%AE%EF%BC%8C%E8%99%BD%E7%84%B6%E4%BB%96%E6%98%8E%E7%99%BD%E4%BD%A0%E6%89%80%E6%8C%87%E7%9A%84%E7%BC%BA%E9%99%B7%EF%BC%8C%E4%BD%86%E5%B0%B1%E6%98%AF%E6%97%A0%E6%B3%95%E5%86%8D%E7%8E%B0%E7%89%B9%E5%88%AB">
+		</outline>
+		<outline text="是对系统不熟悉的新加入开发人员，介绍步骤可以方便他们再现。实际结果可以让开发明白错误" _mubu_text="%E6%98%AF%E5%AF%B9%E7%B3%BB%E7%BB%9F%E4%B8%8D%E7%86%9F%E6%82%89%E7%9A%84%E6%96%B0%E5%8A%A0%E5%85%A5%E5%BC%80%E5%8F%91%E4%BA%BA%E5%91%98%EF%BC%8C%E4%BB%8B%E7%BB%8D%E6%AD%A5%E9%AA%A4%E5%8F%AF%E4%BB%A5%E6%96%B9%E4%BE%BF%E4%BB%96%E4%BB%AC%E5%86%8D%E7%8E%B0%E3%80%82%E5%AE%9E%E9%99%85%E7%BB%93%E6%9E%9C%E5%8F%AF%E4%BB%A5%E8%AE%A9%E5%BC%80%E5%8F%91%E6%98%8E%E7%99%BD%E9%94%99%E8%AF%AF">
+		</outline>
+		<outline text="是什么，期望结果可以让开发了解正确的结果应该是如何。" _mubu_text="%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%8C%E6%9C%9F%E6%9C%9B%E7%BB%93%E6%9E%9C%E5%8F%AF%E4%BB%A5%E8%AE%A9%E5%BC%80%E5%8F%91%E4%BA%86%E8%A7%A3%E6%AD%A3%E7%A1%AE%E7%9A%84%E7%BB%93%E6%9E%9C%E5%BA%94%E8%AF%A5%E6%98%AF%E5%A6%82%E4%BD%95%E3%80%82">
+		</outline>
+		</outline>
+		<outline text="C3" _mubu_text="C3">
+		<outline text="提交commit->确认confirm->分配->修复->验证->关闭" _mubu_text="%E6%8F%90%E4%BA%A4commit-&amp;gt;%E7%A1%AE%E8%AE%A4confirm-&amp;gt;%E5%88%86%E9%85%8D-&amp;gt;%E4%BF%AE%E5%A4%8D-&amp;gt;%E9%AA%8C%E8%AF%81-&amp;gt;%E5%85%B3%E9%97%AD">
+		</outline>
+		</outline>
+		</outline>
+		<outline text="你的答案" _mubu_text="%E4%BD%A0%E7%9A%84%E7%AD%94%E6%A1%88">
+		<outline text="" _mubu_text="">
+		</outline>
+		</outline>
+		<outline text="代码" _mubu_text="%E4%BB%A3%E7%A0%81">
+		</outline>
+		</outline>
+		</outline>
+		<outline text="技能定位" _mubu_text="%E6%8A%80%E8%83%BD%E5%AE%9A%E4%BD%8D">
+		<outline text="python的基础学习和使用" _mubu_text="python%E7%9A%84%E5%9F%BA%E7%A1%80%E5%AD%A6%E4%B9%A0%E5%92%8C%E4%BD%BF%E7%94%A8">
+		</outline>
+		<outline text="抓包工具的charles的基础使用" _mubu_text="%E6%8A%93%E5%8C%85%E5%B7%A5%E5%85%B7%E7%9A%84charles%E7%9A%84%E5%9F%BA%E7%A1%80%E4%BD%BF%E7%94%A8">
+		</outline>
+		<outline text="sql的语法" _mubu_text="sql%E7%9A%84%E8%AF%AD%E6%B3%95">
+		</outline>
+		<outline text="http的基础认识和问题定位探究" _mubu_text="http%E7%9A%84%E5%9F%BA%E7%A1%80%E8%AE%A4%E8%AF%86%E5%92%8C%E9%97%AE%E9%A2%98%E5%AE%9A%E4%BD%8D%E6%8E%A2%E7%A9%B6">
+		</outline>
+		</outline>
+	</body>
+</opml>
